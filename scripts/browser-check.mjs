@@ -52,7 +52,9 @@ try{
   await action('.primary-button');await waitFor(async()=>(await personal(page)).opens.length===1);
   await action('.thumbnail');await waitFor(async()=>(await personal(page)).opens.length===2);
   let data=await personal(page);assert.equal(data.bookmarks.length,0);assert.equal(data.uses.length,0);assert.equal(data.ratings.length,0);
-  await page.getByRole('link',{name:'History',exact:true}).click();await page.getByRole('button',{name:'Frequent',exact:true}).click();assert.equal(await page.locator('.video-card').count(),1);
+  await page.getByRole('link',{name:'History',exact:true}).click();
+  await page.locator('.skip-link').focus();await page.keyboard.press('Enter');assert.equal(await page.evaluate(()=>document.activeElement.id),'main');assert.match(page.url(),/#history$/);
+  await page.getByRole('button',{name:'Frequent',exact:true}).click();assert.equal(await page.locator('.video-card').count(),1);
   await page.getByRole('button',{name:'Recent',exact:true}).click();await page.getByText('Rate (optional)',{exact:true}).click();await page.getByRole('button',{name:'Made it worse',exact:true}).click();await page.locator('.worse-note').waitFor();
   await page.reload();await page.locator('.worse-note').waitFor();data=await personal(page);assert.equal(data.opens.length,2);assert.equal(data.ratings[0].rating,'worse');
   await page.locator('.rating-editor summary').click();await page.getByRole('button',{name:'Neutral',exact:true}).click();await page.getByRole('button',{name:'Clear rating',exact:true}).click();assert.equal((await personal(page)).ratings[0].rating,null);

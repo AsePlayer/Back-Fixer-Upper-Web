@@ -11,6 +11,7 @@ import { libraryView } from './views/library.js';
 import { historyView } from './views/history.js';
 import { aboutView } from './views/about.js';
 const main=document.querySelector('main');
+document.querySelector('.skip-link').addEventListener('click',event=>{event.preventDefault();main.focus();});
 const repo=new Repository();await repo.initialize();
 const app={repo,catalog:new Catalog(repo),route:'find',expanded:new Set(),ratingEditors:new Set(),
   state:{find:{filters:defaultFilters(),bodyView:'back',limit:12,scroll:0},library:{filters:defaultFilters(),limit:12,scroll:0},history:{filters:{...defaultFilters(),sort:'personal'},view:'recent',limit:12,scroll:0,scrolls:{}}},
