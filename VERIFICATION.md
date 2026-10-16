@@ -1,6 +1,6 @@
 # CB-WEB01 verification
 
-Implemented in the supplied new **Health Stretch App** workspace, package `back-fixer-upper-web`. Original application and portfolio remain untouched. No original repository is configured as a push destination.
+Implemented in the supplied new **Health Stretch App** workspace, package `back-fixer-upper-web`. The original Expo application remains untouched. The separate **Portfolio 2.0** checkout now includes the requested Projects integration; no push or live deployment was performed. No original repository is configured as this app's push destination.
 
 ## Snapshot and data
 
@@ -19,6 +19,8 @@ The actual original schema-4 exporter was inspected, including top-level collect
 Find/History/Library are semantic DOM views with hash navigation. The original SVG geometry is adapted; all 23 named buttons remain keyboard accessible. Search semantics match the reachable source UI (description search was not supported there). Cards render in batches of 12, with lazy thumbnails and expandable full source details. The compact index is about 1.34 MB, downloaded separately; initial browser JavaScript is about **46 KB uncompressed / 17 KB gzip**, with no bundled full audit catalog or Node/native ingestion code. Full validated detail chunks warm in the background after initial rendering for offline use.
 
 ## Checks executed
+
+- Portfolio follow-up: the actual **Portfolio 2.0** checkout passes its **20 existing tests**, build and artifact validation with the full app included under `/projects/stretch-finder/`. The compact card, keyboard activation, full-app loading, Portfolio return link, no-JavaScript card, trailing-slash redirect, no overflow at 360/768/960/1280 px, offline app reopen and service-worker scope were verified using installed Chrome against the prepared integration. No runtime page errors. Both pages in the actual checkout return HTTP 200 on the running local preview. The sync helper also refused an unowned directory and preserved its contents. Evidence is in ignored `artifacts/portfolio-integration-acceptance.json` and portfolio screenshots. These checks do not claim a hosted workflow or public deployment.
 
 - Clean local clone of implementation commit `8352780`: `npm ci --offline --no-audit --no-fund`, followed by the complete verification/browser/cache audit, passed with `YT_DLP_PATH` deliberately unavailable and without `.migration/` or the old PC's ignored cache. Its Git working tree remained clean. A subsequent skip-link accessibility fix was built and passed browser acceptance, including Enter-to-main focus while keeping the History route.
 - `npm run verify`: **25 focused tests**, catalog/chunk validation, production build and public-artifact checks. Covers baseline ID/metadata parity, region/unclassified access, history independence and thresholds, reload/cross-tab persistence, repeat-safe legacy import/rollback, pinned/duplicate/removed high-water cases, interrupted enrichment, empty/truncated/throttled/full failure guards, rotating stale metadata, null preservation, offline determinism/source immutability, candidate rejection, no-op output and allowlisted Git writer behavior.
@@ -43,12 +45,12 @@ Browser handoffs were intercepted after verifying exact canonical YouTube URLs. 
 | Local repository commit | Recorded with the delivery; see `git log` |
 | GitHub destination/push | No remote configured; not pushed |
 | Hosted GitHub Actions execution | Not run; cannot claim hosted YouTube extraction succeeds |
-| Pages environment/account activation | Requires setup in the isolated new repository |
+| Pages environment/account activation | Portfolio Pages is the selected host; separate app Pages is skipped with `HOSTING_TARGET=portfolio` |
 | Deployment/live URL | Not deployed; no verified URL |
-| Portfolio | Inspected; compatible snippet supplied; not modified |
+| Portfolio | Compact Projects card and generated app applied in local Portfolio 2.0 checkout; checks passed; uncommitted/unpushed |
 | Physical iPhone/Safari | Not tested |
 
-The exact remaining GitHub steps are in [AUTOMATION.md](AUTOMATION.md): connect a new repository, push the default branch, enable Actions/write permissions as permitted, select Pages' Actions source, permit the branch in `github-pages`, run manual deploy and dry-run/update, and verify its returned URL/source SHA. Private-repository Pages entitlement or environment protection may require account-owner setup. No visibility or plan changes were made. [PORTFOLIO_INTEGRATION.md](PORTFOLIO_INTEGRATION.md) names the inspected portfolio SHA/domain and supplies `docs/portfolio-embed.html` with an explicit URL placeholder until deployment succeeds.
+The remaining GitHub steps are in [AUTOMATION.md](AUTOMATION.md) and [PORTFOLIO_INTEGRATION.md](PORTFOLIO_INTEGRATION.md): connect and push the separate public app repository, enable its content writer, set its `HOSTING_TARGET=portfolio`, set `STRETCH_FINDER_REPOSITORY` in Portfolio-2.0, then commit/push and deploy the complete portfolio. The selected public path is `https://ryanscott.org/projects/stretch-finder/`; it has not been verified live. Standalone hosting remains available as an alternative. No visibility, account settings or plan changes were made by the local integration.
 
 ## Changed/new files
 

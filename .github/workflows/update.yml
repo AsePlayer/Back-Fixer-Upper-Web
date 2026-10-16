@@ -80,7 +80,7 @@ jobs:
           exit 1
   pages:
     needs: writer
-    if: ${{ !inputs.dry_run && needs.writer.result == 'success' }}
+    if: ${{ !inputs.dry_run && needs.writer.result == 'success' && vars.HOSTING_TARGET != 'portfolio' }}
     permissions:
       contents: read
       pages: write

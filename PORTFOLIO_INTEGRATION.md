@@ -1,21 +1,50 @@
 # Portfolio integration
 
-Inspected `AsePlayer/Portfolio-2.0` default-branch snapshot **`f8b7c4eeb294baebfe75a8805e79109df8212d67`**. Its current `CNAME` is **ryanscott.org**. The existing `.github/workflows/pages.yml` builds and deploys the entire portfolio from `main`. Node `scripts/build.mjs` renders `data/site.json` and `templates/index.html` into the generated root `index.html` and public `dist/`. Styles live in `css/styles.css`; the existing reusable classes include `section`, `container`, `section-intro` and `btn`. The content schema deliberately requires exactly three capability areas, so adding a new category to its JSON is inappropriate for this small integration.
+The chosen public URL is **https://ryanscott.org/projects/stretch-finder/**. The portfolio shows a compact **Projects → Back-Fixer-Upper** launch card. Clicking it opens the full app on the same site; the app's **← Portfolio** link returns to the Projects section.
 
-The portfolio has **not** been edited or redeployed. Its domain and existing Pages workflow are untouched. This app’s deployment URL is **not yet verified** because the new workspace has no remote/Pages activation. `__APP_DEPLOYMENT_URL__` is an explicit placeholder, not a live URL.
+## Where to edit
 
-Default integration: deploy this new repository as its own Pages project. After **Deploy committed site** succeeds, copy the literal `page_url` output, open it and verify `build-commit.json` and the app. Use that URL in [docs/portfolio-embed.html](docs/portfolio-embed.html). Its visible **Open full screen** link is the minimal launch integration; the accessible titled responsive iframe is optional. Current styling is inherited from the portfolio’s existing classes; the iframe is full-width with a useful 900 px/75 vh mobile height.
+| Change | Source project and file |
+| --- | --- |
+| Portfolio copy, project title, description, technologies or link | `D:\Coding\Github\Portfolio 2.0\data\site.json` → `projects` |
+| Project card appearance | `D:\Coding\Github\Portfolio 2.0\css\styles.css` → `.project-*` |
+| Stretch app screens, styling, body diagram, history and storage | **This project** → `src/` |
+| Creator settings and catalog tooling | **This project** → `content/`, `tools/`, `scripts/` |
+| Generated app that the portfolio publishes | `Portfolio 2.0/projects/stretch-finder/` — regenerate it from here |
 
-To apply, replace **both** placeholder occurrences with the verified HTTPS app URL, then paste the snippet into the portfolio’s **`templates/index.html` immediately after `{{content}}` inside `<main>`**. For link-only integration, omit the iframe and its storage paragraph. Do not hand-edit generated `index.html` and do not replace `CNAME` or its workflow. In the portfolio checkout run its documented checks:
+Keep working on the app here. The portfolio receives only generated static HTML/CSS/JS/JSON; it does not receive a second editable copy of the app source or ingestion tooling.
+
+## Refresh and preview
+
+From **Health Stretch App**:
+
+```sh
+npm run portfolio:sync
+```
+
+This builds and refreshes only the owned `projects/stretch-finder/` directory in the sibling **Portfolio 2.0** checkout. For another location: `npm run portfolio:sync -- --portfolio "path/to/Portfolio 2.0"`. Windows PowerShell can use `npm.cmd`.
+
+From **Portfolio 2.0**:
 
 ```sh
 node --test scripts/site.test.mjs
 node scripts/build.mjs
 node scripts/validate-site.mjs
+node scripts/serve.mjs
 ```
 
-Review the added section at desktop/mobile widths, commit the changed template and generated root HTML in **Portfolio-2.0**, and let its existing deployment publish the complete portfolio. If its fixed-section checks need adjustment, update only the expected added section and keep the three capability categories intact. This task supplies the ready-to-apply snippet; no cross-repository write is attempted.
+Open **http://127.0.0.1:8000/#projects**, then click the project card. The whole app is served from **http://127.0.0.1:8000/projects/stretch-finder/**. Both pages use one local server. The separate `npm run dev` command in this app remains useful for app development.
 
-The portfolio iframe always loads the current independently deployed app, so there is no daily copying or second content writer. Browser data belongs to the app’s actual origin, not the enclosing portfolio. Third-party iframe privacy/partitioning rules can limit persistence; full-screen use is the reliable fallback. Database names are namespaced even when projects share an origin. No frame-denying or cross-origin-isolation policy is added by this app. Its worker registers relative to its own folder and cannot control the portfolio outside that folder; nested-path scope was checked locally.
+The helper stages new files before replacing the prior generated app and refuses a directory without its ownership marker. It adds the portfolio return link and recomputes the service-worker shell version. Existing body-area hash links, relative assets, IndexedDB storage and scoped offline shell work at the nested path. The worker stays inside `/projects/stretch-finder/`; it cannot control the portfolio home page. Personal data on localhost and ryanscott.org remains separate; export/import can move it.
 
-Optional later alternative: copy this static `dist/` into the portfolio build at `/back-fixer-upper/`, then deploy the **whole portfolio together**. Relative URLs/hash navigation support that location, and the worker remains scoped there. Do not select this alternative alongside the independent deployment by accident: keeping copied content current would require an explicitly authenticated cross-repository update mechanism. The new repository’s `GITHUB_TOKEN` cannot be assumed to write Portfolio-2.0. No competing second production pipeline is implemented in this milestone.
+## Publish and keep updates flowing
+
+Review and commit the portfolio changes, generated root `index.html`, and `projects/stretch-finder/` snapshot in **Portfolio-2.0**. Its existing Pages workflow publishes the entire portfolio and preserves `CNAME` (`ryanscott.org`). There is one deployment for this domain.
+
+For unattended catalog publication, first put this app in its own **public** GitHub repository and enable its existing content-update workflow as described in [AUTOMATION.md](AUTOMATION.md). Set the app repository's Actions variable **`HOSTING_TARGET=portfolio`** to skip its standalone Pages deployment; its catalog writer still runs. In **Portfolio-2.0**, set the Actions repository variable **`STRETCH_FINDER_REPOSITORY`** to that exact `owner/repository` name. The prepared portfolio workflow then checks out the latest app source, builds from its committed catalog, and includes it in every portfolio deployment. It runs on portfolio pushes, manual dispatch, and daily **17:17 UTC**, one hour after the app's **16:17 UTC** source-update schedule. It never scans YouTube itself or writes to the app repository. A public source repository needs no additional write token or standalone Pages site.
+
+Without that variable, pushes/manual deployments use the checked-in app snapshot and the new daily run is skipped. A failed fetch/build leaves the working portfolio live. If a source update finishes late, the next portfolio run picks it up; manually run the portfolio deployment for a quicker refresh. Hosting the app independently does not refresh the portfolio copy.
+
+The local **Portfolio 2.0** checkout was inspected at `f8b7c4eeb294baebfe75a8805e79109df8212d67` and then edited for this integration. Its three capability categories and nine professional examples are retained; Projects is a separate section. Local integration is implemented; the new app remote, Actions variable, pushes and live URL activation have not been configured or verified by these file changes.
+
+An inline iframe is optional if you later want the app visible directly inside a portfolio section; [docs/portfolio-embed.html](docs/portfolio-embed.html) shows same-origin markup. The compact card is the implemented default.
