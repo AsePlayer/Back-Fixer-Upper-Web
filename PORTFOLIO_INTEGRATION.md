@@ -1,6 +1,6 @@
 # Portfolio integration
 
-The chosen public URL is **https://ryanscott.org/projects/stretch-finder/**. The portfolio shows a compact **Projects → Back-Fixer-Upper** launch card. Clicking it opens the full app on the same site; the app's **← Portfolio** link returns to the Projects section.
+The live public URL is **https://ryanscott.org/projects/stretch-finder/**, verified October 16, 2026. The portfolio shows a compact **Projects → Back-Fixer-Upper** launch card. Clicking it opens the full app on the same site; the app's **← Portfolio** link returns to the Projects section.
 
 ## Where to edit
 
@@ -45,6 +45,6 @@ For unattended catalog publication, first put this app in its own **public** Git
 
 Without that variable, pushes/manual deployments use the checked-in app snapshot and the new daily run is skipped. A failed fetch/build leaves the working portfolio live. If a source update finishes late, the next portfolio run picks it up; manually run the portfolio deployment for a quicker refresh. Hosting the app independently does not refresh the portfolio copy.
 
-The local **Portfolio 2.0** checkout was inspected at `f8b7c4eeb294baebfe75a8805e79109df8212d67` and then edited for this integration. Its three capability categories and nine professional examples are retained; Projects is a separate section. Local integration is implemented; the new app remote, Actions variable, pushes and live URL activation have not been configured or verified by these file changes.
+The local **Portfolio 2.0** checkout was inspected at `f8b7c4eeb294baebfe75a8805e79109df8212d67` and then edited for this integration. Its three capability categories and nine professional examples are retained; Projects is a separate section. The app source is pushed to **AsePlayer/Back-Fixer-Upper-Web**, both Actions variables above are configured, and the [first portfolio deployment](https://github.com/AsePlayer/Portfolio-2.0/actions/runs/38973850607) succeeded. Live Chrome checks passed for the launch/return links, catalog integrity, desktop/mobile layout, service-worker scope and offline app reopening. See VERIFICATION.md for hosted update evidence.
 
 An inline iframe is optional if you later want the app visible directly inside a portfolio section; [docs/portfolio-embed.html](docs/portfolio-embed.html) shows same-origin markup. The compact card is the implemented default.

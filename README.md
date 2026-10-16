@@ -1,5 +1,7 @@
 # Back-Fixer-Upper Web
 
+**Live app:** [ryanscott.org/projects/stretch-finder/](https://ryanscott.org/projects/stretch-finder/) · **Source:** [AsePlayer/Back-Fixer-Upper-Web](https://github.com/AsePlayer/Back-Fixer-Upper-Web)
+
 A standalone, responsive stretch-video finder built with HTML, CSS and browser JavaScript. Pick a body area, open the original YouTube video, revisit History, and optionally save or rate it later. The migrated catalog contains **1,308 Dr. Rowe entries: 699 videos and 609 Shorts**, with all 23 body areas and 178 unclassified entries available. These are the inspected snapshot counts; later source updates can increase them.
 
 **Where to edit:** change this app in **Health Stretch App**. Change its portfolio card in **Portfolio 2.0 → `data/site.json` → `projects`**. Run `npm run portfolio:sync` here to build and refresh the generated app in `Portfolio 2.0/projects/stretch-finder/`. The portfolio serves it at `/projects/stretch-finder/`. [PORTFOLIO_INTEGRATION.md](PORTFOLIO_INTEGRATION.md) explains local preview, publishing and automatic updates.
@@ -48,4 +50,4 @@ Source commands need the separately installed pinned yt-dlp `2026.06.09`; the we
 
 See [AUTOMATION.md](AUTOMATION.md) for setup, bounded retries, protected-branch recovery, manual retry and disabling the schedule; [content/README.md](content/README.md) for cache/classification details; [MIGRATION.md](MIGRATION.md) for source SHA, reuse decisions and storage contract; [PORTFOLIO_INTEGRATION.md](PORTFOLIO_INTEGRATION.md) for the inspected portfolio and ready-to-apply integration; and [VERIFICATION.md](VERIFICATION.md) for exact execution evidence and remaining activation steps.
 
-This is an educational subject browser. Creator claims are source text, not app promises or personalized advice. The original Expo project is untouched. The separate Portfolio 2.0 checkout has the Projects integration described above. This workspace has no remote configured, so scheduling and publishing still require GitHub setup; YAML alone does not activate hosting.
+This is an educational subject browser. Creator claims are source text, not app promises or personalized advice. The original Expo project is untouched. The app and portfolio are pushed to their separate repositories. GitHub Pages deployment and live desktop/mobile browser checks passed on October 16, 2026. The app's `HOSTING_TARGET=portfolio` and the portfolio's `STRETCH_FINDER_REPOSITORY=AsePlayer/Back-Fixer-Upper-Web` are configured for scheduled updates through the existing portfolio domain. See VERIFICATION.md for execution evidence.

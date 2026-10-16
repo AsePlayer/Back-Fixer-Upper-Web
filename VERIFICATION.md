@@ -1,6 +1,6 @@
 # CB-WEB01 verification
 
-Implemented in the supplied new **Health Stretch App** workspace, package `back-fixer-upper-web`. The original Expo application remains untouched. The separate **Portfolio 2.0** checkout now includes the requested Projects integration; no push or live deployment was performed. No original repository is configured as this app's push destination.
+Implemented in the supplied new **Health Stretch App** workspace, package `back-fixer-upper-web`, and pushed to **AsePlayer/Back-Fixer-Upper-Web**. The original Expo application remains untouched. The separate **Portfolio-2.0** repository includes the Projects integration and successfully deployed the complete site. The live app is **https://ryanscott.org/projects/stretch-finder/**, verified October 16, 2026. No original repository is configured as this app's push destination.
 
 ## Snapshot and data
 
@@ -19,6 +19,10 @@ The actual original schema-4 exporter was inspected, including top-level collect
 Find/History/Library are semantic DOM views with hash navigation. The original SVG geometry is adapted; all 23 named buttons remain keyboard accessible. Search semantics match the reachable source UI (description search was not supported there). Cards render in batches of 12, with lazy thumbnails and expandable full source details. The compact index is about 1.34 MB, downloaded separately; initial browser JavaScript is about **46 KB uncompressed / 17 KB gzip**, with no bundled full audit catalog or Node/native ingestion code. Full validated detail chunks warm in the background after initial rendering for offline use.
 
 ## Checks executed
+
+- Hosted [app verification](https://github.com/AsePlayer/Back-Fixer-Upper-Web/actions/runs/38973829607) passed all tests, production build, source audit and desktop/mobile browser acceptance on Ubuntu. Hosted [catalog dry run](https://github.com/AsePlayer/Back-Fixer-Upper-Web/actions/runs/38973876860) passed discovery and validation without a commit or deployment. The [portfolio deployment](https://github.com/AsePlayer/Portfolio-2.0/actions/runs/38973850607) successfully checked out the separate app source, built/synced it, passed portfolio checks and deployed the complete site.
+- The first real hosted [catalog update](https://github.com/AsePlayer/Back-Fixer-Upper-Web/actions/runs/38974009259) succeeded and pushed bot commit **`c46226d`** (`content: successful; 40 records; catalog unchanged`). It refreshed 40 durable source records plus checkpoint/status data, retained all 1,308 entries and the same catalog revision, and advanced `lastSuccessfulSourceCheck` to **2026-10-16 22:09 UTC** (3:09 p.m. Pacific daylight time). Its source audit, tests/build and allowlisted commit step passed. Standalone Pages correctly stayed skipped because Portfolio-2.0 owns hosting.
+- Live `https://ryanscott.org/projects/stretch-finder/` browser acceptance passed: **1,308 entries**, all 23 body areas, manifest index and sampled first/last chunk byte counts/SHA-256 integrity, project launch/return links, Library count, desktop and 360 px mobile viewport, worker scope excluding the portfolio home, offline app reopening, and zero runtime page errors. Initial deployed catalog revision: `4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358`. Evidence is in ignored `artifacts/live-portfolio-acceptance.json`. This was Chrome, not physical iPhone/Safari or YouTube playback.
 
 - Portfolio follow-up: the actual **Portfolio 2.0** checkout passes its **20 existing tests**, build and artifact validation with the full app included under `/projects/stretch-finder/`. The compact card, keyboard activation, full-app loading, Portfolio return link, no-JavaScript card, trailing-slash redirect, no overflow at 360/768/960/1280 px, offline app reopen and service-worker scope were verified using installed Chrome against the prepared integration. No runtime page errors. Both pages in the actual checkout return HTTP 200 on the running local preview. The sync helper also refused an unowned directory and preserved its contents. Evidence is in ignored `artifacts/portfolio-integration-acceptance.json` and portfolio screenshots. These checks do not claim a hosted workflow or public deployment.
 
@@ -43,14 +47,14 @@ Browser handoffs were intercepted after verifying exact canonical YouTube URLs. 
 | Local real YouTube full discovery, validation and public catalog generation | Successfully run |
 | Real new/failed-video metadata enrichment | Not needed in live runs; simulated fixtures tested |
 | Local repository commit | Recorded with the delivery; see `git log` |
-| GitHub destination/push | No remote configured; not pushed |
-| Hosted GitHub Actions execution | Not run; cannot claim hosted YouTube extraction succeeds |
+| GitHub destination/push | App source pushed to AsePlayer/Back-Fixer-Upper-Web; portfolio changes pushed to AsePlayer/Portfolio-2.0 |
+| Hosted GitHub Actions execution | App verification, catalog dry run, real source update/bot push and portfolio build/deployment succeeded; linked above |
 | Pages environment/account activation | Portfolio Pages is the selected host; separate app Pages is skipped with `HOSTING_TARGET=portfolio` |
-| Deployment/live URL | Not deployed; no verified URL |
-| Portfolio | Compact Projects card and generated app applied in local Portfolio 2.0 checkout; checks passed; uncommitted/unpushed |
+| Deployment/live URL | https://ryanscott.org/projects/stretch-finder/ — deployment and live browser checks passed |
+| Portfolio | Compact Projects card and full app committed, pushed and deployed under the existing domain |
 | Physical iPhone/Safari | Not tested |
 
-The remaining GitHub steps are in [AUTOMATION.md](AUTOMATION.md) and [PORTFOLIO_INTEGRATION.md](PORTFOLIO_INTEGRATION.md): connect and push the separate public app repository, enable its content writer, set its `HOSTING_TARGET=portfolio`, set `STRETCH_FINDER_REPOSITORY` in Portfolio-2.0, then commit/push and deploy the complete portfolio. The selected public path is `https://ryanscott.org/projects/stretch-finder/`; it has not been verified live. Standalone hosting remains available as an alternative. No visibility, account settings or plan changes were made by the local integration.
+The GitHub connection and deployment steps in [AUTOMATION.md](AUTOMATION.md) and [PORTFOLIO_INTEGRATION.md](PORTFOLIO_INTEGRATION.md) are configured: the public app repository exists, both repositories are pushed, `HOSTING_TARGET=portfolio` is set in the app repository, and `STRETCH_FINDER_REPOSITORY=AsePlayer/Back-Fixer-Upper-Web` is set in Portfolio-2.0. The source update schedule is 16:17 UTC and the portfolio refresh is 17:17 UTC. The existing custom domain and portfolio Pages environment are preserved; no existing repository visibility or account plan changed. Future provider failures remain possible and leave the last usable catalog live.
 
 ## Changed/new files
 
