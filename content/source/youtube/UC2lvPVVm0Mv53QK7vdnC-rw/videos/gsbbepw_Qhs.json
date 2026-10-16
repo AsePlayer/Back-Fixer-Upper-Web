@@ -1,0 +1,72 @@
+{
+  "youtubeVideoId": "gsbbepw_Qhs",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 691
+    }
+  ],
+  "discoveryRaw": {
+    "id": "gsbbepw_Qhs",
+    "title": "St. Joseph, MI Chiropractor | Dr. Rowe",
+    "duration": 195,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/gsbbepw_Qhs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8Xbm9ttxLyZkdb3a-osXAYtRYFQ"
+  },
+  "metadataRaw": {
+    "id": "gsbbepw_Qhs",
+    "title": "St. Joseph, MI Chiropractor | Dr. Rowe",
+    "description": "Dr. Rowe welcomes you to Spinecare Decompression and Chiropractic Center, located in Saint Joseph, MI. \n\nhttps://www.bestspinecare.com\n\nFacebook: https://www.facebook.com/bestspinecare\n\nTwitter: https://www.twitter.com/stjoechiro\n\nYour local Stevensville, Benton Harbor, and St. Joseph, MI chiropractor. \n\n3134 Niles Rd.\nSt. Joseph, MI 49085",
+    "tags": [
+      "st joseph mi chiropractor",
+      "st joseph mi chiropractic",
+      "chiropractor 49085",
+      "stevensville mi chiropractor",
+      "stevensville mi chiropractic",
+      "benton harbor mi chiropractor",
+      "benton harbor mi chiropractic",
+      "saint joseph mi chiropractor",
+      "saint joseph mi chiropractic",
+      "best chiropractor st joseph mi",
+      "chiropractor",
+      "chiropractic",
+      "back doctor",
+      "st joseph mi",
+      "saint joseph mi",
+      "49085",
+      "michigan",
+      "treatment",
+      "adjustment",
+      "crack",
+      "chiropractor near me",
+      "best"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170423",
+    "timestamp": 1492984532,
+    "duration": 194,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/gsbbepw_Qhs/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:02:18.488Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

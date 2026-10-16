@@ -1,0 +1,74 @@
+{
+  "youtubeVideoId": "KkrwellorsE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 695
+    }
+  ],
+  "discoveryRaw": {
+    "id": "KkrwellorsE",
+    "title": "Stretches for Neck Pain (Shown By St. Joseph, MI Chiropractor)",
+    "duration": 95,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/KkrwellorsE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkKyWJhg5GMXmNOMeFWFTyqNmpJA"
+  },
+  "metadataRaw": {
+    "id": "KkrwellorsE",
+    "title": "Stretches for Neck Pain (Shown By St. Joseph, MI Chiropractor)",
+    "description": "Dr. Rowe demonstrates 3 easy neck stretches to help alleviate tight neck muscles and nagging cervical joint pain. \n\nStevensville | Benton Harbor | St. Joseph MI Chiropractic Center\nhttps://www.bestspinecare.com",
+    "tags": [
+      "Neck Pain",
+      "Cervical Pain",
+      "Neck Stretches",
+      "Text Neck",
+      "Chiropractor St. Joseph MI",
+      "Chiropractic St. Joseph MI",
+      "Chiropractor 49085",
+      "Neck Pain Relief",
+      "neck",
+      "cervical",
+      "stretches",
+      "stretch",
+      "relief",
+      "chiropractor",
+      "how to stretch",
+      "tight",
+      "muscles",
+      "tightness",
+      "sore",
+      "soreness",
+      "ache",
+      "headache",
+      "migraine",
+      "stiff"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170314",
+    "timestamp": 1489453290,
+    "duration": 94,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/KkrwellorsE/sddefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:03:54.136Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

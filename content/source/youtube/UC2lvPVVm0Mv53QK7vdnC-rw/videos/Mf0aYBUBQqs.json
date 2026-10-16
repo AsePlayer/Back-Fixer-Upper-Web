@@ -1,0 +1,60 @@
+{
+  "youtubeVideoId": "Mf0aYBUBQqs",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 693
+    }
+  ],
+  "discoveryRaw": {
+    "id": "Mf0aYBUBQqs",
+    "title": "3 Minute Quick Fix for Mid-Back Pain (Shown by St. Joseph, MI Chiropractor)",
+    "duration": 142,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/Mf0aYBUBQqs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwIe-Ri8ElrTp474xe4hDVdChYYQ"
+  },
+  "metadataRaw": {
+    "id": "Mf0aYBUBQqs",
+    "title": "3 Minute Quick Fix for Mid-Back Pain (Shown by St. Joseph, MI Chiropractor)",
+    "description": "Here is a quick fix for your achy and tight upper back muscles.\n\nDr. Rowe demonstrates a set of super easy stretches to help alleviate stubborn tightness in the upper and mid-back. These stretches can be done at home or the office, or pretty much anywhere!\n\nhttps://www.bestspinecare.com\n269-408-8439\n\nStevensville | Benton Harbor | St. Joseph MI Chiropractic Center",
+    "tags": [
+      "st joseph mi chiropractor",
+      "st joseph mi chiropractic",
+      "49085 chiropractor",
+      "49085 chiropractic",
+      "back stretches",
+      "back exercises",
+      "back pain relief",
+      "upper back pain",
+      "middle back pain",
+      "mid-back pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170323",
+    "timestamp": 1490292965,
+    "duration": 141,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/Mf0aYBUBQqs/sddefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:08:38.904Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "youtubeVideoId": "OExFO5lmnTE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 679
+    }
+  ],
+  "discoveryRaw": {
+    "id": "OExFO5lmnTE",
+    "title": "Foot Drop Treatment and Relief (St. Joseph MI Chiropractor)",
+    "duration": 73,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/OExFO5lmnTE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPBH15pBh9Z2ErbwxxJEEvYiW1Qg"
+  },
+  "metadataRaw": {
+    "id": "OExFO5lmnTE",
+    "title": "Foot Drop Treatment and Relief (St. Joseph MI Chiropractor)",
+    "description": "Shawn came to SpineCare in St. Joseph, MI looking for foot drop treatment and relief from a lumbar pinched nerve. He was also suffering from numbness and tingling in his ankle and foot.\n\nAfter a series of Spinal Decompression Therapy and chiropractic treatments, his foot drop, numbness, tingling, and gait have significantly improved. \n\n\"It definitely seems to be helping. I would recommend him (Dr.Rowe) if you have drop foot and if you're wondering what to do about it.\" \n\nLearn more about our treatments at: https://www.bestspinecare.com\n\n3134 Niles Rd  Saint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to my YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor",
+    "tags": [
+      "foot drop",
+      "foot drop treatment",
+      "foot drop causes",
+      "what is drop foot",
+      "foot drop syndrome",
+      "drop foot",
+      "dropped foot",
+      "drop foot treatment",
+      "drop foot causes",
+      "what is foot drop",
+      "drop foot syndrome",
+      "lumbar",
+      "lumbar pinched nerve",
+      "foot drop gait",
+      "foot drop relief",
+      "drop foot relief",
+      "foot drop cure",
+      "drop foot cure",
+      "st joseph mi chiropractor",
+      "chiropractor",
+      "spinal decompression therapy",
+      "saint joseph michigan",
+      "49085",
+      "chiropractic"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170916",
+    "timestamp": 1505570768,
+    "duration": 73,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/OExFO5lmnTE/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:12:26.482Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

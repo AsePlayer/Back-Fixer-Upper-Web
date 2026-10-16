@@ -1,0 +1,15 @@
+{
+  "metadataWorkers": 1,
+  "requestDelayMs": 5000,
+  "enrichmentLimit": 100,
+  "knownStreak": 20,
+  "recentRefreshCount": 5,
+  "recentFreshnessHours": 24,
+  "staleDays": 30,
+  "fullEveryDays": 7,
+  "discoveryTimeoutMs": 180000,
+  "metadataTimeoutMs": 60000,
+  "runBudgetMs": 1200000,
+  "minimumFullInventoryRatio": 0.8,
+  "ytDlpVersion": "2026.06.09"
+}

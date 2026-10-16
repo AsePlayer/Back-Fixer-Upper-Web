@@ -1,0 +1,70 @@
+{
+  "youtubeVideoId": "pO44njOyeqg",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 156
+    }
+  ],
+  "discoveryRaw": {
+    "id": "pO44njOyeqg",
+    "title": "Fix a Runny Nose in Seconds",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/pO44njOyeqg/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDmKAOXUGsYiNBQvFmfTEuWFCoiHQ&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "pO44njOyeqg",
+    "title": "Fix a Runny Nose in Seconds",
+    "description": "Dr. Rowe demonstrates a quick, easy technique to help stop a runny nose in seconds.\n\nThis simple method works by applying gentle pressure and movement to specific areas of the face and sinuses, which can help open nasal passages, reduce inflammation, and relieve excess mucus buildup. It’s especially helpful for easing symptoms caused by seasonal allergies, sinus congestion, or the common cold.\n\nTry it out and let us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#runnynose #congestion #sinuses",
+    "tags": [
+      "how to instantly fix a runny nose",
+      "how to fix a runny nose fast",
+      "how to fix a runny nose",
+      "how to get rid of a runny nose",
+      "how to stop a runny nose",
+      "how to stop a runny nose instantly",
+      "how to fix a runny nose instantly",
+      "runny nose",
+      "runny nose remedy",
+      "runny nose relief",
+      "what to do for a runny nose",
+      "how to cure a runny nose",
+      "nose congestion",
+      "congestion",
+      "nasal congestion",
+      "how to stop runny nose immediately",
+      "nose wont stop running",
+      "nose running",
+      "fix nose running",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250514",
+    "timestamp": 1747229445,
+    "duration": 135,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/pO44njOyeqg/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:21:17.239Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

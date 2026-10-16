@@ -1,0 +1,72 @@
+{
+  "youtubeVideoId": "w4EUi7XcVmA",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 698
+    }
+  ],
+  "discoveryRaw": {
+    "id": "w4EUi7XcVmA",
+    "title": "Best Position to Sleep with Sciatica Pain Shown by St. Joseph MI Chiropractor",
+    "duration": 132,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/w4EUi7XcVmA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAceKByN7e4ph7rlFAE7BAvBGchSw"
+  },
+  "metadataRaw": {
+    "id": "w4EUi7XcVmA",
+    "title": "Best Position to Sleep with Sciatica Pain Shown by St. Joseph MI Chiropractor",
+    "description": "https://www.bestspinecare.com \n\nIn this quick video, Dr. Rowe goes over sleeping positions that may help lessen sciatica pain while sleeping. Also, he demonstrates a better way of getting out of bed in the morning so you don't have a sciatic nerve pain flare-up.  \n\nIf you're suffering from shooting sciatic nerve pain into the thigh, leg, calf, foot, or toes... this is a MUST watch. Also, check out our other videos that give more info on sciatica pain, and how to relieve it. \n\n269-408-8439\nhttps://www.bestspinecare.com\n3134 Niles Rd  St. Joseph, MI 49085\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow me on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to my YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "sciatica sleeping position",
+      "how to sleep with sciatica pain",
+      "sciatica pain relief",
+      "sciatic nerve",
+      "herniated disc",
+      "sciatic nerve pain",
+      "low back pain",
+      "sciatica pain",
+      "sciatic nerve pain relief",
+      "best sleeping position",
+      "sleeping with sciatica",
+      "sleep position",
+      "sciatic pain",
+      "best sleeping position for sciatica",
+      "sleeping positions",
+      "back pain sleeping position",
+      "sleeping positions for back pain",
+      "st. joseph mi chiropractor",
+      "dr. rowe",
+      "spinecare",
+      "chiropractor sciatica",
+      "bulging disc"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170207",
+    "timestamp": 1486475786,
+    "duration": 131,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/w4EUi7XcVmA/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:38:30.230Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

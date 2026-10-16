@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "eu_Q3kEsUdk",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 96
+    }
+  ],
+  "discoveryRaw": {
+    "id": "eu_Q3kEsUdk",
+    "title": "#1 Muscle to Release to Fix Your Uneven Shoulders",
+    "duration": 590,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/eu_Q3kEsUdk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDACmq96p3VKaxgunwTwm4hxNhxgg"
+  },
+  "metadataRaw": {
+    "id": "eu_Q3kEsUdk",
+    "title": "#1 Muscle to Release to Fix Your Uneven Shoulders",
+    "description": "Dr. Rowe demonstrates how to release the trapezius muscle group — the #1 muscle to focus on for correcting uneven shoulders (also known as a “high shoulder”).\n\nIf you’ve noticed your shoulders look uneven — like one side is higher than the other — this video is a must-watch.\n\nA common cause of this imbalance is tightness and weakness in key muscles that support shoulder alignment, particularly the upper and lower trapezius muscles.\n\nTo address this, the video is divided into two parts, focusing separately on the high shoulder and the low shoulder. While each part targets a different side, they’re designed to work together for the best results.\n\nFollow along with all the exercises and find what works best for your body.\n\nWatch now to start correcting your uneven shoulder posture quickly and effectively!\n\nChapters: \n0:00 Intro\n0:46 High Shoulder Stretch\n3:10 High Shoulder Strengthening\n4:19 Low Shoulder Stretch\n6:10 Low Shoulder Strengthening\n7:47 BONUS Exercise (Try this one!) \n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content.\n\n#unevenshoulders #posture #posturecorrection",
+    "tags": [
+      "how to fix an uneven shoulder",
+      "how to fix uneven shoulders",
+      "how to self correct uneven shoulders",
+      "how to treat an uneven shoulder",
+      "uneven shoulders",
+      "how to fix a high shoulder",
+      "how to fix an uneven shoulder for good",
+      "how to self correct an uneven shoulder",
+      "uneven shoulder",
+      "how to fix a low shoulder",
+      "how to self correct a high shoulder",
+      "uneven shoulders exercise",
+      "exercises to fix uneven shoulders",
+      "uneven shoulder posture",
+      "high shoulder",
+      "low shoulder",
+      "spinecare",
+      "dr rowe",
+      "posture"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250626",
+    "timestamp": 1750944642,
+    "duration": 589,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/eu_Q3kEsUdk/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:19.798Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

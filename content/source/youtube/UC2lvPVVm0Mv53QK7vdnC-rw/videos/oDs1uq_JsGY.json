@@ -1,0 +1,75 @@
+{
+  "youtubeVideoId": "oDs1uq_JsGY",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 652
+    }
+  ],
+  "discoveryRaw": {
+    "id": "oDs1uq_JsGY",
+    "title": "Upper Back Stretch (Shown by St. Joseph, MI Chiropractor)",
+    "duration": 34,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/oDs1uq_JsGY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM3KGrV3nkQGGnOoEAbVOVgJNJGg"
+  },
+  "metadataRaw": {
+    "id": "oDs1uq_JsGY",
+    "title": "Upper Back Stretch (Shown by St. Joseph, MI Chiropractor)",
+    "description": "https://www.bestspinecare.com\n\nFEELING STIFF IN THE UPPER BACK?⠀\n⠀\nAfter sitting for too long (which we're all guilty of), the back can get pretty stiff and achy. 🔃 So let's focus on knocking out that tightness and putting some mobility back in our backs.⠀\n⠀\nWhat we're going to do is a variation of the 'figure 8' stretch. 🎱 This stretch is going to target the natural movements of the thoracic spine. It's really easy to do and can be done literally anywhere.⠀\n\nWhy it’s worth giving it a try:⠀\n➡️ increases range of motion in the thoracic spine⠀\n➡️ a useful warm up before exercising or playing sports⠀\n➡️ improves flexibility in the back⠀\n⠀\nIf the back is stiff and achy after a long day at the computer or work, this will probably end up being a daily back-saver. ⠀\n⠀\nComments or questions? Leave them in the comments section and I'll get back ASAP. Also, tag a friend that might be helped by this and share the good word!\n\n*************************************************\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "upper back",
+      "mid back",
+      "neck",
+      "pain",
+      "stiffness",
+      "tightness",
+      "stretch",
+      "stretches",
+      "back stretch",
+      "upper back stretch",
+      "mid back stretch",
+      "mobility",
+      "relief",
+      "chiropractor",
+      "chiropractic",
+      "chiro",
+      "physio",
+      "physical therapy",
+      "thoracic",
+      "dorsal",
+      "spinecare",
+      "stjoechiro",
+      "st joe mi",
+      "saint joseph mi",
+      "st joseph mi"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20181014",
+    "timestamp": 1539543603,
+    "duration": 34,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/oDs1uq_JsGY/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:19:29.794Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

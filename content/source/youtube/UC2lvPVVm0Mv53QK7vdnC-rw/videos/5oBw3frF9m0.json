@@ -1,0 +1,71 @@
+{
+  "youtubeVideoId": "5oBw3frF9m0",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 621
+    }
+  ],
+  "discoveryRaw": {
+    "id": "5oBw3frF9m0",
+    "title": "What is Ankylosing Spondylitis? Causes, Symptoms, and Diagnosis EXPLAINED",
+    "duration": 502,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/5oBw3frF9m0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYD77e2mMUIArHgnYSecFvLI8V-g"
+  },
+  "metadataRaw": {
+    "id": "5oBw3frF9m0",
+    "title": "What is Ankylosing Spondylitis? Causes, Symptoms, and Diagnosis EXPLAINED",
+    "description": "In this video, Dr. Rowe helps answer 'What is ankylosing spondylitis?', including its common symptoms, progression and how it’s diagnosed.\n\nAnkylosing spondylitis (or AS) is an auto-immune, rheumatic condition that primarily affects the sacroiliac (SI) joints and the spine.\n\nTo help explain it a bit better, this video is broken down into 3 parts: causes, symptoms, and how it’s commonly diagnosed. \n\nDiscussed in this video is the HLA-B27 genetic marker (plus other possible causes), and radiographic signs including: sacroiliitis, syndesmophytes, bamboo spine and lumbar squaring.\n\nAlso, Dr. Rowe goes over what to do for treatment options (at the end of the video) if you have been diagnosed with ankylosing spondylitis.\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.\n\n#ankylosingspondylitis #ankylosingspondylitisawareness #sacroiliitis",
+    "tags": [
+      "What is Ankylosing Spondylitis",
+      "ankylosing spondylitis",
+      "ankylosing spondylitis causes",
+      "ankylosing spondylitis treatment",
+      "ankylosing spondylitis symptoms",
+      "ankylosing spondylitis test",
+      "HLA-B27",
+      "hla b27",
+      "sacroiliitis",
+      "sacroiliitis causes",
+      "ankylosing spondylitis diagnosis",
+      "bamboo spine",
+      "syndesmophytes",
+      "syndesmophyte",
+      "ankylosing spondylitis diet",
+      "joint pain at night",
+      "ankylosis",
+      "spinecare",
+      "dr rowe",
+      "spondylitis symptoms",
+      "spondylitis treatment"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20191015",
+    "timestamp": 1571155200,
+    "duration": 501,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/5oBw3frF9m0/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:00:38.542Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

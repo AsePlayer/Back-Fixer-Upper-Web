@@ -1,0 +1,77 @@
+{
+  "youtubeVideoId": "bVkz4FOS45M",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 667
+    }
+  ],
+  "discoveryRaw": {
+    "id": "bVkz4FOS45M",
+    "title": "Inversion Table vs Spinal Decompression Therapy",
+    "duration": 210,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/bVkz4FOS45M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcknJ9qAS4VXou5knW996udD0OXQ"
+  },
+  "metadataRaw": {
+    "id": "bVkz4FOS45M",
+    "title": "Inversion Table vs Spinal Decompression Therapy",
+    "description": "Dr. Rowe goes over the pros and cons of inversion tables, including specific conditions inversion therapy helps with.\n\nAlso, he compares it to non-surgical Spinal Decompression Therapy, and gives you an idea of when to use spinal decompression over an inversion table for neck, lower back, and sciatica pain. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "inversion",
+      "inversion table",
+      "inversion chair",
+      "pros and cons",
+      "spinal decompression",
+      "decompression",
+      "disc decompression",
+      "inverted table",
+      "sciatica",
+      "sciatic nerve",
+      "chiropractor",
+      "st. joseph",
+      "saint joseph",
+      "mi",
+      "michigan",
+      "pinched nerve",
+      "herniated disc",
+      "teeter",
+      "spinal decompression at home",
+      "decompression table",
+      "decompression therapy",
+      "spinal decompression therapy",
+      "spinal decompression machine",
+      "inversion table back crack",
+      "back decompression",
+      "decompress spine",
+      "inversion therapy"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180117",
+    "timestamp": 1516196103,
+    "duration": 209,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/bVkz4FOS45M/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:49:00.111Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

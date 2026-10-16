@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "kPSI1e3JH6k",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 138
+    }
+  ],
+  "discoveryRaw": {
+    "id": "kPSI1e3JH6k",
+    "title": "Relieve a Tight Back in SECONDS",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/kPSI1e3JH6k/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA1e5UGFePA5AUmbYM8og1UnYzKJA&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "kPSI1e3JH6k",
+    "title": "Relieve a Tight Back in SECONDS",
+    "description": "Dr. Rowe demonstrates an easy exercise that can quickly relieve a tight, achy back — in as little as 30 seconds.\n\nIt can be done at home, requires no equipment, and may offer instant relief for overall back pain and muscle tightness.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#backpain #backpainrelief #backpainexercise",
+    "tags": [
+      "how to relieve a tight back",
+      "how to fix a tight back",
+      "how to get rid of a tight back",
+      "how to treat a tight back",
+      "how to cure a tight back",
+      "how to relieve back tightness",
+      "how to fix back tightness",
+      "how to treat back tightness",
+      "back tightness",
+      "back tightness relief",
+      "tight back",
+      "exercises for a tight back",
+      "what to do for a tight back",
+      "exercises for back tightness",
+      "tight back exercises",
+      "exercises for tight back muscles",
+      "spinecare",
+      "dr rowe",
+      "how to relieve a tight back in seconds"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250625",
+    "timestamp": 1750858242,
+    "duration": 136,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/kPSI1e3JH6k/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:10:27.484Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

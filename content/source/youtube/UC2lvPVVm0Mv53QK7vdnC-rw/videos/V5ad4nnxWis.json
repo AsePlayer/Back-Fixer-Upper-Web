@@ -1,0 +1,87 @@
+{
+  "youtubeVideoId": "V5ad4nnxWis",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 665
+    }
+  ],
+  "discoveryRaw": {
+    "id": "V5ad4nnxWis",
+    "title": "Chiropractor Near Me in St.  Joseph, MI",
+    "duration": 91,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/V5ad4nnxWis/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnN-3erBWYQbN4U3g_d6LKv46uaw"
+  },
+  "metadataRaw": {
+    "id": "V5ad4nnxWis",
+    "title": "Chiropractor Near Me in St.  Joseph, MI",
+    "description": "https://www.BestSpineCare.com\n\nDr. Rowe, local chiropractor in St. Joseph MI, goes over the benefits of chiropractic care and how it can help with conditions such as neck pain, lower back pain, and sciatica. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "chiropractor",
+      "chiropractor near me",
+      "good",
+      "best",
+      "local",
+      "saint joseph",
+      "st. joe",
+      "st. joseph",
+      "stevensville",
+      "benton harbor",
+      "mi",
+      "michigan",
+      "berrien",
+      "49085",
+      "49127",
+      "49022",
+      "back doctor",
+      "back specialist",
+      "neck",
+      "back",
+      "lower back",
+      "low back",
+      "sciatica",
+      "pain",
+      "relief",
+      "cure",
+      "treatment",
+      "care",
+      "adjustment",
+      "crack",
+      "pop",
+      "doctor",
+      "chiropractic",
+      "chiro",
+      "near me",
+      "chiropractor in st. joseph mi",
+      "chiropractic in st joseph mi"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180124",
+    "timestamp": 1516835506,
+    "duration": 90,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/V5ad4nnxWis/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:30:16.923Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

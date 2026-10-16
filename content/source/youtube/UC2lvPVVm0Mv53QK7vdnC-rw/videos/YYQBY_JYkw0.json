@@ -1,0 +1,59 @@
+{
+  "youtubeVideoId": "YYQBY_JYkw0",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 690
+    }
+  ],
+  "discoveryRaw": {
+    "id": "YYQBY_JYkw0",
+    "title": "Best Chiropractic Care in St. Joseph, MI",
+    "duration": 85,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/YYQBY_JYkw0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnOwtblyr0MvD17RMHk7SJ0FWmgg"
+  },
+  "metadataRaw": {
+    "id": "YYQBY_JYkw0",
+    "title": "Best Chiropractic Care in St. Joseph, MI",
+    "description": "St. Joseph | Stevensville | Benton Harbor, MI's premier chiropractic and spinal decompression therapy center.\n\nThe local leader on treating low back pain, neck pain, migraines, and sciatica. \n\nWe give you a faster recovery, and better results. \n\nhttps://www.bestspinecare.com\n\n3134 Niles Rd\nSaint Joseph, MI 49085",
+    "tags": [
+      "st. joseph mi chiropractic",
+      "st joseph mi chiropractor",
+      "saint joseph mi chiropractor",
+      "saint joseph mi chiropractic",
+      "chiropractor 49085",
+      "stevensville mi chiropractor",
+      "stevensville mi chiropractic",
+      "benton harbor mi chiropractor",
+      "benton harbor mi chiropractic"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170423",
+    "timestamp": 1492988944,
+    "duration": 84,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/YYQBY_JYkw0/sddefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:38:49.086Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

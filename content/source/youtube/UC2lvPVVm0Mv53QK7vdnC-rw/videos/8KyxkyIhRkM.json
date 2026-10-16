@@ -1,0 +1,65 @@
+{
+  "youtubeVideoId": "8KyxkyIhRkM",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 658
+    }
+  ],
+  "discoveryRaw": {
+    "id": "8KyxkyIhRkM",
+    "title": "What Causes Sciatic Nerve Pain?",
+    "duration": 240,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/8KyxkyIhRkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUg-PEIUNQe9n3091M3OdkXD5Xrw"
+  },
+  "metadataRaw": {
+    "id": "8KyxkyIhRkM",
+    "title": "What Causes Sciatic Nerve Pain?",
+    "description": "In this video, Dr. Rowe (chiropractor in St. Joseph, MI) gives a breakdown of the 3 main causes of sciatic nerve pain, and what symptoms to look for to help figure out what might be causing your sciatic nerve pain. \n\nIt’s very important that you know what’s causing your sciatica pain, because it will help give you the correct treatment plan to follow. \n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\n#sciatica #sciaticarelief #sciaticnerve #sciaticasucks",
+    "tags": [
+      "What Causes Sciatic Nerve Pain",
+      "what causes sciatic pain",
+      "what causes sciatica nerve pain",
+      "what causes nerve pain",
+      "what causes sciatic nerve pain down leg",
+      "sciatic nerve pain symptoms",
+      "sciatic nerve pain causes",
+      "sciatic nerve pain in leg",
+      "what causes sciatic nerve pain in right leg",
+      "what causes sciatic nerve pain in left leg",
+      "what causes sciatic nerve pain in buttocks",
+      "what causes sciatic nerve pain in back",
+      "what causes sciatic nerve pain to flare up",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180218",
+    "timestamp": 1518958801,
+    "duration": 239,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/8KyxkyIhRkM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:01:50.058Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

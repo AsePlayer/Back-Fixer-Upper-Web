@@ -1,0 +1,80 @@
+{
+  "youtubeVideoId": "n4dXNXrxQwA",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 676
+    }
+  ],
+  "discoveryRaw": {
+    "id": "n4dXNXrxQwA",
+    "title": "SI Joint Dysfunction and Pain ANIMATION",
+    "duration": 149,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/n4dXNXrxQwA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8gMz4RT2lSNju5gNAk4BPTmDFCQ"
+  },
+  "metadataRaw": {
+    "id": "n4dXNXrxQwA",
+    "title": "SI Joint Dysfunction and Pain ANIMATION",
+    "description": "Dr. Rowe, St. Joseph MI chiropractor, shares a helpful animated, educational video explaining the causes of sacroiliac joint pain and dysfunction.\n\nSI joint pain is commonly mistaken for other low back conditions that can cause low back pain, hip pain, pelvic pain, or sciatica. \n\nTo learn about our treatments, including for SI joint pain relief, visit: https://www.BestSpineCare.com\n\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor",
+    "tags": [
+      "SI",
+      "Joint",
+      "sacroiliac",
+      "SI Joint",
+      "SI Joint Dysfunction",
+      "Sacroiliac joint dysfunction",
+      "S-I joint pain",
+      "SI Joint Pain",
+      "sacro-iliac joint",
+      "relief",
+      "fix",
+      "treatment",
+      "cure",
+      "pain",
+      "low back pain",
+      "hip pain",
+      "pelvic pain",
+      "sciatica",
+      "causes",
+      "video",
+      "back pain",
+      "chiropractor",
+      "st joseph mi chiropractor",
+      "chiropractic",
+      "butt pain",
+      "buttock pain",
+      "sacroiliac joint pain",
+      "what is si joint",
+      "what is sacroiliac joint",
+      "where is the si joint"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20171004",
+    "timestamp": 1507121710,
+    "duration": 148,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/n4dXNXrxQwA/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:16:57.723Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "7JhPduagkEQ",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 170
+    }
+  ],
+  "discoveryRaw": {
+    "id": "7JhPduagkEQ",
+    "title": "Standing Move for Instant Sciatica Relief #Shorts",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/7JhPduagkEQ/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDS_e5Bc8Cd1Fpd-zZem-HYfrsKVg&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "7JhPduagkEQ",
+    "title": "Standing Move for Instant Sciatica Relief #Shorts",
+    "description": "Dr. Rowe demonstrates an easy standing exercise that helps reduce pressure from bulging and herniated discs — the main causes of pinched nerves and sciatica.\n\nIt can be done at home or at work, requires no equipment, and may provide relief in as little as 30 SECONDS.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#sciatica #sciaticarelief #bulgingdisc",
+    "tags": [
+      "best standing sciatica exercises",
+      "how to relieve sciatica standing",
+      "how to fix sciatica standing",
+      "how to ease sciatica standing",
+      "standing sciatica stretches",
+      "standing sciatica exercises",
+      "standing sciatica pain relief exercises",
+      "standing sciatica pain",
+      "sciatica while standing",
+      "sciatica exercises standing up",
+      "how to stand with sciatica pain",
+      "how to stand up with sciatica pain",
+      "sciatic nerve pain",
+      "sciatica treatment",
+      "sciatica",
+      "sciatica pain relief",
+      "spinecare",
+      "dr rowe",
+      "sciatica pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250412",
+    "timestamp": 1744464611,
+    "duration": 160,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/7JhPduagkEQ/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:01:20.630Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

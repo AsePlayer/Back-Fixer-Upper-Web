@@ -1,0 +1,70 @@
+{
+  "youtubeVideoId": "F5rjXmJDpB0",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 653
+    }
+  ],
+  "discoveryRaw": {
+    "id": "F5rjXmJDpB0",
+    "title": "Hip Stretches at Work (Shown by St. Joseph, MI Chiropractor)",
+    "duration": 60,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/F5rjXmJDpB0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYdHfjEJco_vWuNQ8n33z3rB3PKg"
+  },
+  "metadataRaw": {
+    "id": "F5rjXmJDpB0",
+    "title": "Hip Stretches at Work (Shown by St. Joseph, MI Chiropractor)",
+    "description": "https://www.BestSpineCare.com\n\nLET'S GET RID OF HIP TIGHTNESS & DISCOMFORT AT WORK. ⠀\n⠀\n⌨️ Sitting at the computer or desk for hours can wreak havoc on the low back and hips, causing aches and pain. Let's tackle this issue with a modified way to do a popular stretch, called the figure 4. ⠀\n⠀\nWith this stretch, it will hit the glute and piriformis muscles, release hip tension and improve mobility. Oh, and it's super easy.👍⠀\n⠀\nSo give it a try, relieve those achy hips, and hopefully it'll be one less thing to deal with at work. 😁⠀\n⠀\nTag a friend living the desk life and share the good word!⠀\n\n************************************************************\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "hip",
+      "hips",
+      "mobility",
+      "stretch",
+      "stretches",
+      "hip stretch",
+      "hip stretches",
+      "desk",
+      "work",
+      "piriformis",
+      "pain",
+      "relief",
+      "chiropractor",
+      "chiropractic",
+      "physio",
+      "chiro",
+      "physical therapy",
+      "st joe mi",
+      "st joseph mi",
+      "saint joseph mi"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20181009",
+    "timestamp": 1539108000,
+    "duration": 60,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/F5rjXmJDpB0/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:47:32.708Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

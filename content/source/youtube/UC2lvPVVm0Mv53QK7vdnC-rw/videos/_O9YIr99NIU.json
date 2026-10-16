@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "_O9YIr99NIU",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 121
+    }
+  ],
+  "discoveryRaw": {
+    "id": "_O9YIr99NIU",
+    "title": "3 Exercises You Need to Do After 40",
+    "duration": 616,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/_O9YIr99NIU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgELCMaEWcOisAtfBzDS6ntpJyvQ"
+  },
+  "metadataRaw": {
+    "id": "_O9YIr99NIU",
+    "title": "3 Exercises You Need to Do After 40",
+    "description": "If you're over 40 and starting to notice new aches and pains, this video is a must-watch.\n\nDr. Rowe demonstrates three exercises that help keep your back and hips strong, mobile, and pain-free, improving your quality of life as you age.\n\nThese exercises target the key muscles that contribute to lower back and hip pain. Each one works differently, and when combined, they provide a well-rounded workout you can do daily or 2-3 times a week.\n\nChapters:\n0:00 Intro\n0:40 Exercise 1\n4:25 Exercise 2\n7:10 Exercise 3\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#aging #over40 #agingwell",
+    "tags": [
+      "3 exercises you need to do after 40",
+      "3 exercises over 40",
+      "3 exercises for men over 40",
+      "3 best exercises for men over 40",
+      "3 best exercises for over 40",
+      "best exercises over 40",
+      "exercises for aging",
+      "exercises for aging well",
+      "strength exercises for over 40",
+      "strength exercises for women over 40",
+      "strength exercises for men over 40",
+      "strength workout over 40",
+      "how to keep strong after 40",
+      "how to keep fit after 40",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250213",
+    "timestamp": 1739457016,
+    "duration": 615,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/_O9YIr99NIU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:43:27.101Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

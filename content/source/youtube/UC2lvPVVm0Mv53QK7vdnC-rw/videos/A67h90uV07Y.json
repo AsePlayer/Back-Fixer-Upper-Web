@@ -1,0 +1,71 @@
+{
+  "youtubeVideoId": "A67h90uV07Y",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 153
+    }
+  ],
+  "discoveryRaw": {
+    "id": "A67h90uV07Y",
+    "title": "Fix Your EAR PAIN with an Onion",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/A67h90uV07Y/oardefault.jpg?sqp=-oaymwEgCOgCEJwESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBSRgQ3QT8gy8wiBItKszis6T_UzA&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "A67h90uV07Y",
+    "title": "Fix Your EAR PAIN with an Onion",
+    "description": "Got ear pain? 🧅 Dr. Rowe shares a simple onion trick that may help relieve ear pain in just 30 seconds! \n\nTry this quick home remedy for ear pain relief and let us know if it works for you.\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#earpain #earpainrelief #earache",
+    "tags": [
+      "how to relieve ear pain in 30 seconds",
+      "how to fix ear pain in 30 seconds",
+      "how to fix ear pain in seconds",
+      "how to relieve ear pain in seconds",
+      "ear pain",
+      "ear pain relief",
+      "ear pain treatment",
+      "ear pain relief exercises",
+      "what to do for ear pain",
+      "exercises for ear pain relief",
+      "earache",
+      "earache relief",
+      "earache relief exercises",
+      "exercise for earache relief",
+      "exercises for ear pain",
+      "ear pain remedy",
+      "how to treat ear pain",
+      "how to cure ear pain in seconds",
+      "spinecare",
+      "dr rowe",
+      "ears",
+      "ear"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250521",
+    "timestamp": 1747834209,
+    "duration": 108,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/A67h90uV07Y/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG2CIACgA-KAgwIABABGCsgSCh_MA8=&rs=AOn4CLASi9yLRw0D3_B6stD4DsROd4ZhTQ"
+  },
+  "enrichedAt": "2026-10-10T23:02:06.270Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

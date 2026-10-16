@@ -1,0 +1,62 @@
+{
+  "youtubeVideoId": "LRYEd8tf7Uc",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 681
+    }
+  ],
+  "discoveryRaw": {
+    "id": "LRYEd8tf7Uc",
+    "title": "7 BAD HABITS That Cause Low Back Pain | SAVE YOUR BACK!",
+    "duration": 232,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/LRYEd8tf7Uc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkgooz60gXf6egFYmfP8HX5KKh7w"
+  },
+  "metadataRaw": {
+    "id": "LRYEd8tf7Uc",
+    "title": "7 BAD HABITS That Cause Low Back Pain | SAVE YOUR BACK!",
+    "description": "Avoid these 7 BAD HABITS that can lead to low back pain. Dr. Rowe, St. Joseph MI Chiropractor, goes over some helpful tips that can help you live life with less low back pain. \n\nHere at SpineCare Decompression and Chiropractic Center in St. Joseph MI, we’re great at treating low back and sciatica pain. \n\nWith thousands of individual sciatica pain treatments given over the years, I can confidently say to you that REAL relief can be experienced, sometimes as early as your very first treatment session.\n\nIf you are looking for effective back and neck pain relief, contact us at 269-408-8439 or visit us at https://www.bestspinecare.com\n\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n#lowerbackpain #backpain #lowbackpain #sciatica",
+    "tags": [
+      "st. joseph mi chiropractor",
+      "saint joseph mi chiropractor",
+      "49085 chiropractor",
+      "low back pain",
+      "causes low back pain",
+      "sciatica",
+      "back pain exercise",
+      "back pain",
+      "lower back pain",
+      "back pain causes",
+      "top 10 bad habits for back pain",
+      "physical therapy"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170827",
+    "timestamp": 1503839891,
+    "duration": 232,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/LRYEd8tf7Uc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:05:35.024Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

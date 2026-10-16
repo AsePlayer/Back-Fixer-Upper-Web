@@ -1,0 +1,35 @@
+{
+  "channelId": "UC2lvPVVm0Mv53QK7vdnC-rw",
+  "canonicalUrl": "https://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+  "initialScanComplete": true,
+  "highWater": {
+    "videos": "SZWGMeQpwvU",
+    "shorts": "PhGwYqLBaj0"
+  },
+  "extractorVersion": "2026.06.09",
+  "catalogVersion": 1,
+  "outcome": "successful",
+  "surfaces": {
+    "videos": {
+      "status": "complete",
+      "scanned": 699
+    },
+    "shorts": {
+      "status": "complete",
+      "scanned": 609
+    },
+    "streams": {
+      "status": "absent",
+      "scanned": 0
+    }
+  },
+  "errors": [],
+  "duplicatesPrevented": 0,
+  "newestKnownVideoId": "PhGwYqLBaj0",
+  "newestKnownPublishedAt": "2026-10-14",
+  "bootstrapRequiresFullDiscovery": false,
+  "bootstrapSourceCheck": "2026-10-16T16:00:29.381Z",
+  "lastSyncStartedAt": "2026-10-16T21:03:51.590Z",
+  "lastSyncCompletedAt": "2026-10-16T21:04:12.079Z",
+  "lastFullReconcileAt": "2026-10-16T21:04:12.079Z"
+}

@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "0CYb9RUZuwE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 683
+    }
+  ],
+  "discoveryRaw": {
+    "id": "0CYb9RUZuwE",
+    "title": "What Is the Sciatic Nerve and Why Does It Hurt so Much? Answered by St. Joseph, MI Chiropractor",
+    "duration": 168,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/0CYb9RUZuwE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn3pRHYAJoGf4TYup4lD3oLs7sxg"
+  },
+  "metadataRaw": {
+    "id": "0CYb9RUZuwE",
+    "title": "What Is the Sciatic Nerve and Why Does It Hurt so Much? Answered by St. Joseph, MI Chiropractor",
+    "description": "Anyone who currently suffers (or has ever suffered) from sciatic nerve pain knows what REAL pain feels like. \n\nHere at SpineCare Decompression and Chiropractic Center in St. Joseph MI, we’re great at treating low back and sciatica pain. \n\nWith thousands of individual sciatica pain treatments given over the years, I can confidently say to you that REAL relief can be experienced, sometimes as early as your very first treatment session.\n\nIf you are looking for effective back and neck pain relief, contact us at 269-408-8439 or visit us at https://www.bestspinecare.com",
+    "tags": [
+      "chiropractor st joseph mi",
+      "sciatica",
+      "sciatic nerve",
+      "sciatica relief",
+      "sciatic nerve pain",
+      "sciatica pain",
+      "chiropractic st joseph mi",
+      "what is sciatica",
+      "what is the sciatic nerve",
+      "relief",
+      "l4",
+      "l5",
+      "s1",
+      "lumbar",
+      "disc herniation",
+      "herniated disc",
+      "pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170628",
+    "timestamp": 1498691825,
+    "duration": 168,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/0CYb9RUZuwE/sddefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:58:52.715Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "IeYDhITrOSg",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 44
+    }
+  ],
+  "discoveryRaw": {
+    "id": "IeYDhITrOSg",
+    "title": "Release THIS Muscle to Fix Your Lower Back Pain",
+    "duration": 658,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/IeYDhITrOSg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf6908Y-Z0mgIMEjxd35fMbX_NDw"
+  },
+  "metadataRaw": {
+    "id": "IeYDhITrOSg",
+    "title": "Release THIS Muscle to Fix Your Lower Back Pain",
+    "description": "Dr. Rowe shows how to release the quadratus lumborum (QL) muscle—the #1 muscle you need to focus on for lower back pain relief.\n\nIssues with the QL often stem from a combination of tightness and weakness that builds up over time, leading to that constant, deep ache. To fix this, we’ll go over targeted exercises to release, stretch, and strengthen the QL (and its supporting muscles) for both quick and long-lasting results.\n\nEach exercise works differently to release tension. For the best results, try them all and use the ones that provide the most relief for your back.\n\nChapters: \n0:00 Intro\n1:02 Standing Stretch\n3:04 Seated Stretch\n4:56 Advanced Stretch\n6:53 Strengthening Exercise 1\n8:52 Strengthening Exercise 2\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content.\n\n#lowerbackpain  #lowerbackpainrelief #lowbackpain",
+    "tags": [
+      "fix your lower back pain",
+      "the 1 muscle to release to fix your back pain",
+      "the muscle to release to fix your back pain",
+      "back pain",
+      "back pain relief",
+      "lower back pain",
+      "lower back pain relief",
+      "exercises for lower back pain relief",
+      "stretches for lower back pain relief",
+      "muscle that cause lower back pain",
+      "quadratus lumborum",
+      "quadratus lumborum stretch",
+      "quadratus lumborum exercises",
+      "quadratus lumborum pain relief",
+      "spinecare",
+      "dr rowe",
+      "low back pain",
+      "lower back muscle pain",
+      "QL muscle"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20260209",
+    "timestamp": 1770647414,
+    "duration": 657,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/IeYDhITrOSg/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:55:59.573Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

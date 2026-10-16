@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "QGfboJAIBqs",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 639
+    }
+  ],
+  "discoveryRaw": {
+    "id": "QGfboJAIBqs",
+    "title": "Lower Back Injury Recovery Length | HOW TO SPEED UP HEALING TIME",
+    "duration": 270,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/QGfboJAIBqs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuwnLCvX4qATELqXWDYFPfiM4pfA"
+  },
+  "metadataRaw": {
+    "id": "QGfboJAIBqs",
+    "title": "Lower Back Injury Recovery Length | HOW TO SPEED UP HEALING TIME",
+    "description": "In this straightforward video, Dr. Rowe helps answer how long does it take for a lower back injury to heal and recover.\n\nDiscussed are minor issues, such as a strain of the lower back, to major issues like a lumbar disc herniation and sciatica pain. \n\nAlso, Lower back pain relief stretches (as mentioned in the video) are shown that may help speed up recovery time: https://youtu.be/t1aA2JEaRpw\n\nWatch now and take one step towards better health!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.\n\n#backpain #backpainrelief #lowerbackpain",
+    "tags": [
+      "how long does low back pain last",
+      "how long does lower back pain last",
+      "st. joseph mi chiropractor",
+      "sciatica",
+      "pain",
+      "how to speed up lower back recovery",
+      "lower back recovery",
+      "how to speed up low back recovery",
+      "how to speed up lower back healing",
+      "how to speed up low back healing",
+      "lower back injury recovery length",
+      "how to speed up healing time",
+      "low back pain",
+      "lower back pain",
+      "spinecare",
+      "dr. rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20190711",
+    "timestamp": 1562860832,
+    "duration": 270,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/QGfboJAIBqs/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:18:54.127Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

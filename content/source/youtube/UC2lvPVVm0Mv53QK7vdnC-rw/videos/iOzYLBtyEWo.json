@@ -1,0 +1,65 @@
+{
+  "youtubeVideoId": "iOzYLBtyEWo",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 20
+    }
+  ],
+  "discoveryRaw": {
+    "id": "iOzYLBtyEWo",
+    "title": "How to Quickly Fix Lower Back Pain in the Morning",
+    "duration": 720,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/iOzYLBtyEWo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGr9twJSKxfu5HAvsm9XDpFNEPzA"
+  },
+  "metadataRaw": {
+    "id": "iOzYLBtyEWo",
+    "title": "How to Quickly Fix Lower Back Pain in the Morning",
+    "description": "Dr. Rowe shows easy exercises that may help provide quick (and long-lasting) relief from lower back pain in the morning.\n\nThe great part is that most of these can be done in bed and take only a couple of minutes.\n\nChapters: \n0:00 Intro\n0:35 Exercise 1\n2:33 Exercise 2\n5:00 Exercise 3\n6:58 Exercise 4\n9:13 Exercise 5\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#lowerbackpain #lowerbackpainrelief #lowerbackpainexercises",
+    "tags": [
+      "best morning lower back stretches",
+      "best morning lower back exercises",
+      "morning lower back pain",
+      "morning lower back pain relief",
+      "stretches for morning lower back pain relief",
+      "exercises for morning lower back pain relief",
+      "lower back pain in the morning",
+      "morning exercise for lower back pain",
+      "morning stretch for lower back pain",
+      "morning lower back pain stretches",
+      "morning lower back pain exercises",
+      "what to do for lower back pain in the morning",
+      "lower back pain",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20260622",
+    "timestamp": 1782135005,
+    "duration": 719,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/iOzYLBtyEWo/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:55:18.967Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

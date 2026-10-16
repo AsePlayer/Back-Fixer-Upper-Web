@@ -1,0 +1,72 @@
+{
+  "youtubeVideoId": "QQ6IpyKQB5c",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 673
+    }
+  ],
+  "discoveryRaw": {
+    "id": "QQ6IpyKQB5c",
+    "title": "What Exercises Not to Do with a Lumbar Herniated Disc",
+    "duration": 195,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/QQ6IpyKQB5c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8RQhj0NEGFlcEk-1BznBL-nLgMA"
+  },
+  "metadataRaw": {
+    "id": "QQ6IpyKQB5c",
+    "title": "What Exercises Not to Do with a Lumbar Herniated Disc",
+    "description": "https://www.BestSpineCare.com\n\nAvoid these stretches and exercises if you have a lumbar herniated disc!\n\nDr. Rowe (St. Joseph, MI chiropractor) goes over what to avoid if you have a lumbar herniated disc, and gives some helpful tips on what to do instead. \n\nEffective for:\nLow back pain\nLumbar disc herniation or disc bulge\nLumbar disc protrusion or extrusion\nSciatica caused from a lumbar herniated disc\n\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor\n\n#herniateddisc #bulgingdisc #pinchednerve #sciatica",
+    "tags": [
+      "herniated disc",
+      "disc herniation",
+      "low back pain",
+      "disc bulge",
+      "sciatica",
+      "l5",
+      "s1",
+      "Exercises to avoid for a disc bulge",
+      "Exercises to avoid for a disc herniation",
+      "exercises to avoid for lower back pain",
+      "herniated disc exercises",
+      "bulging disc exercises",
+      "lumbar herniated disc",
+      "disc injury",
+      "bulging disc lower back",
+      "slip disc exercise",
+      "disc herniation exercises",
+      "exercise for herniated disc",
+      "l5 s1 disc bulge exercises",
+      "disc bulge exercise",
+      "st joseph mi chiropractor",
+      "lumbar disc herniation"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20171112",
+    "timestamp": 1510514094,
+    "duration": 195,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/QQ6IpyKQB5c/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:19:09.129Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

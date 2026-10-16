@@ -1,0 +1,26 @@
+{
+  "name": "back-fixer-upper-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24 <25" },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsx tools/catalog/cli.ts validate && vite build && node scripts/build-sw.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "tsx --test tests/*.test.ts",
+    "check:browser": "node scripts/browser-check.mjs",
+    "verify": "npm run test && npm run build && node scripts/verify-build.mjs",
+    "content:sync": "tsx scripts/content-update.ts --sync-only",
+    "content:classify": "tsx tools/catalog/cli.ts classify",
+    "content:validate": "tsx tools/catalog/cli.ts validate",
+    "content:update": "tsx scripts/content-update.ts",
+    "content:bootstrap": "tsx tools/catalog/bootstrap.ts"
+  },
+  "devDependencies": {
+    "vite": "8.3.4",
+    "tsx": "4.23.15",
+    "@playwright/test": "1.64.1",
+    "fake-indexeddb": "6.2.5"
+  }
+}

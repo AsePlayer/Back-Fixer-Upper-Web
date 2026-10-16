@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "dH5j6rwvkAc",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 533
+    }
+  ],
+  "discoveryRaw": {
+    "id": "dH5j6rwvkAc",
+    "title": "Pelvic Pain Relief in Seconds #Shorts",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/dH5j6rwvkAc/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCqMxeICNBXM9yL0W_CTE4kLrTO1A&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "dH5j6rwvkAc",
+    "title": "Pelvic Pain Relief in Seconds #Shorts",
+    "description": "Dr. Rowe shows the bridge walk exercise.\n\nThis exercise will help engage the pelvic floor muscles, helping to not only give quick relief, but also help strengthen the pelvis (and sacrum) muscles for long-lasting results.\n\nIt requires no equipment, can be done at home throughout the day, and may give instant pelvic pain relief... even within seconds.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n#pelvicfloorexercises #pelvicpain #pelvis",
+    "tags": [
+      "Pelvic Pain Relief in Seconds",
+      "how to fix pelvic pain at home",
+      "how to relieve pelvic pain at home",
+      "how to relieve pelvic pain for good",
+      "pelvic floor stretching exercises",
+      "pelvic pain relief exercises",
+      "pelvic pain relief stretches",
+      "pelvic back pain exercises",
+      "pelvic floor exercises for back pain",
+      "best pelvic floor exercises",
+      "how to treat pelvic pain at home",
+      "pelvic pain treatment",
+      "pelvic muscle pain relief",
+      "how to fix a stiff pelvis",
+      "how to fix pelvic tightness",
+      "spinecare",
+      "pelvis"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20220807",
+    "timestamp": 1659879008,
+    "duration": 51,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/dH5j6rwvkAc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:53:05.685Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

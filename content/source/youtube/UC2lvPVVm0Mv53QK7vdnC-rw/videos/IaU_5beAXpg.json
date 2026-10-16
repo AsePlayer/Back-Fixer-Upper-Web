@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "IaU_5beAXpg",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 515
+    }
+  ],
+  "discoveryRaw": {
+    "id": "IaU_5beAXpg",
+    "title": "Bone on Bone Knee Pain Relief #Shorts",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/IaU_5beAXpg/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLANnkgil_CbhVEoQqJTOc2dHJXQKA&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "IaU_5beAXpg",
+    "title": "Bone on Bone Knee Pain Relief #Shorts",
+    "description": "Dr. Rowe shows how to quickly relieve bone on bone knee pain with a simple decompression traction exercise.\n\nThis exercise will focus on opening up the knee, or reducing pressure, by using just a towel. It's especially good for knee arthritis, and may give relief within seconds.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n#kneepain #kneepainrelief #kneearthritis",
+    "tags": [
+      "bone on bone knee pain relief",
+      "how to fix bone on bone knee pain",
+      "how to stop bone on bone knee pain",
+      "how to treat bone on bone knee pain",
+      "how to get rid of bone on bone knee pain",
+      "bone on bone knee pain exercises",
+      "bone on bone knee pain stretches",
+      "bone on bone knee arthritis",
+      "bone on bone knee arthritis relief",
+      "bone on bone knee arthritis pain",
+      "knee pain",
+      "knee pain relief",
+      "knee arthritis",
+      "knee arthritis relief",
+      "spinecare",
+      "Bone on Bone Knee Pain Relief",
+      "dr rowe",
+      "knee",
+      "knees"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20220916",
+    "timestamp": 1663335003,
+    "duration": 60,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/IaU_5beAXpg/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:57:30.756Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

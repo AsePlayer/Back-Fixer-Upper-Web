@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "fmM9OQ9VEjQ",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 371
+    }
+  ],
+  "discoveryRaw": {
+    "id": "fmM9OQ9VEjQ",
+    "title": "How to PREVENT Sciatica Leg Pain",
+    "duration": 700,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/fmM9OQ9VEjQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0gDHHxN5MayT7TIer6vKDC7AyrA"
+  },
+  "metadataRaw": {
+    "id": "fmM9OQ9VEjQ",
+    "title": "How to PREVENT Sciatica Leg Pain",
+    "description": "Dr. Rowe shows easy exercises that can help relieve and prevent sciatica leg pain.\n\nThese are perfect to do right before you feel sciatica pain coming on, or as exercises to do throughout the day to keep the sciatic nerve pathway loose (and pain free).\n\nThey can be done at home, require no special equipment, and may also give quick sciatica leg pain relief... even within 30 seconds.\n\nLet us know how the exercises work for you!\n\nChapters:\n0:00 Intro\n0:48 Figure 4 Bridge \n4:07 Seated Sciatic Flossing\n6:38 Seated Figure 4\n8:46 Standing Back Extension\n10:13 Wall Lean Stretch\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/drmichaelrowe\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n#sciatica #sciaticapain #sciaticarelief",
+    "tags": [
+      "How to PREVENT Sciatica Leg Pain",
+      "how to prevent sciatica pain",
+      "how to prevent sciatica pain when sitting",
+      "how to prevent sciatica pain when standing",
+      "prevent sciatica flare up",
+      "prevent sciatica from coming back",
+      "exercises to prevent sciatica",
+      "exercises to prevent sciatica pain",
+      "sciatica prevention exercises",
+      "stretches to prevent sciatica",
+      "how to relieve and prevent sciatica",
+      "sciatica prevention stretches",
+      "sciatica",
+      "sciatica pain relief",
+      "sciatica pain relief exercises",
+      "spinecare"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20220901",
+    "timestamp": 1662039022,
+    "duration": 700,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/fmM9OQ9VEjQ/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:00:09.631Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

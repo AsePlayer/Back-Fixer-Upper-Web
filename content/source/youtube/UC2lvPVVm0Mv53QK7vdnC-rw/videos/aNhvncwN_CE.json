@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "aNhvncwN_CE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 56
+    }
+  ],
+  "discoveryRaw": {
+    "id": "aNhvncwN_CE",
+    "title": "Easy Core Strengthening Exercises (for NO MORE BACK PAIN)",
+    "duration": 658,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/aNhvncwN_CE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0IqNpygNlgKSPtiSP86rqlaxq7Q"
+  },
+  "metadataRaw": {
+    "id": "aNhvncwN_CE",
+    "title": "Easy Core Strengthening Exercises (for NO MORE BACK PAIN)",
+    "description": "Dr. Rowe demonstrates easy, safe core-strengthening exercises designed to help fix and eliminate back pain for good.\n\nThese exercises target the muscles that protect and support the spine, helping reduce strain, improve movement, and prevent future back pain. They are ideal for daily use or 2–3 times per week to build lasting core strength.\n\nFor best results, go through all of the exercises and focus on the ones that help you the most.\n\nChapters: \n0:00 Intro\n0:45 Dead Bug\n2:31 Bridge\n4:40 Bird Dog\n6:14 Side Plank\n8:00 Seated Exercise\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#coreexercises #corestrength #coreexercise",
+    "tags": [
+      "easy core strengthening exercises",
+      "easy core strengthening exercises for beginners",
+      "easy core strengthening exercises for back pain",
+      "core strengthening for back pain",
+      "core exercises for back pain relief",
+      "core strengthening for lower back pain",
+      "safe core strengthening exercises for back pain",
+      "safe core exercises for lower back pain",
+      "core exercises",
+      "core exercise",
+      "core strengthening exercises",
+      "lower back pain",
+      "low back pain",
+      "lower back pain relief",
+      "spinecare",
+      "dr rowe",
+      "back pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20251229",
+    "timestamp": 1767018600,
+    "duration": 658,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/aNhvncwN_CE/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:56:18.444Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

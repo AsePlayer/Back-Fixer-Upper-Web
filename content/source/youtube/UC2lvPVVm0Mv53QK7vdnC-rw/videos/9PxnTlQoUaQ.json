@@ -1,0 +1,72 @@
+{
+  "youtubeVideoId": "9PxnTlQoUaQ",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 678
+    }
+  ],
+  "discoveryRaw": {
+    "id": "9PxnTlQoUaQ",
+    "title": "What is the SI Joint (Sacroiliac Joint)? An Easy SI Joint Pain Test.",
+    "duration": 186,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/9PxnTlQoUaQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuJfUtbPkzglFj3yg-UrddnXVP8w"
+  },
+  "metadataRaw": {
+    "id": "9PxnTlQoUaQ",
+    "title": "What is the SI Joint (Sacroiliac Joint)? An Easy SI Joint Pain Test.",
+    "description": "Are you wondering what is the SI joint and what symptoms sacroiliac joint dysfunction can cause? \n\nIn this video, Dr. Rowe (St. Joseph MI Chiropractor) gives an overview of the SI joint, and shows a quick and easy test to see if your pain might be coming from the SI joint.\n\nhttps://www.bestspinecare.com\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor",
+    "tags": [
+      "what is the si joint",
+      "what is the sacroiliac joint",
+      "sacroiliac pain",
+      "si joint dysfunction",
+      "si joint test",
+      "sacroiliac joint test",
+      "si joint pain symptoms",
+      "sacroiliac joints",
+      "si joint pain relief",
+      "si joint pain treatment",
+      "si pain",
+      "si joints",
+      "sacroiliac joint pain treatment",
+      "si joint treatment",
+      "sacroiliac joint dysfunction treatment",
+      "S-I joint",
+      "sacro-iliac joint",
+      "chiropractor",
+      "chiropractic",
+      "st joseph mi back doctor",
+      "st joseph mi chiropractor",
+      "pelvic pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170917",
+    "timestamp": 1505685064,
+    "duration": 186,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/9PxnTlQoUaQ/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:01:56.655Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "youtubeVideoId": "-A-NNGQgL_0",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 697
+    }
+  ],
+  "discoveryRaw": {
+    "id": "-A-NNGQgL_0",
+    "title": "How to Make an Easy Homemade Heating Pad",
+    "duration": 106,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/-A-NNGQgL_0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNI67_rgJFvtRWbP957AqCUBxkHA"
+  },
+  "metadataRaw": {
+    "id": "-A-NNGQgL_0",
+    "title": "How to Make an Easy Homemade Heating Pad",
+    "description": "St. Joseph, MI Chiropractor Dr. Rowe shows how to make an easy homemade heating pad. If you're looking for something to help with aches and muscle pains, without torching your wallet, check this quick video out!\n\nhttps://www.bestspinecare.com\n\n269-408-8439\n3134 Niles Rd\nSt. Joseph, MI 49085",
+    "tags": [
+      "st. joseph mi chiropractor",
+      "homemade heating pad",
+      "heat therapy",
+      "how to make a heating pad",
+      "muscle ache",
+      "muscle tightness",
+      "muscle pain",
+      "aches",
+      "pain",
+      "achy",
+      "heat",
+      "ice",
+      "heat pad",
+      "heating pad",
+      "how-to (website category)",
+      "diy heating pad",
+      "how to make heating pad",
+      "how to make a homemade heating pad",
+      "diy heating pad without rice",
+      "diy heating pad for cramps",
+      "how to make a heating pad for cramps",
+      "heating pad diy",
+      "heating pad for cramps",
+      "how to make your own heating pad",
+      "diy heat pack"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170212",
+    "timestamp": 1486928806,
+    "duration": 105,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/-A-NNGQgL_0/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:58:36.269Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

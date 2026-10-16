@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.migration/
+.tmp/
+artifacts/
+test-results/
+playwright-report/
+*.log
+*.lock.tmp
+**/sync.lock
+**/*.tmp
+.env*
+!.env.example
+.npm-cache/

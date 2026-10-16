@@ -1,0 +1,57 @@
+{
+  "youtubeVideoId": "GYgVud9zDP0",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 689
+    }
+  ],
+  "discoveryRaw": {
+    "id": "GYgVud9zDP0",
+    "title": "How Long Should I Hold a Stretch? Answered by St. Joseph, MI Chiropractor",
+    "duration": 76,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/GYgVud9zDP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGjA87ZA_uxO7-PdIaAUsLLOgJWw"
+  },
+  "metadataRaw": {
+    "id": "GYgVud9zDP0",
+    "title": "How Long Should I Hold a Stretch? Answered by St. Joseph, MI Chiropractor",
+    "description": "Ever wondered how long you're supposed to be holding that stretch... 30 seconds? 60 Seconds? Longer? \n\nDr. Rowe helps answer this question and gives tips on what to do and what NOT to do while stretching.\n\nhttps://www.bestspinecare.com\n\nYour local St. Joseph | Benton Harbor | Stevensville, MI chiropractic source \n\n3134 Niles Rd\nSaint Joseph, MI 49085",
+    "tags": [
+      "st. joseph mi chiropractor",
+      "saint joseph mi chiropractor",
+      "stevensville mi chiropractor",
+      "benton harbor mi chiropractor",
+      "chiropractor 49085",
+      "stretches",
+      "exercise"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170428",
+    "timestamp": 1493343913,
+    "duration": 76,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/GYgVud9zDP0/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:51:58.117Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

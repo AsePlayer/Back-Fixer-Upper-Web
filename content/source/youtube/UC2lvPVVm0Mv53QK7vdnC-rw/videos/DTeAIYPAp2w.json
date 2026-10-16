@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "DTeAIYPAp2w",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 627
+    }
+  ],
+  "discoveryRaw": {
+    "id": "DTeAIYPAp2w",
+    "title": "Will a Herniated Disc Heal on Its Own? (SURPRISING ANSWER)",
+    "duration": 380,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/DTeAIYPAp2w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJV2c4k-1xqS1xAZlOun9jalwNIw"
+  },
+  "metadataRaw": {
+    "id": "DTeAIYPAp2w",
+    "title": "Will a Herniated Disc Heal on Its Own? (SURPRISING ANSWER)",
+    "description": "Are you worried that you might have a herniated disc, and that it's going to get worse, maybe to the point that it will need surgery?\n\nBefore stressing out too much, make sure to check out this video!\n\nDr. Rowe helps answer if a herniated disc will heal on its own. The answer might SURPRISE you.\n\nThe video breaks down the following (including what to do for each and how long they take to heal):\n\n* Bulging disc\n* Slipped disc\n* Ruptured disc\n* Herniated disc (including protrusion and extrusion)\n* Pinched nerve\n\nAs mention in the video:\nNeck stretches: https://youtu.be/1luPTFKWWMc\nLower back stretches: https://youtu.be/83NNLc1kCxI\n\nWatch now and take one step towards better health!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.\n\n#herniateddisc #discherniation  #bulgingdisc",
+    "tags": [
+      "Will a Herniated Disc Heal on Its Own",
+      "herniated disc",
+      "slipped disc",
+      "bulging disc",
+      "disc herniation",
+      "ruptured disc",
+      "herniated disk",
+      "spinal decompression",
+      "spinecare",
+      "dr. rowe",
+      "herniated disc lower back",
+      "herniated disc in neck",
+      "herniated disc sciatica",
+      "Herniated Disc Heal",
+      "herniated disc healing time",
+      "herniated disc healing time without surgery",
+      "can herniated discs heal on their own",
+      "can a disc herniation heal on its own",
+      "does a herniated disc heal by itself"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20190904",
+    "timestamp": 1567612805,
+    "duration": 380,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/DTeAIYPAp2w/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:42:37.561Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

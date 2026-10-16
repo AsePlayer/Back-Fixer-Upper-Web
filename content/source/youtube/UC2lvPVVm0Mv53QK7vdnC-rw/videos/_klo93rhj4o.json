@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "_klo93rhj4o",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 162
+    }
+  ],
+  "discoveryRaw": {
+    "id": "_klo93rhj4o",
+    "title": "Easy Way to Pop Your Wrist",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/_klo93rhj4o/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCYThG7_I0_o5O3n-C_cUXs5kORPA&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "_klo93rhj4o",
+    "title": "Easy Way to Pop Your Wrist",
+    "description": "Dr. Rowe shows an easy way to self-pop, crack, or release your wrist.\n\nIf your wrist feels locked up, stiff, or like it needs to be reset or popped, definitely check out this video—it might give you relief within seconds!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#wristpain #wristpainrelief #chiropractic",
+    "tags": [
+      "how to crack your wrist by yourself",
+      "how to self crack your wrist",
+      "how to adjust your wrist",
+      "how to safely self pop your wrist",
+      "how to safely self crack your wrist",
+      "how to self adjust your wrist",
+      "how to self pop your wrist",
+      "how to crack your wrist",
+      "how to pop your wrist by yourself",
+      "how to pop your own wrist",
+      "how to crack your own wrist",
+      "how to adjust your own wrist",
+      "how to self adjust wrist",
+      "how to self pop wrist",
+      "how to self crack wrist",
+      "spinecare",
+      "dr rowe",
+      "wrist pain",
+      "wrist"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250430",
+    "timestamp": 1746019828,
+    "duration": 98,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/_klo93rhj4o/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:44:35.714Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

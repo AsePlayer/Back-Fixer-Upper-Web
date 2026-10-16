@@ -1,0 +1,59 @@
+{
+  "youtubeVideoId": "fKjRwvcdewM",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 696
+    }
+  ],
+  "discoveryRaw": {
+    "id": "fKjRwvcdewM",
+    "title": "How to Do an Ice Massage (Shown by St. Joseph, MI Chiropractor)",
+    "duration": 161,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/fKjRwvcdewM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKaiOyBAjZP5j0IMnAD3DAGnDRHA"
+  },
+  "metadataRaw": {
+    "id": "fKjRwvcdewM",
+    "title": "How to Do an Ice Massage (Shown by St. Joseph, MI Chiropractor)",
+    "description": "TENDONITIS OR BURSITIS? Watch this video for a quick, easy tip that will show you how to apply ice and help reduce inflammation and pain.\n\nLearn more about when to use ice or heat: www.bestspinecare.com/heat\n\nHow to make a homemade heating pad: https://www.bestspinecare.com/homemade-heating-pad\n\n269-408-8439\n3134 Niles Rd\nSt. Joseph, MI 49085\n\nhttps://www.bestspinecare.com",
+    "tags": [
+      "St Joseph MI chiropractic",
+      "St joseph mi chiropractor",
+      "49085 chiropractor",
+      "tendonitis",
+      "bursitis",
+      "joint pain relief",
+      "inflammation",
+      "ice massage",
+      "ice therapy"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170221",
+    "timestamp": 1487637416,
+    "duration": 161,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/fKjRwvcdewM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:59:17.107Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

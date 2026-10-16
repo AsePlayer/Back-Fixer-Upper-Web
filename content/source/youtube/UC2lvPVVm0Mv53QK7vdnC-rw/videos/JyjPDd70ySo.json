@@ -1,0 +1,58 @@
+{
+  "youtubeVideoId": "JyjPDd70ySo",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 687
+    }
+  ],
+  "discoveryRaw": {
+    "id": "JyjPDd70ySo",
+    "title": "Spinal Stenosis: Causes and How to Treat It Without Surgery",
+    "duration": 264,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/JyjPDd70ySo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiOVlKUc7jGinC3oeP3xAhxdvUag"
+  },
+  "metadataRaw": {
+    "id": "JyjPDd70ySo",
+    "title": "Spinal Stenosis: Causes and How to Treat It Without Surgery",
+    "description": "Do you have trouble standing up straight due to pain, or difficulty walking even short distances before you have to stop and sit because it hurts so much? \n\nIf so, you might have a condition called spinal stenosis. In this video, Dr. Rowe goes over the signs and symptoms of spinal stenosis, and shares two effective treatments to help relieve pain.\n\nDr. Michael Rowe, DC\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.bestspinecare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://twitter.com/stjoechiro\nGoogle +: https://plus.google.com/118138578192885877068\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\n3134 Niles Rd\nSaint Joseph, MI 49085",
+    "tags": [
+      "st joseph mi chiropractor",
+      "st joseph mi chiropractic",
+      "stevensville mi chiropractor",
+      "stevensville mi chiropractic",
+      "benton harbor mi chiropractor",
+      "benton harbor mi chiropractic",
+      "spinal stenosis",
+      "spinal stenosis treatment"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170519",
+    "timestamp": 1495157122,
+    "duration": 264,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/JyjPDd70ySo/sddefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:01:34.182Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

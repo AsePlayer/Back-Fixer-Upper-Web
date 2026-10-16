@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "Yth0gTExbXs",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 655
+    }
+  ],
+  "discoveryRaw": {
+    "id": "Yth0gTExbXs",
+    "title": "What Is the Sciatic Nerve? How to Treat It Without Drugs, Injections, or Surgery",
+    "duration": 221,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/Yth0gTExbXs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ82DFUxo08YxJ45NvCwQuZoVynQ"
+  },
+  "metadataRaw": {
+    "id": "Yth0gTExbXs",
+    "title": "What Is the Sciatic Nerve? How to Treat It Without Drugs, Injections, or Surgery",
+    "description": "Anyone who currently suffers (or has ever suffered) from sciatic nerve pain knows what REAL pain feels like. \n\nIn this quick video, Dr. Rowe (St. Joseph, MI chiropractor) goes over what is the sciatic nerve, including its anatomy and associated symptoms. \n\nAlso, he shows some really effective ways to treat sciatic nerve pain without risky drugs, injections, or surgery. \n\nTo view the mentioned video about the main causes of sciatica, visit: https://www.bestspinecare.com/what-causes-sciatica/\n\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\n#sciaticnerve",
+    "tags": [
+      "what is the sciatic nerve",
+      "what causes sciatic nerve pain",
+      "surgery",
+      "sciatic nerve surgery",
+      "st joseph mi chiropractor",
+      "spinal decompression",
+      "sciatic nerve",
+      "sciatic nerve no surgery",
+      "sciatic nerve injection",
+      "sciatic nerve pain symptoms",
+      "sciatic nerve pain symptoms and causes",
+      "sciatic nerve pain treatment at-home",
+      "sciatic nerve pain spinal decompression",
+      "spinecare",
+      "dr. rowe",
+      "sciatic nerve anatomy"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180225",
+    "timestamp": 1519563602,
+    "duration": 221,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/Yth0gTExbXs/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:40:05.495Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

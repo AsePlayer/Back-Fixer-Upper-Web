@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "WMKxpmClCwY",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 591
+    }
+  ],
+  "discoveryRaw": {
+    "id": "WMKxpmClCwY",
+    "title": "Fix Lower Back Pain With a Towel",
+    "duration": 238,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/WMKxpmClCwY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1dz9hAPBawLMkQ-kVKiEdY3Kzsg"
+  },
+  "metadataRaw": {
+    "id": "WMKxpmClCwY",
+    "title": "Fix Lower Back Pain With a Towel",
+    "description": "Dr. Rowe shows how to fix lower back pain with a towel or bed sheet. It's EASY, EFFECTIVE and offers QUICK lower back pain relief.\n\nOne of the biggest causes of lower back pain today is inactivity, that we put ourselves in a position for too long. When we're in a spot too long, we tend to RUST UP.\n\nLike anything that becomes rusty, our spine becomes locked and stiff. When we do try to move, it's not easy and tends to hurt. \n\nSo let's focus on breaking through that rust and build mobility in our lower back with a modified yoga cat/cow stretch. Think of this as a great stretch in the lower back and taking it to the NEXT LEVEL.\n\nTwo variations of this exercise are going to be shown, so you can progress into slowly and at your comfort level. It's safe, effective and can give lower back pain relief in as little as 30 SECONDS.\n\nIf you're suffering from lower back pain and need INSTANT RELIEF, you'll not want to miss this.\n\nWatch now and stop low back pain for good!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content. \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK. \n\n#lowerbackpain #lowbackpain #lowerback",
+    "tags": [
+      "fix lower back pain with a towel",
+      "fix lower back pain with a bed sheet",
+      "fix low back pain with a towel",
+      "fix low back pain with a sheet",
+      "fix low back pain with a strap",
+      "fix lower back pain instantly",
+      "fix lower back pain quickly",
+      "towel lower back pain",
+      "bed sheet lower back pain",
+      "towel low back pain",
+      "at home lower back pain relief",
+      "lower back pain towel stretches",
+      "lower back pain towel exercise",
+      "low back pain towel exercise",
+      "low back pain towel stretch",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20200323",
+    "timestamp": 1584979208,
+    "duration": 237,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/WMKxpmClCwY/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:33:24.742Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "youtubeVideoId": "ByGdb9GtkrE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 85
+    }
+  ],
+  "discoveryRaw": {
+    "id": "ByGdb9GtkrE",
+    "title": "How to Instantly Fix a Backache (RELIEF IN SECONDS)",
+    "duration": 618,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/ByGdb9GtkrE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1AipnRn4JTpbzV-n55m44WFQrDA"
+  },
+  "metadataRaw": {
+    "id": "ByGdb9GtkrE",
+    "title": "How to Instantly Fix a Backache (RELIEF IN SECONDS)",
+    "description": "Dr. Rowe shows easy exercises that may help relieve a backache in as little as 30 seconds.\n\nThese exercises target the main muscles often responsible for pain, tightness, and stiffness in the back.\n\nEach exercise works a little differently. For the best results, try them all and use the ones that give you the most relief.\n\nWatch now and feel your backache ease in seconds!\n\nChapters: \n0:00 Intro\n0:29 Exercise 1\n2:18 Exercise 2\n3:45 Exercise 3\n5:29 Exercise 4\n6:54 Exercise 5\n8:39 Strengthening Exercise\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#backache #backpain #backpainrelief",
+    "tags": [
+      "how to instantly fix a backache",
+      "how to instantly relieve a backache",
+      "how to relieve a backache",
+      "how to fix a backache",
+      "how to treat a backache",
+      "backache",
+      "backache pain relief",
+      "backache relief",
+      "back pain",
+      "back pain relief",
+      "backache exercises",
+      "backache exercises at home",
+      "backache stretches at home",
+      "exercises to fix backache",
+      "stretches to fix backache",
+      "at home backache exercises",
+      "exercises for backache",
+      "stretches for backache",
+      "back ache",
+      "spinecare",
+      "dr rowe",
+      "backaches"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250825",
+    "timestamp": 1756128609,
+    "duration": 617,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/ByGdb9GtkrE/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:04.162Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

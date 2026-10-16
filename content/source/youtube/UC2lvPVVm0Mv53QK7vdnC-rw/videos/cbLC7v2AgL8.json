@@ -1,0 +1,61 @@
+{
+  "youtubeVideoId": "cbLC7v2AgL8",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 680
+    }
+  ],
+  "discoveryRaw": {
+    "id": "cbLC7v2AgL8",
+    "title": "How to Get Rid of Neck Tightness and Muscle Spasms in Seconds",
+    "duration": 117,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/cbLC7v2AgL8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDORz9D64A1DY0PaQ21YELDjfo28Q"
+  },
+  "metadataRaw": {
+    "id": "cbLC7v2AgL8",
+    "title": "How to Get Rid of Neck Tightness and Muscle Spasms in Seconds",
+    "description": "Dr. Rowe, St. Joseph MI Chiropractor, shares a quick tip that helps release neck tightness and muscle spasms that may cause neck pain, shoulder pain and tension headaches.\n\nIf you're suffering from neck pain and tightness, shoulder pain, or headaches and want quick relief... this is a MUST watch!\n\nhttps://www.bestspinecare.com\n3134 Niles Rd  Saint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to my YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor",
+    "tags": [
+      "st joseph mi chiropractor",
+      "neck tightness",
+      "neck pain",
+      "stevensville chiropractor",
+      "tension headaches",
+      "benton harbor mi chiropractor",
+      "neck tightness relief",
+      "neck muscle relief",
+      "tension headache relief",
+      "neck muscle spasms",
+      "neck pain relief"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170910",
+    "timestamp": 1505071345,
+    "duration": 117,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/cbLC7v2AgL8/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:51:25.427Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

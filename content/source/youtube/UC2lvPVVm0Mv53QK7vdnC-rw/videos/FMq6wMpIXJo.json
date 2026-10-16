@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "FMq6wMpIXJo",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 147
+    }
+  ],
+  "discoveryRaw": {
+    "id": "FMq6wMpIXJo",
+    "title": "One Move to Quickly Relieve Sinus Congestion",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/FMq6wMpIXJo/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDf1flkmQMUhJOz75L39e25zeN6XA&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "FMq6wMpIXJo",
+    "title": "One Move to Quickly Relieve Sinus Congestion",
+    "description": "Dr. Rowe demonstrates a simple, effective exercise to quickly relieve sinus pressure and nasal congestion.\n\nThis gentle technique can be done while lying in bed and may help clear a stuffy nose in as little as 30 seconds—perfect for those restless nights when congestion keeps you from sleeping.\n\nLet us know how well it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#stuffynose #sinuses #congestion",
+    "tags": [
+      "how to relieve a stuffy nose",
+      "how to clear a stuffy nose",
+      "how to relieve sinus congestion around nose",
+      "how to get rid of nose congestion fast",
+      "how to fix nose congestion",
+      "How to Instantly Fix a Stuffy Nose",
+      "how to instantly relieve a stuffy nose",
+      "stuffy nose",
+      "stuffy nose relief",
+      "nasal congestion",
+      "how to fix a stuffy nose fast",
+      "how to clear stuffy nose",
+      "congested nose",
+      "nose congestion",
+      "blocked nose",
+      "clogged nose",
+      "what to do if you have a stuffy nose",
+      "spinecare",
+      "dr rowe",
+      "nose"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250604",
+    "timestamp": 1749043828,
+    "duration": 176,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/FMq6wMpIXJo/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:48:25.021Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

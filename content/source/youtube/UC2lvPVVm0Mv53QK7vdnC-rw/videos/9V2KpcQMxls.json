@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "9V2KpcQMxls",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 672
+    }
+  ],
+  "discoveryRaw": {
+    "id": "9V2KpcQMxls",
+    "title": "Dr. Mike's MailBag: Episode 1",
+    "duration": 61,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/9V2KpcQMxls/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvmM2wLh_u8psWcJEugM1Z75iAAQ"
+  },
+  "metadataRaw": {
+    "id": "9V2KpcQMxls",
+    "title": "Dr. Mike's MailBag: Episode 1",
+    "description": "In this series, I'm going to help answer questions I get asked about health and wellness.\n\nIf you have a question you'd like me to answer in a future episode, please feel to leave it in the comments section below or send me an email at info@bestspinecare.com.\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "st joseph mi chiropractor",
+      "st joseph mi chiropractic",
+      "Dr. Rowe",
+      "Dr. Mike's MailMag",
+      "swimming",
+      "low back pain",
+      "exercise",
+      "stretches",
+      "what excercises help low back pain",
+      "stretches for low back pain",
+      "Swimming Exercises for Lower Back Pain Relief",
+      "Pool Swimming and Exercises for Back Pain",
+      "back pain relief",
+      "sciatica",
+      "pain",
+      "relief",
+      "how to get rid of low back pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20171207",
+    "timestamp": 1512671191,
+    "duration": 60,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/9V2KpcQMxls/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:01:56.728Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

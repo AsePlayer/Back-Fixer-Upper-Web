@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "UtjnM4YlBOM",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 169
+    }
+  ],
+  "discoveryRaw": {
+    "id": "UtjnM4YlBOM",
+    "title": "One Move to Quickly Realign Your Spine",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/UtjnM4YlBOM/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDeAFfYWH8vz07FVJZWMUosW9F3IA&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "UtjnM4YlBOM",
+    "title": "One Move to Quickly Realign Your Spine",
+    "description": "Dr. Rowe demonstrates a quick and effective stretch to help release tight back muscles that might be pulling your spine out of alignment—especially if you’re feeling tilted, crooked, or leaning to one side.\n\nNo equipment is needed, and it can be done at home. You may see results in as little as 30 seconds.\n\nGive it a try and let us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#posture #posturecorrection #postureexercises",
+    "tags": [
+      "best exercises to realign your spine",
+      "best exercises for spine alignment",
+      "exercises to realign spine",
+      "best exercises to realign your back",
+      "exercises to realign your back",
+      "spine alignment exercises",
+      "how to fix your back posture",
+      "how to fix your spine posture",
+      "how to fix your spine alignment",
+      "posture",
+      "posture correction",
+      "realign spine without chiropractor",
+      "fix posture without chiropractor",
+      "how to realign your back",
+      "how to realign your lower back",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250413",
+    "timestamp": 1744551021,
+    "duration": 95,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/UtjnM4YlBOM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:29:31.836Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

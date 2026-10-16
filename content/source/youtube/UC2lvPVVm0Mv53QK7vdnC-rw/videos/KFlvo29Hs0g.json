@@ -1,0 +1,64 @@
+{
+  "youtubeVideoId": "KFlvo29Hs0g",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 699
+    }
+  ],
+  "discoveryRaw": {
+    "id": "KFlvo29Hs0g",
+    "title": "St. Joseph MI Chiropractor Gives the 3 Main Causes of Sciatica Pain",
+    "duration": 228,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/KFlvo29Hs0g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ0zl-JcuLJLYR5SRxbFImxNuOYw"
+  },
+  "metadataRaw": {
+    "id": "KFlvo29Hs0g",
+    "title": "St. Joseph MI Chiropractor Gives the 3 Main Causes of Sciatica Pain",
+    "description": "https://www.bestspinecare.com\n\nIn this quick video, Dr. Rowe goes over the three main causes of sciatica pain: disc herniations or bulges, piriformis syndrome, and spinal stenosis.\n\nIf you're suffering from shooting sciatic nerve pain into the thigh, leg, calf, foot, or toes... this is a MUST watch. It's extremely important to know what exactly is causing your sciatica pain, that way you can get the correct treatment plan. \n\n269-408-8439\nhttps://www.bestspinecare.com\n3134 Niles Rd  St. Joseph, MI 49085\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow me on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to my YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "St. Joseph MI Chiropractor",
+      "St. Joseph MI Chiropractic",
+      "Best Chiropractor St Joseph MI",
+      "Chiropractor 49085",
+      "Chiropractic 49085",
+      "Sciatica",
+      "Sciatic Nerve Pain",
+      "Low Back Pain",
+      "Pain Relief",
+      "Sciatica Causes",
+      "Piriformis Syndrome",
+      "Spinal Stenosis",
+      "Disc Herniation",
+      "Herniated Disc"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170130",
+    "timestamp": 1485791195,
+    "duration": 228,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/KFlvo29Hs0g/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:02:15.226Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "youtubeVideoId": "WjXI9tc8yTU",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 172
+    }
+  ],
+  "discoveryRaw": {
+    "id": "WjXI9tc8yTU",
+    "title": "Stop Leg Muscle Loss by DOING THIS (Ages 55+)",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/WjXI9tc8yTU/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLARiQWA0uTn4vtLFpXYsaCSR6mSUQ&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "WjXI9tc8yTU",
+    "title": "Stop Leg Muscle Loss by DOING THIS (Ages 55+)",
+    "description": "Dr. Rowe demonstrates a great exercise to help reduce and reverse muscle loss in the legs caused by sarcopenia.\n\nSarcopenia is the gradual loss of muscle mass and strength due to aging, which can lead to balance issues and an increased risk of falls and injuries.\n\nThis exercise is perfect for fighting the effects of sarcopenia and can be done daily.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#sarcopenia #muscleloss #legstrengthening",
+    "tags": [
+      "how to stop muscle loss in your legs",
+      "how to prevent muscle loss in your legs",
+      "how to reverse muscle loss in your legs",
+      "how to avoid muscle loss in your legs",
+      "how to stop leg muscle loss",
+      "leg muscle loss",
+      "leg muscle loss due to aging",
+      "muscle loss due to aging",
+      "sarcopenia",
+      "leg strength loss due to aging",
+      "exercises to stop leg strength loss",
+      "leg strengthening exercises for elderly",
+      "leg strengthening for seniors",
+      "spinecare",
+      "dr rowe",
+      "how to stop age related muscle loss"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250406",
+    "timestamp": 1743946219,
+    "duration": 170,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/WjXI9tc8yTU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:34:20.179Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

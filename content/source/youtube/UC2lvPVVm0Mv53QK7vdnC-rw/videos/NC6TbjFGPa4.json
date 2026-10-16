@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "NC6TbjFGPa4",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 137
+    }
+  ],
+  "discoveryRaw": {
+    "id": "NC6TbjFGPa4",
+    "title": "One Move to Instantly Fix Middle Back Pain",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/NC6TbjFGPa4/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDFwlb-ddBo0k_Sr5eS9MvmcdWefw&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "NC6TbjFGPa4",
+    "title": "One Move to Instantly Fix Middle Back Pain",
+    "description": "Dr. Rowe demonstrates a unique stretch that can quickly relieve middle back pain and tightness.\n\nIt’s easy to do at home or work, requires no equipment, and may provide relief in as little as 30 seconds.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#midbackpain #middlebackpain #backpainrelief",
+    "tags": [
+      "how to relieve middle back pain",
+      "how to fix middle back pain",
+      "how to fix mid back pain",
+      "how to relieve mid back pain",
+      "how to treat middle back pain",
+      "how to get rid of middle back pain",
+      "how to cure middle back pain",
+      "middle back pain",
+      "middle back pain relief",
+      "middle back pain exercises",
+      "middle back pain stretches",
+      "exercises for middle back pain relief",
+      "stretches for middle back pain relief",
+      "mid back pain",
+      "mid back pain exercises",
+      "spinecare",
+      "dr rowe",
+      "mid back pain stretches"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250628",
+    "timestamp": 1751117415,
+    "duration": 99,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/NC6TbjFGPa4/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:09:31.492Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

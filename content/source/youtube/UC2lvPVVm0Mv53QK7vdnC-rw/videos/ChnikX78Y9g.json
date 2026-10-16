@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "ChnikX78Y9g",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 638
+    }
+  ],
+  "discoveryRaw": {
+    "id": "ChnikX78Y9g",
+    "title": "How to HEAL a Lower Back Injury FAST | Easy Step-By-Step Guide",
+    "duration": 610,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/ChnikX78Y9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0zEd_jJPsk82WopZLldv3V8aTuQ"
+  },
+  "metadataRaw": {
+    "id": "ChnikX78Y9g",
+    "title": "How to HEAL a Lower Back Injury FAST | Easy Step-By-Step Guide",
+    "description": "In this straightforward video, Dr. Mike Rowe shows how to heal a lower back injury fast in a step-by-step guide.\n\nAlso included are lower back pain stretches that may give instant relief. Check them out and get quickly get lower back pain relief!\n\nWatch now and take one step towards better health!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.\n\n#backinjury #backpain #lowerbackpain",
+    "tags": [
+      "how to heal a lower back injury fast",
+      "back pain",
+      "lower back pain",
+      "back pain (symptom)",
+      "low back pain",
+      "lower back pain exercises",
+      "back pain relief",
+      "lower back pain relief exercises at home",
+      "how to heal a lower back injury quickly",
+      "how to heal a lower back injury instantly",
+      "how to speed up lower back injury healing",
+      "how to speed up lower back injury recovery",
+      "how to speed up lower back recovery",
+      "how to speed up lower back healing",
+      "spinecare",
+      "dr. rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20190715",
+    "timestamp": 1563213600,
+    "duration": 610,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/ChnikX78Y9g/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:40:40.601Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

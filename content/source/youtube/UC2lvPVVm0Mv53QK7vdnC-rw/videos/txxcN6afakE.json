@@ -1,0 +1,76 @@
+{
+  "youtubeVideoId": "txxcN6afakE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 645
+    }
+  ],
+  "discoveryRaw": {
+    "id": "txxcN6afakE",
+    "title": "Degenerative Disc Disease Exercises | SpineCare St. Joseph, MI Chiropractic",
+    "duration": 35,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/txxcN6afakE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1cFhcV-0DsL-qoRAqMRD75wFUZw"
+  },
+  "metadataRaw": {
+    "id": "txxcN6afakE",
+    "title": "Degenerative Disc Disease Exercises | SpineCare St. Joseph, MI Chiropractic",
+    "description": "https://www.bestspinecare.com\n\nDEGENERATIVE DISC DISEASE EXERCISES.⠀\n⠀\nDegenerative disc disease (DDD), also known as spondylosis, is a common result of the aging process.\n⠀\nNot every case of DDD will cause debilitating pain, but the process may cause certain affects that will impact daily life, including loss of muscle and joint strength.⠀\n⠀\n👉 These exercises are geared towards helping to improve strength in the spinal joints and muscles.⠀⠀\n⠀\n👉 They may help improve lost flexibility, endurance, and aid in better support of the spine.⠀⠀\n\nTHE BIRD DOG:⠀\n1️⃣ Start on all fours.⠀\n2️⃣ Make sure arms inline with shoulders, knees are straight under the hips, back is straight.⠀\n3️⃣ Slowly, raise one leg so it's in line with the back. ⠀\n4️⃣ Return to starting position, then repeat on other side.⠀\n🔁 Repeat for 3 sets of 10 reps (each side).⠀\n\nCAT-CAMEL:⠀\n1️⃣ Start on all fours⠀\n2️⃣ Make sure arms inline with shoulders, knees are straight under the hips, back is straight.⠀\n3️⃣ Round the back, hold for 5-10 seconds⠀\n4️⃣ Then sway the back, letting the stomach sag towards the floor. Hold 5 to 10 seconds.⠀\n🔁 Repeat 5 times.⠀\n\n📣 Don't forget to spread the good word! Questions or comments? Hit me up!⠀⠀\n\n*************************************************\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "degenerative disc disease",
+      "back pain",
+      "sciatica",
+      "ddd",
+      "degenerative disc disease stretches",
+      "degenerative disc disease exercises",
+      "chiropractor",
+      "chiropractic",
+      "chiro",
+      "physical therapy",
+      "physical therapist",
+      "lower back pain",
+      "degenerative disk disease",
+      "degenerative disc",
+      "disc degeneration",
+      "degenerative disease",
+      "disc disease",
+      "st. joseph mi",
+      "saint joseph mi",
+      "st. joe mi",
+      "michigan",
+      "saint joseph",
+      "st. joseph",
+      "mi",
+      "st. joe",
+      "49085"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20181110",
+    "timestamp": 1541854807,
+    "duration": 35,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/txxcN6afakE/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:33:00.508Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "youtubeVideoId": "mFQI8HGNq6M",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 619
+    }
+  ],
+  "discoveryRaw": {
+    "id": "mFQI8HGNq6M",
+    "title": "How to Prevent Sciatica Pain When Sitting",
+    "duration": 362,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/mFQI8HGNq6M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBj7vKFa3I4ToY5yeyFyZX0KwswA"
+  },
+  "metadataRaw": {
+    "id": "mFQI8HGNq6M",
+    "title": "How to Prevent Sciatica Pain When Sitting",
+    "description": "Dr. Rowe goes over how to prevent sciatica pain when sitting with three EASY exercises.\n\nThese exercises can be done anywhere, and only require the chair you're sitting in. They focus on relieving tension and pressure off the sciatic nerve QUICKLY. \n\nThis not only makes them great towards helping to prevent future sciatica pain, but the exercises can also be used to ease current sciatica pain.\n\nWatch now and get some quick sciatica relief!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.\n\n#sciatica #sciaticarelief #sciaticapain",
+    "tags": [
+      "How to Prevent Sciatica Pain When Sitting",
+      "how to ease sciatica pain while sitting",
+      "how to relieve sciatica pain while sitting",
+      "how to get rid of sciatica pain while sitting",
+      "how to fix sciatica pain while sitting",
+      "how to prevent sciatica",
+      "how to ease sciatica",
+      "how to prevent sciatica pain at work",
+      "sciatic nerve flossing",
+      "how to prevent sciatic nerve pain",
+      "how to prevent sciatic nerve pain while sitting",
+      "how to ease sciatic nerve pain",
+      "how to relieve sciatic nerve pain",
+      "spinecare"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20191024",
+    "timestamp": 1571932809,
+    "duration": 362,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/mFQI8HGNq6M/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:14:48.217Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

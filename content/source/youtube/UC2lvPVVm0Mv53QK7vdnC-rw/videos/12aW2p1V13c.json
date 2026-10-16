@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "12aW2p1V13c",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 59
+    }
+  ],
+  "discoveryRaw": {
+    "id": "12aW2p1V13c",
+    "title": "How to Instantly Relieve Collarbone Pain",
+    "duration": 685,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/12aW2p1V13c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnBRvmWVu-tkh0LZsQKKmq3_Jkkg"
+  },
+  "metadataRaw": {
+    "id": "12aW2p1V13c",
+    "title": "How to Instantly Relieve Collarbone Pain",
+    "description": "Dr. Rowe shows easy, at-home exercises to help instantly relieve collarbone (clavicle) pain.\n\nA common cause of collarbone pain is tight muscles — such as the subclavius, pectorals, and sternocleidomastoid (SCM) — and their tendons pulling on the clavicle. This can lead to irritation and, over time, pain.\n\nTo address this, these exercises focus on stretching and strengthening those muscles for both quick and long-lasting relief.\n\nEach exercise works differently and targets specific muscles. For the best results, try them all and continue with the ones that give you the most relief.\n\nWatch now to instantly relieve collarbone pain at home!\n\nLink to foam roller: https://amzn.to/4ioGF8x\n\nChapters: \n0:00 Intro\n0:42 SCM Stretch\n2:19 Subclavius Stretch\n4:39 Shoulder Rolls\n6:59 Angels & Swimmers\n9:14 Strengthening Exercise\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#collarbonepain #clavicle #collarbone",
+    "tags": [
+      "how to instantly relieve collarbone pain",
+      "how to quickly relieve collarbone pain",
+      "how to relieve collarbone pain",
+      "how to fix collarbone pain",
+      "how to instantly fix collarbone pain",
+      "collarbone pain",
+      "collarbone pain relief",
+      "clavicle",
+      "collarbone",
+      "clavicle pain",
+      "clavicle pain relief",
+      "collarbone pain exercises",
+      "collarbone pain relief exercises",
+      "collarbone pain relief stretches",
+      "exercises for collarbone pain",
+      "exercises for clavicle pain",
+      "what to do for collarbone pain",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20251215",
+    "timestamp": 1765809002,
+    "duration": 685,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/12aW2p1V13c/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:56:22.916Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "n_sYNowydic",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 347
+    }
+  ],
+  "discoveryRaw": {
+    "id": "n_sYNowydic",
+    "title": "How to Relieve Carpal Tunnel Pain in SECONDS",
+    "duration": 629,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/n_sYNowydic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiJtxAOFGE-dbP2-H6_FgWqFR4dA"
+  },
+  "metadataRaw": {
+    "id": "n_sYNowydic",
+    "title": "How to Relieve Carpal Tunnel Pain in SECONDS",
+    "description": "Dr. Rowe shows a step-by-step guide to get quick and long-lasting carpal tunnel syndrome relief.\n\nCarpal tunnel syndrome is an overuse injury of wrist, that causes irritation and inflammation of the soft tissues around the carpal tunnel. This leads to compression of the median nerve.\n\nWhen the median nerve gets compressed (aka pinched) it may lead to numbness, tingling, and pain into the palm, thumb, and fingers. \n\nTo fix this, we're going to focus on lengthening and strengthening the muscles and tendons around the carpal tunnel. Make sure to go through all parts (and exercises) to get the best results!\n\nChapters:\n0:00 Intro\n1:11 Soft Tissue Release \n4:29 Median Nerve Glide\n6:34 Tendon Glides\n7:38 Strengthening Exercise\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/drmichaelrowe\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may receive commissions when you click on this video's links and make purchases. This helps support our channel so we can continue to give you helpful content. \n\n#carpaltunnelsyndrome #carpaltunnel #wristpain",
+    "tags": [
+      "how to relieve carpal tunnel pain in seconds",
+      "how to fix carpal tunnel pain in seconds",
+      "how to fix carpal tunnel pain",
+      "how to cure carpal tunnel pain",
+      "how to get rid of carpal tunnel",
+      "how to treat carpal tunnel pain at home",
+      "how to fix carpal tunnel",
+      "massage for carpal tunnel",
+      "exercises for carpal tunnel",
+      "stretches for carpal tunnel syndrome",
+      "carpal tunnel exercises",
+      "carpal tunnel stretches",
+      "carpal tunnel",
+      "carpal tunnel syndrome",
+      "carpal tunnel relief",
+      "spinecare",
+      "wrist pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20221201",
+    "timestamp": 1669905011,
+    "duration": 628,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/n_sYNowydic/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:18:07.476Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "fi0WjgqCBFk",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 30
+    }
+  ],
+  "discoveryRaw": {
+    "id": "fi0WjgqCBFk",
+    "title": "How to Fix Shoulder Pain in SECONDS",
+    "duration": 643,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/fi0WjgqCBFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASxGHGKNl2gQaWZ6lSPYYm245BXQ"
+  },
+  "metadataRaw": {
+    "id": "fi0WjgqCBFk",
+    "title": "How to Fix Shoulder Pain in SECONDS",
+    "description": "Dr. Rowe demonstrates simple exercises that can quickly relieve shoulder pain and tightness—even in as little as 30 seconds.\n\nThese movements help release tension in the shoulder muscles and tendons while improving joint mobility. They can also benefit people dealing with shoulder arthritis by easing stiffness and supporting a better range of motion.\n\nEach exercise works differently, so try them out and stick with the ones that provide the most relief.\n\nWatch now and start easing your shoulder pain in seconds!\n\nChapters: \n0:00 Intro\n0:25 Pendulum Swings\n2:35 Wall Slides\n4:18 Finger Hook\n5:57 Angels & Swimmers\n8:01 Strengthening Exercise\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#shoulderpain #shoulderpainrelief #shoulderpainexercises",
+    "tags": [
+      "instant shoulder pain relief",
+      "shoulder pain instant relief exercises",
+      "how to relieve shoulder pain in seconds",
+      "how to instantly relieve shoulder pain",
+      "how to quickly relieve shoulder pain",
+      "best way to relieve shoulder pain",
+      "shoulder pain",
+      "shoulder pain relief",
+      "shoulder pain exercises",
+      "shoulder pain relief stretches",
+      "stretches for shoulder pain",
+      "exercises for shoulder pain",
+      "at home shoulder pain relief",
+      "shoulder pain relief at home",
+      "shoulder pain treatment",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20260427",
+    "timestamp": 1777296654,
+    "duration": 642,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/fi0WjgqCBFk/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:55:35.965Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

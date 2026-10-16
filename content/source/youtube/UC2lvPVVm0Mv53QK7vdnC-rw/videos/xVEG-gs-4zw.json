@@ -1,0 +1,83 @@
+{
+  "youtubeVideoId": "xVEG-gs-4zw",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 668
+    }
+  ],
+  "discoveryRaw": {
+    "id": "xVEG-gs-4zw",
+    "title": "5 Best Lower Body Exercises for Seniors and Beginners",
+    "duration": 169,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/xVEG-gs-4zw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwlLCw3p5i2cTOcrMY6VC138qofQ"
+  },
+  "metadataRaw": {
+    "id": "xVEG-gs-4zw",
+    "title": "5 Best Lower Body Exercises for Seniors and Beginners",
+    "description": "In this video, Dr. Rowe demonstrates lower body exercises geared towards strengthening the lower back and legs. No equipment, other than an ordinary chair, is needed. \n\nThese are straightforward and easy, designed with older adults and beginners in mind. \n\nThis should help improve balance and coordination, increasing stability in the low back. \n\nDaily exercise and activity may help reduce arthritis pain, so give these a try and take one step towards better health!\n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "aging",
+      "exercise",
+      "strength",
+      "arthritis",
+      "elderly",
+      "geriatrics",
+      "seniors",
+      "older adults",
+      "beginners",
+      "hip",
+      "low back",
+      "lower back",
+      "back",
+      "mobility",
+      "workout for senior",
+      "leg workout",
+      "squats",
+      "no equipment",
+      "seated",
+      "leg strengthening exercises",
+      "independant living for seniors",
+      "chiropractor",
+      "chiropractic",
+      "saint joseph",
+      "mi",
+      "michigan",
+      "st. joseph",
+      "home workout",
+      "legs",
+      "strengthening",
+      "balance",
+      "coordination",
+      "stability"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180114",
+    "timestamp": 1515967656,
+    "duration": 169,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/xVEG-gs-4zw/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:42:50.922Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

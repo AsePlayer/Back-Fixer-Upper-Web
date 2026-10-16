@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "p7UJA9OX0oQ",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 188
+    }
+  ],
+  "discoveryRaw": {
+    "id": "p7UJA9OX0oQ",
+    "title": "Fix a Tension Headache in Seconds",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/p7UJA9OX0oQ/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLD8UCtaCQXBQ0bJXtOw3oZptfzYzg&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "p7UJA9OX0oQ",
+    "title": "Fix a Tension Headache in Seconds",
+    "description": "🚨 Tension headache? Get relief in seconds! 🚨\n\nDr. Rowe shares a quick and easy trick to loosen up tight muscles and stop headaches fast—no equipment needed! Do it anywhere, whether you're at home or work.\n\nTry it out and let us know if it works for you! 💬\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#headacherelief #tensionheadache #painfree",
+    "tags": [
+      "how to fix a tension headache",
+      "how to relieve a tension headache",
+      "how to stop a tension headache",
+      "how to get rid of a tension headache",
+      "tension headache",
+      "tension headache relief",
+      "tension headache relief in seconds",
+      "instant tension headache relief",
+      "quick tension headache relief",
+      "fast tension headache relief",
+      "tension headache relief exercises",
+      "exercises for tension headache",
+      "spinecare",
+      "dr rowe",
+      "headache",
+      "headache relief",
+      "how to relieve a headache naturally"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250222",
+    "timestamp": 1740234631,
+    "duration": 34,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/p7UJA9OX0oQ/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB6zhNGlUO65Hkn7AzK1b8GhXi9yQ"
+  },
+  "enrichedAt": "2026-10-11T01:20:39.914Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "youtubeVideoId": "e6-L2X3n5zA",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 694
+    }
+  ],
+  "discoveryRaw": {
+    "id": "e6-L2X3n5zA",
+    "title": "Exercises for Neck Pain (as Shown by St Joseph MI Chiropractor)",
+    "duration": 103,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/e6-L2X3n5zA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYjwPpP6e3dUrZ56ORt5X2pusNaQ"
+  },
+  "metadataRaw": {
+    "id": "e6-L2X3n5zA",
+    "title": "Exercises for Neck Pain (as Shown by St Joseph MI Chiropractor)",
+    "description": "Dr. Rowe demonstrates 4 easy neck exercises to help strengthen neck muscles, improve posture, and build stability in the cervical spine. \n\nThese exercises are paired perfectly with these neck stretches: https://www.bestspinecare.com/stretches-neck-pain/\n\nhttps://www.bestspinecare.com\n269-408-8439\n\nStevensville | Benton Harbor | St. Joseph MI Chiropractic Center",
+    "tags": [
+      "chiropractor st joseph mi",
+      "chiropractic st joseph mi",
+      "chiropractor 49085",
+      "neck exercises",
+      "neck stretches",
+      "tight neck muscles",
+      "cervical pain",
+      "neck pain",
+      "text neck"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170315",
+    "timestamp": 1489615677,
+    "duration": 103,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/e6-L2X3n5zA/sddefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:55:24.430Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

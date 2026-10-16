@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "vP52BSi5KkU",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 110
+    }
+  ],
+  "discoveryRaw": {
+    "id": "vP52BSi5KkU",
+    "title": "How to Strengthen Your Back and Hips (for NO MORE PAIN)",
+    "duration": 666,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/vP52BSi5KkU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmr5bZo5jazUZbvhEyHRVywMF-XQ"
+  },
+  "metadataRaw": {
+    "id": "vP52BSi5KkU",
+    "title": "How to Strengthen Your Back and Hips (for NO MORE PAIN)",
+    "description": "Dr. Rowe shows the best strengthening exercises to help keep the lower back and hips strong and flexible. \n\nThese exercises can be done daily, and may help give quick and long-lasting relief for back and hip pains, aches, and muscle tightness.\n\nLet us know how they work for you!\n\nChapters: \n0:00 Intro\n0:42 3D Dead-Bug\n2:59 Side-Lying Leg Raiser\n5:16 Hip Clocks\n7:07 Bird Dog Hydrant\n8:53 Clamshell Bridge\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#backpain #lowerbackpain #hippain",
+    "tags": [
+      "how to strengthen your back and hips",
+      "how to strengthen your lower back and hips",
+      "back and hip strengthening exercises",
+      "lower back and hip strengthening exercises",
+      "lower back and hip exercises",
+      "back and hip exercises",
+      "strengthening exercises for back and hips",
+      "back and hip pain relief",
+      "back and hip pain",
+      "lower back and hip pain relief exercises",
+      "back pain",
+      "back pain relief",
+      "hip pain",
+      "hip pain relief",
+      "lower back and hip pain",
+      "back and hip pain exercises",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250327",
+    "timestamp": 1743082240,
+    "duration": 666,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/vP52BSi5KkU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:54.448Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

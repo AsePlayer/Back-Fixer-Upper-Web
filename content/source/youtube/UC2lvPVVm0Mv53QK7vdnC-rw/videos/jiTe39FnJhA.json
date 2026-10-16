@@ -1,0 +1,70 @@
+{
+  "youtubeVideoId": "jiTe39FnJhA",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 158
+    }
+  ],
+  "discoveryRaw": {
+    "id": "jiTe39FnJhA",
+    "title": "Quick Crick in Neck Relief",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/jiTe39FnJhA/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBvjDk0_S9FRta3TVNBP1phdamw9A&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "jiTe39FnJhA",
+    "title": "Quick Crick in Neck Relief",
+    "description": "Dr. Rowe shares a super easy exercise to help get rid of a crick in your neck.\n\nIt’s perfect if you woke up with neck pain, a stiff neck, or are having trouble moving it.\n\nTry it out and let us know how it goes!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#neckpain #stiffneck #neckpainrelief",
+    "tags": [
+      "crick in your neck",
+      "crick in the neck",
+      "how to relieve a crick in your neck",
+      "how to fix a crick in your neck",
+      "exercises for a crick in the neck",
+      "stretches for a crick in the neck",
+      "stretches for crick in neck",
+      "exercises for crick in neck",
+      "crick in neck",
+      "crick in neck exercises",
+      "crick in neck stretches",
+      "painful crick in neck",
+      "crick in neck pain relief",
+      "relieving a crick in your neck",
+      "neck pain",
+      "neck pain relief",
+      "stiff neck",
+      "stiff neck relief",
+      "spinecare",
+      "dr rowe",
+      "cant turn head"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250510",
+    "timestamp": 1746883840,
+    "duration": 136,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/jiTe39FnJhA/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:08:31.915Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

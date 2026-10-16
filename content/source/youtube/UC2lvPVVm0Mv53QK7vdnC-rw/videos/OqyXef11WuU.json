@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "OqyXef11WuU",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 159
+    }
+  ],
+  "discoveryRaw": {
+    "id": "OqyXef11WuU",
+    "title": "Instant Stomach Ache Relief",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/OqyXef11WuU/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLB367MeRuT8OW47jXSp7V8f4s14Bg&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "OqyXef11WuU",
+    "title": "Instant Stomach Ache Relief",
+    "description": "Dr. Rowe demonstrates a quick exercise to relieve stomach aches and abdominal pain caused by constipation.\n\nIf you're feeling backed up, bloated, and uncomfortable, give this simple technique a try. It may help stimulate a bowel movement and quickly ease your stomach discomfort.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#stomachache #abdominalpain #constipation",
+    "tags": [
+      "how to quickly relieve a stomach ache",
+      "how to cure a stomach ache",
+      "how to treat a stomach ache",
+      "stomach ache",
+      "stomachache",
+      "stomach ache relief",
+      "what to do for a stomach ache",
+      "stomach ache home remedy",
+      "exercises for stomach ache",
+      "stomach pain",
+      "stomach pain relief",
+      "abdominal pain",
+      "abdominal pain relief",
+      "stomach ache relief exercises",
+      "how to fix a stomach ache fast",
+      "how to quickly relieve abdominal pain",
+      "how to quickly relieve stomach pain",
+      "spinecare",
+      "dr rowe",
+      "stomach"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250507",
+    "timestamp": 1746624618,
+    "duration": 92,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/OqyXef11WuU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:13:53.449Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

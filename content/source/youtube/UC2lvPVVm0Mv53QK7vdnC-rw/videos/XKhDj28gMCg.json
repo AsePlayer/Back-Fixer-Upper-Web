@@ -1,0 +1,79 @@
+{
+  "youtubeVideoId": "XKhDj28gMCg",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 671
+    }
+  ],
+  "discoveryRaw": {
+    "id": "XKhDj28gMCg",
+    "title": "Neck, Back, and Sciatica Pain Relief with Spinal Decompression Therapy | St. Joseph, MI",
+    "duration": 131,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/XKhDj28gMCg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-L7RrCC33voQFfHOaH61zdpMygg"
+  },
+  "metadataRaw": {
+    "id": "XKhDj28gMCg",
+    "title": "Neck, Back, and Sciatica Pain Relief with Spinal Decompression Therapy | St. Joseph, MI",
+    "description": "https://www.bestspinecare.com/spinal-decompression\n\nRelief from lasting and recurring neck, back, and sciatica pain is one of the top benefits of non-surgical spinal decompression therapy. \n\nNon-surgical spinal decompression therapy is used to reduce compression and irritation to nerves caused by disc and joint disorders. For many patients it offers a safe, pain-free, and non-surgical solution to chronic spinal conditions.\n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "spinal decompression therapy",
+      "spinal decompression therapy near me",
+      "spinal decompression",
+      "pain",
+      "relief",
+      "sciatica",
+      "herniated disc",
+      "herniated disk",
+      "bulging disc",
+      "bulging disk",
+      "pinched nerve",
+      "st. joseph",
+      "st joseph mi",
+      "saint joseph",
+      "stevensville",
+      "benton harbor",
+      "mi",
+      "michigan",
+      "low back pain",
+      "neck pain",
+      "back pain",
+      "decompression therapy",
+      "chiropractor",
+      "chiropractic",
+      "spinal stenosis",
+      "degenerative disc disease",
+      "no surgery",
+      "non surgical",
+      "sciatic nerve"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180107",
+    "timestamp": 1515285884,
+    "duration": 130,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/XKhDj28gMCg/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:35:59.713Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

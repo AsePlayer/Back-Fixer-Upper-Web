@@ -1,0 +1,58 @@
+{
+  "youtubeVideoId": "MWfyZH-oQ88",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 684
+    }
+  ],
+  "discoveryRaw": {
+    "id": "MWfyZH-oQ88",
+    "title": "Relief from Recurring Neck and Low Back Pain with Spinal Decompression Therapy | St. Joseph, MI",
+    "duration": 105,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/MWfyZH-oQ88/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuF-dVDzqBt2lu4AKiFAgm07m7Sw"
+  },
+  "metadataRaw": {
+    "id": "MWfyZH-oQ88",
+    "title": "Relief from Recurring Neck and Low Back Pain with Spinal Decompression Therapy | St. Joseph, MI",
+    "description": "Relief from lasting and recurring neck, back, and sciatica pain is one of the top benefits of non-surgical spinal decompression therapy. \n\nNon-surgical spinal decompression therapy is used to reduce compression and irritation to nerves caused by disc and joint disorders. For many patients it offers a safe, pain-free, and non-surgical solution to chronic spinal conditions.\n\nDr. Rowe, St. Joseph MI chiropractor, discusses spinal decompression therapy and why he recommends it to his patients. \n\nIf you are looking for effective back and neck pain relief, contact us at 269-408-8439 or visit us at https://www.bestspinecare.com",
+    "tags": [
+      "spinal decompression therapy",
+      "st. joseph mi chiropractor",
+      "neck pain",
+      "low back pain",
+      "sciatica",
+      "sciatic nerve pain",
+      "chiropractor",
+      "chiropractic"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170621",
+    "timestamp": 1498006941,
+    "duration": 105,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/MWfyZH-oQ88/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:07:34.330Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

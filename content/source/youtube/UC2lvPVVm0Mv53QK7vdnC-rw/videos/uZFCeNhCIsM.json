@@ -1,0 +1,60 @@
+{
+  "youtubeVideoId": "uZFCeNhCIsM",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 692
+    }
+  ],
+  "discoveryRaw": {
+    "id": "uZFCeNhCIsM",
+    "title": "Will a Pinched Nerve Heal on Its Own? Discussed by St. Joseph, MI Chiropractor",
+    "duration": 174,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/uZFCeNhCIsM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHtymsOr1-va0WTrWlj3vu8z6QbQ"
+  },
+  "metadataRaw": {
+    "id": "uZFCeNhCIsM",
+    "title": "Will a Pinched Nerve Heal on Its Own? Discussed by St. Joseph, MI Chiropractor",
+    "description": "Knowing under what circumstances a pinched nerve will heal can help you recover from this type of injury. \n\nLearn more at: https://www.bestspinecare.com\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\nYour local Stevensville, Benton Harbor, and St. Joseph, MI chiropractic center.",
+    "tags": [
+      "st joseph mi chiropractor",
+      "st joseph mi chiropractic",
+      "stevensville mi chiropractor",
+      "stevensville mi chiropractic",
+      "chiropractor 49085",
+      "pinched nerve",
+      "back pain",
+      "neck pain",
+      "herniated disc",
+      "sciatica"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170419",
+    "timestamp": 1492642760,
+    "duration": 173,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/uZFCeNhCIsM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:35:04.449Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

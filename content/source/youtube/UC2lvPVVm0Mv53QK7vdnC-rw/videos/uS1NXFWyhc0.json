@@ -1,0 +1,65 @@
+{
+  "youtubeVideoId": "uS1NXFWyhc0",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 522
+    }
+  ],
+  "discoveryRaw": {
+    "id": "uS1NXFWyhc0",
+    "title": "SAFE Core Exercises for Lower Back Pain Relief",
+    "duration": 652,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/uS1NXFWyhc0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQwe5DKGrMHRS64gqFhFW_pgdNwQ"
+  },
+  "metadataRaw": {
+    "id": "uS1NXFWyhc0",
+    "title": "SAFE Core Exercises for Lower Back Pain Relief",
+    "description": "Dr. Rowe shows safe core exercises for lower back pain relief. All of these core and abdominal muscle exercises can be done AT HOME with NO EQUIPMENT! \n\nAn overlooked cause of lower back pain is lack of core stability, including the abdominals (abs). Since the core muscles help brace the lower back, providing STABILITY and FUNCTION, it's important that we keep them strong.\n\nWe're going to target weak core and ab muscles through spine neutral (straight) exercises that are GENTLE on the lower back and less likely to cause irritation, pain, or discomfort. \n\nAlso, these core exercises will be shown in different positions (such as standing or seated) that will give more options to comfortably target the core and abdominal muscles.  \n\nWATCH NOW to strengthen the core and help prevent future lower back pain! \n\n****************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content. \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n#abs #core #chiropractic",
+    "tags": [
+      "SAFE Core Exercises for Lower Back Pain Relief",
+      "ab exercises for lower back pain relief",
+      "abdominal exercises for lower back pain relief",
+      "lower back pain relief",
+      "ab exercises that dont hurt your back",
+      "relieve back pain",
+      "lower back pain core exercises",
+      "best back and core exercises for lower back pain",
+      "core exercises to prevent lower back pain",
+      "how to fix weak core muscles",
+      "how to fix weak ab muscles",
+      "how to fix weak lower back",
+      "core strengthening exercises",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20210107",
+    "timestamp": 1610029811,
+    "duration": 651,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/uS1NXFWyhc0/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:34:49.141Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

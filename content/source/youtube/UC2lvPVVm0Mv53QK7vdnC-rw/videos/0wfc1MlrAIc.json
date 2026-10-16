@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "0wfc1MlrAIc",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 92
+    }
+  ],
+  "discoveryRaw": {
+    "id": "0wfc1MlrAIc",
+    "title": "30 SECOND FIX: Relieve Neck Pain Instantly",
+    "duration": 581,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/0wfc1MlrAIc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr7Endiz_LIky80FkyqXZZvrFcJg"
+  },
+  "metadataRaw": {
+    "id": "0wfc1MlrAIc",
+    "title": "30 SECOND FIX: Relieve Neck Pain Instantly",
+    "description": "Dr. Rowe demonstrates the best collection of proven exercises that target the main muscles responsible for neck pain—designed to deliver fast relief, even in as little as 30 seconds.\n\nThese exercises are effective for treating the main causes of neck pain, from minor muscle aches and tightness to more severe conditions such as pinched nerves (caused by a bulging or herniated disc).\n\nEach exercise works differently, targeting specific muscles from various positions. For the best results, try them all and use the ones that give you the most neck pain relief.\n\nWatch now and feel neck pain melt away in seconds!\n\nLink to neck traction unit: https://amzn.to/46RRHPO\n\nChapters: \n0:00 Intro\n0:26 Shrug and Tilt\n1:52 Reach and Twist\n3:13 Neck Traction \n4:17 The Turtle\n5:30 Decompression Stretch\n6:44 Upper Back Release (DON'T SKIP!)\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#neckpain #neckpainrelief #neckpainreliefexercises",
+    "tags": [
+      "how to fix neck pain in 30 seconds",
+      "how to fix neck pain in seconds",
+      "how to relieve neck pain in 30 seconds",
+      "how to relieve neck pain in seconds",
+      "how to stop neck pain in seconds",
+      "how to fix neck pain fast",
+      "how to instantly fix neck pain",
+      "neck pain",
+      "neck pain relief",
+      "neck pain relief exercises",
+      "neck pain exercises",
+      "neck pain relief in 30 seconds",
+      "exercises to fix neck pain in seconds",
+      "stretches to fix neck pain in seconds",
+      "spinecare",
+      "dr rowe",
+      "exercise for instant neck pain relief"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250721",
+    "timestamp": 1753104601,
+    "duration": 581,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/0wfc1MlrAIc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:13.624Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

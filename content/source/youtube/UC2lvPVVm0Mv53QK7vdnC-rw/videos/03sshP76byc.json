@@ -1,0 +1,72 @@
+{
+  "youtubeVideoId": "03sshP76byc",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 644
+    }
+  ],
+  "discoveryRaw": {
+    "id": "03sshP76byc",
+    "title": "What is Spondylolisthesis? SpineCare Chiropractic in St. Joseph MI",
+    "duration": 65,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/03sshP76byc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOO6VNfZv_ZXjBS2hVyI4O9TgsTA"
+  },
+  "metadataRaw": {
+    "id": "03sshP76byc",
+    "title": "What is Spondylolisthesis? SpineCare Chiropractic in St. Joseph MI",
+    "description": "https://www.bestspinecare.com\n\nSPONDYLOLISTHESIS EXPLAINED.\n\nSpondylolisthesis sounds like a long, fancy word. But if you break it down, ‘spondy’ means spine and ‘listhesis’ means slip. So put together, spondylolisthesis means ‘slip of the spine.’\n\nThis is where one vertebrae is shifting forward (or backwards) relative to the vertebrae above or below it. \n\nIt’s most commonly seen at the lowest lumbar segment, L5, and the first sacral segment, S1. \n\nThe big issue with spondylolisthesis is abnormal movement in the spine, which leads to instability. So the back or neck becomes unstable, making it more prone to injury. \n\nIt can be caused by a birth defect, degenerative disc disease, or traumatic injury. \n\nSymptoms include joint and muscle pain in the area affected, and it’s possible to have spinal nerve impingement (due to the shift) leading to traveling pains, numbness, and weakness. \n\nHope this helps answer some questions, leave some comments, and thanks for watching!\n\n*************************************************\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "Spondylolysis",
+      "Spondylolisthesis",
+      "lumbar spine",
+      "disc",
+      "degeneration",
+      "arthritis",
+      "spondylolisthesis treatment",
+      "how to treat spondylolisthesis",
+      "spondylolisthesis pain",
+      "surgery",
+      "pain",
+      "treatment",
+      "what is spondylolisthesis",
+      "spondylolisthesis explained",
+      "cure",
+      "chiropractic",
+      "chiropractor",
+      "physical therapy",
+      "physical therapist",
+      "st joe mi",
+      "st joseph mi",
+      "saint joseph mi"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20181115",
+    "timestamp": 1542301201,
+    "duration": 65,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/03sshP76byc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:58:48.035Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "youtubeVideoId": "jcm7_s2hlOM",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 163
+    }
+  ],
+  "discoveryRaw": {
+    "id": "jcm7_s2hlOM",
+    "title": "Quick Jaw Pain Relief",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/jcm7_s2hlOM/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDa8wVbT-6cLP-ZWH05uVauALHsHQ&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "jcm7_s2hlOM",
+    "title": "Quick Jaw Pain Relief",
+    "description": "Dr. Rowe shows the Pen Method—an easy exercise that can quickly relieve jaw and TMJ pain, and help reduce clicking and popping sounds. It may work in as little as 30 seconds.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#jawpain #jawpainrelief #tmj",
+    "tags": [
+      "temporomandibular joint",
+      "tmj jaw pain",
+      "tmj disorder",
+      "jaw pain relief exercises",
+      "tmj dysfunction",
+      "tmj pain exercises",
+      "jaw pain relief",
+      "jaw pain",
+      "at home jaw pain relief",
+      "how to cure jaw pain at home",
+      "how to treat jaw pain at home",
+      "how to fix jaw pain at home",
+      "how to relieve jaw pain at home",
+      "how to get rid of jaw pain at home",
+      "at home jaw exercises",
+      "jaw pain fix",
+      "jaw pain treatment",
+      "jaw pain stretches",
+      "spinecare",
+      "dr rowe",
+      "how to relieve jaw pain in seconds",
+      "jaw pain exercises"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250427",
+    "timestamp": 1745760643,
+    "duration": 131,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/jcm7_s2hlOM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:08:16.733Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

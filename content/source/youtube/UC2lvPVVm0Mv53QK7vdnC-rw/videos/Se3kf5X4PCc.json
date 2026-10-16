@@ -1,0 +1,88 @@
+{
+  "youtubeVideoId": "Se3kf5X4PCc",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 666
+    }
+  ],
+  "discoveryRaw": {
+    "id": "Se3kf5X4PCc",
+    "title": "3 Chair Stretches for Lower Back Pain | Stretch at Your Desk",
+    "duration": 123,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/Se3kf5X4PCc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuADxy1EOID41pULxFBM_bUc6CgA"
+  },
+  "metadataRaw": {
+    "id": "Se3kf5X4PCc",
+    "title": "3 Chair Stretches for Lower Back Pain | Stretch at Your Desk",
+    "description": "Dr. Rowe, St. Joseph MI chiropractor, goes over his personal favorite seated stretches for lower back pain and muscle stiffness. \n\nThey're quick, easy, and effective... and they only take a couple minutes of your time.\n\nIf you're office worker that suffers from lower back pain or tightness and are looking for something you can do at your desk, you'll want to check out this video. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "chair stretches",
+      "seated stretches",
+      "desk stretches",
+      "office stretches",
+      "office exercises",
+      "seated exercises",
+      "desk exercises",
+      "chair exercises",
+      "stretch at work",
+      "exercise at work",
+      "exercise at desk",
+      "office",
+      "work",
+      "desk",
+      "chair",
+      "seated",
+      "stretch",
+      "stretching",
+      "exercise",
+      "exercises",
+      "low back",
+      "lower back",
+      "back",
+      "muscle",
+      "tightness",
+      "sciatica",
+      "pain",
+      "relief",
+      "chiropractor",
+      "st joseph",
+      "mi",
+      "saint joseph",
+      "piriformis",
+      "hamstring",
+      "butt",
+      "buttock",
+      "glute",
+      "leg"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180121",
+    "timestamp": 1516553307,
+    "duration": 123,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/Se3kf5X4PCc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:25:16.785Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

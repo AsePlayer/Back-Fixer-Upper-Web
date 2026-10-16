@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "zyHT_Nw1xmc",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 109
+    }
+  ],
+  "discoveryRaw": {
+    "id": "zyHT_Nw1xmc",
+    "title": "How to Heal and Repair Your Knee WITHOUT SURGERY",
+    "duration": 923,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/zyHT_Nw1xmc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB6WSZAbN6pCkrV2BhnQgmE2ithQ"
+  },
+  "metadataRaw": {
+    "id": "zyHT_Nw1xmc",
+    "title": "How to Heal and Repair Your Knee WITHOUT SURGERY",
+    "description": "Dr. Rowe demonstrates exercises designed to help heal and repair knee injuries and damage—without surgery.\n\nThese moves focus on improving blood flow and circulation to the knee, speeding up the healing of soft tissues (including cartilage), while also strengthening the key muscles and tendons that support knee stability.\n\nEach exercise targets the knee differently. For best results, try them all and use the ones that work best for you.\n\nWatch now and take a step toward avoiding knee surgery!\n\nChapters: \n0:00 Intro\n1:27 Circulation Exercise 1\n4:35 Circulation Exercise 2\n6:36 Strengthening Exercise 1\n10:23 Strengthening Exercise 2\n11:38 Strengthening Exercise 3\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#kneepain #kneepainrelief #nosurgery",
+    "tags": [
+      "how to heal and repair your knee without surgery",
+      "how to repair your knee without surgery",
+      "how to fix your knee without surgery",
+      "how to heal your knee without surgery",
+      "repair knee cartilage without surgery",
+      "fix knee cartilage without surgery",
+      "fix knee injury without surgery",
+      "repair knee injury without surgery",
+      "fix knee without surgery",
+      "fix knee no surgery",
+      "heal knee no surgery",
+      "knee pain",
+      "knee pain relief",
+      "how to fix knee without surgery",
+      "spinecare",
+      "dr rowe",
+      "avoid knee surgery"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250414",
+    "timestamp": 1744637457,
+    "duration": 922,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/zyHT_Nw1xmc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:51.527Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

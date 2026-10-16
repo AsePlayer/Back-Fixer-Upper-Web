@@ -1,0 +1,71 @@
+{
+  "youtubeVideoId": "Dp5_P003SYM",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 643
+    }
+  ],
+  "discoveryRaw": {
+    "id": "Dp5_P003SYM",
+    "title": "What is Cervical Radiculopathy?",
+    "duration": 49,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/Dp5_P003SYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGjAu5M9k1F80ScFRRl8ljMMbqFw"
+  },
+  "metadataRaw": {
+    "id": "Dp5_P003SYM",
+    "title": "What is Cervical Radiculopathy?",
+    "description": "WHAT IS CERVICAL RADICULOPATHY?\n\n👉 Cervical radiculopathy is caused when a spinal nerve root in the neck becomes pinched or irritated. It’s usually caused by a herniated disc or spinal stenosis. \n\nThese nerve roots are responsible for supplying sensation and muscle function to the upper part of the body.\n\nIrritation to these nerve roots may cause pain, numbness, and weakness to the area where the nerves travel. \n\n👉 Symptoms usually are sharp, shooting pains in the neck, shoulder, arm, or hand.\n\n📣 Don't forget to spread the good word! Questions or comments? Hit me up!\n\n*************************************************\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "CERVICAL RADICULOPATHY",
+      "what is cervical radiculopathy",
+      "cervical radiculopathy explained",
+      "pinched nerve",
+      "neck pain",
+      "herniated disc",
+      "bulging disc",
+      "forward head posture",
+      "pinched nerve in neck",
+      "cervical disc",
+      "cervical pain",
+      "radiculopathy",
+      "chiropractic",
+      "chiropractor",
+      "physical therapy",
+      "physical therapist",
+      "st joe mi",
+      "saint joseph mi",
+      "st joseph mi",
+      "cervical radiculopathy",
+      "cervical radiculopathy treatment"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20181129",
+    "timestamp": 1543514400,
+    "duration": 49,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/Dp5_P003SYM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:43:27.255Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

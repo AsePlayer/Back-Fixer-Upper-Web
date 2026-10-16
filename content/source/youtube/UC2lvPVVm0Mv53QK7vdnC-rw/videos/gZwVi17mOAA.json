@@ -1,0 +1,77 @@
+{
+  "youtubeVideoId": "gZwVi17mOAA",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 675
+    }
+  ],
+  "discoveryRaw": {
+    "id": "gZwVi17mOAA",
+    "title": "1 Minute Pain Relief: Neck Stretches",
+    "duration": 84,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/gZwVi17mOAA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4AZBNKVUU4Vy9uno0ibE3ThmkBg"
+  },
+  "metadataRaw": {
+    "id": "gZwVi17mOAA",
+    "title": "1 Minute Pain Relief: Neck Stretches",
+    "description": "A quick and easy way to help relieve neck muscle tightness and stiffness. \n\nIf you suffer from neck pain, achy joints, and tight neck muscles ... give these a try and get some neck pain relief in as little as 1 minute.\n\nEffective with: \nCervical degenerative disc disease\nStiff neck\nMuscle tightness\nUpper back muscle tension\nHeadaches\nCervical osteoarthritis  \n\n\nhttps://www.BestSpineCare.com\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor\n\n#neckpain #neckpainrelief #neckstretches",
+    "tags": [
+      "neck stretches",
+      "neck stretches for neck pain",
+      "neck stretches for stiff neck",
+      "neck stretches for pinched nerve",
+      "neck stretches for headache",
+      "neck pain",
+      "stretches",
+      "neck pain relief",
+      "Neck (Anatomical Structure)",
+      "Pain (Symptom)",
+      "exercise",
+      "sore neck",
+      "stiff neck",
+      "cervical",
+      "upper back tightness",
+      "tightness",
+      "stiffness",
+      "tension",
+      "muscle",
+      "chiropractor",
+      "chiropractic",
+      "st. joseph mi chiropractor",
+      "neck pain treatment",
+      "relieve neck pain",
+      "how to relieve neck pain",
+      "how to",
+      "stiff neck relief"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20171015",
+    "timestamp": 1508086493,
+    "duration": 84,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/gZwVi17mOAA/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:01:30.144Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

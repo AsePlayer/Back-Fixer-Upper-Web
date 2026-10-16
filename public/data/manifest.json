@@ -1,0 +1,178 @@
+{
+  "schema": 1,
+  "revision": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358",
+  "classifierVersion": 1,
+  "count": 1308,
+  "creators": [
+    {
+      "id": "dr-rowe",
+      "displayName": "Dr. Rowe",
+      "canonicalUrl": "https://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+      "channelId": "UC2lvPVVm0Mv53QK7vdnC-rw",
+      "handle": "@DrRowe",
+      "credential": "Doctor of Chiropractic",
+      "verificationUrl": "https://www.bestspinecare.com/about-us/",
+      "sourceUrl": "https://www.bestspinecare.com/about-us/",
+      "enabled": true
+    }
+  ],
+  "index": {
+    "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/index.json",
+    "sha256": "57c3d6826e5a8cb33a06fae6b5ed1012b1458242ee8b262e06fb32e6d8b2cf2c",
+    "bytes": 1339540
+  },
+  "chunks": [
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-000.json",
+      "sha256": "f3f8ee687e851c6b677191c60c0799b5d97e080570f219c33e4fb0bfdd80ff98",
+      "bytes": 275214,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-001.json",
+      "sha256": "98d26efdad49fac2045cc803929b43b6a9fb93df256ed6e6c81697a2cc0af724",
+      "bytes": 278922,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-002.json",
+      "sha256": "1bd7d2aee1afad3e8b9a1790b06971c284e98f488a5ff9708766e90d6286c968",
+      "bytes": 280510,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-003.json",
+      "sha256": "1d0312e9f4d028794249ca2edee81bb7b0d978b392d9bc3e5fe6b4f385a9990c",
+      "bytes": 269772,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-004.json",
+      "sha256": "bf208d5e94fde6a7a3a9e0b5e6087586f025bd1d6b9f7df987ed5c4e82d9149c",
+      "bytes": 263436,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-005.json",
+      "sha256": "6142f4690eb63708e34aa744f277fe3eeb4c861c21c416e45b34fe59e758595c",
+      "bytes": 281234,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-006.json",
+      "sha256": "05f6ebc99cfdf69b5dc392d9863d29ea35f72cde00ca02b152875d294af7944f",
+      "bytes": 290878,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-007.json",
+      "sha256": "d234990639e5d3637ff6194540ff184a33da67fec82bfa67fd0a8c56337ca4e8",
+      "bytes": 298477,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-008.json",
+      "sha256": "8fab9fa77a57b1f71063d8c7234c3b654f9ac281aaf6b5a3d8fe409fc6d7eb17",
+      "bytes": 294334,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-009.json",
+      "sha256": "0f70ba2347b0099c5ef60f14b68955eddebc25ae4f8155f06488592acd0fac50",
+      "bytes": 291325,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-010.json",
+      "sha256": "aa14bb8e93265487f4a3f2bae4d1f9a08e69e8fa592735220c74cdf013506e92",
+      "bytes": 288861,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-011.json",
+      "sha256": "6d33423e4c7c4cee216c07e69753b73d5323b113902250cee5d9fd57a4b6b9b3",
+      "bytes": 293945,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-012.json",
+      "sha256": "65175a005a0077c29ef7655da56e4416b1b5033e4d5bc94a7e335ba968bb5981",
+      "bytes": 296426,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-013.json",
+      "sha256": "ea1cfeff6524f539ac581819b96533acc60debb77d2ecdce70ab0a79dc4dc0e3",
+      "bytes": 291672,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-014.json",
+      "sha256": "84c012d742402eaaf63737e41dc0604c20db6be9bbb6c1dd84f1d7a218818d86",
+      "bytes": 288930,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-015.json",
+      "sha256": "bccf7c65780fc5319ea0a1071d6a4d0c55af59c74d0c2e7b534cb98fe295fcb3",
+      "bytes": 290091,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-016.json",
+      "sha256": "a3e81f93d3d15f108eed852c2be454f7720b350ad5dda41b034477c1e97df3db",
+      "bytes": 315267,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-017.json",
+      "sha256": "fff7a8d491b9a3269fa12ea53617d2757b2fc364099861e1f569f849ba740c54",
+      "bytes": 316188,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-018.json",
+      "sha256": "75f847f9f330639c2e59e308b3ee5ab814f60e461a59775223e320edf7874118",
+      "bytes": 305321,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-019.json",
+      "sha256": "b1e52594ac84407240ec81287d2253d52481b5cb96cf2de8dce9a80c3cef41ac",
+      "bytes": 267851,
+      "count": 64
+    },
+    {
+      "path": "4fff90505e3be231904328d141b45c8a050ebd9e866c1da2c5d24005ae579358/details-020.json",
+      "sha256": "f55aba3174139c1ac222ed1f62bf87f1382544e88a06583de96c6c61910e2455",
+      "bytes": 79434,
+      "count": 28
+    }
+  ],
+  "regions": [
+    "ankles",
+    "arms",
+    "calves",
+    "elbows",
+    "feet",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "hands",
+    "head",
+    "hips",
+    "jaw",
+    "knees",
+    "lower_back",
+    "mid_back",
+    "neck",
+    "pelvis_si",
+    "ribs_chest",
+    "shoulders",
+    "thighs",
+    "upper_back",
+    "whole_body",
+    "wrists"
+  ],
+  "unclassified": 178
+}

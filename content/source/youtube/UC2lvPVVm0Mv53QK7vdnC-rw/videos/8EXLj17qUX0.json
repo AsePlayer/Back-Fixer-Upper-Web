@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "8EXLj17qUX0",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 592
+    }
+  ],
+  "discoveryRaw": {
+    "id": "8EXLj17qUX0",
+    "title": "Best Back Stretch for a Better Golf Swing #Shorts",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/8EXLj17qUX0/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBoPQmJiiwGZcQ4V2n_U_opuHscMg"
+  },
+  "metadataRaw": {
+    "id": "8EXLj17qUX0",
+    "title": "Best Back Stretch for a Better Golf Swing #Shorts",
+    "description": "Dr. Rowe shows an amazing daily exercise that may help improve your golf swing.\n\nIf you're dealing with pain while swinging a club, or just looking for an everyday mobility exercise to improve flexibility... check this one out. \n\nIt can be done pretty much anywhere, anytime, and requires no equipment.\n\nGive it a try and leave us a comment below on how it works for you! \n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/drmichaelrowe\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n#golf #golfswing #backpain",
+    "tags": [
+      "Best Back Stretch for a Better Golf Swing",
+      "golf flexibility exercises for seniors",
+      "golf swing exercises",
+      "golf swing stretches",
+      "stretches to improve golf swing",
+      "exercises to improve golf swing",
+      "exercises to improve golf swing rotation",
+      "exercises to improve golf swing follow through",
+      "exercises to improve golf swing for seniors",
+      "best golf flexibility exercises",
+      "best golf mobility exercises",
+      "golf exercises for flexibility",
+      "golf",
+      "golf swing",
+      "spinecare",
+      "dr rowe",
+      "golf exercises"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20220319",
+    "timestamp": 1647696600,
+    "duration": 45,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/8EXLj17qUX0/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:01:46.903Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

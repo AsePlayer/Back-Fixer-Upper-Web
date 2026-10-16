@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "IKonURoVXPs",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 176
+    }
+  ],
+  "discoveryRaw": {
+    "id": "IKonURoVXPs",
+    "title": "Sciatic Nerve Release for INSTANT RELIEF",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/IKonURoVXPs/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBuNdDh5I5D2YBt3wBCCjPJxyFbRw&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "IKonURoVXPs",
+    "title": "Sciatic Nerve Release for INSTANT RELIEF",
+    "description": "Dr. Rowe demonstrates a sciatic nerve release technique that may provide instant sciatica relief, often within 30 seconds.\n\nThis method targets tension along the sciatic nerve pathway, particularly in the glutes and piriformis muscle areas. It's especially effective for relieving deep gluteal syndrome and piriformis syndrome.\n\nGive it a try and let us know your results!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#sciatica #sciaticarelief #sciaticnervepain",
+    "tags": [
+      "best sciatic nerve release",
+      "sciatic nerve release",
+      "sciatic nerve release exercises",
+      "how to release the sciatic nerve",
+      "exercises to release sciatic nerve",
+      "stretches to release sciatic nerve",
+      "sciatica",
+      "sciatica pain",
+      "sciatica relief",
+      "sciatica pain relief",
+      "sciatica pain relief stretches",
+      "how to release pressure from sciatic nerve",
+      "sciatic nerve pain exercises",
+      "exercises for sciatic nerve pain",
+      "sciatic nerve",
+      "sciatic nerve pain",
+      "sciatic nerve pain relief",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250329",
+    "timestamp": 1743255017,
+    "duration": 150,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/IKonURoVXPs/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:56:32.477Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

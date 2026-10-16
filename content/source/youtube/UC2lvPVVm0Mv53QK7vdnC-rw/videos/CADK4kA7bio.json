@@ -1,0 +1,65 @@
+{
+  "youtubeVideoId": "CADK4kA7bio",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 187
+    }
+  ],
+  "discoveryRaw": {
+    "id": "CADK4kA7bio",
+    "title": "Breathe Deeper & Stronger with This One Move #Shorts",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/CADK4kA7bio/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBST6UKuwXrac6IcIdTOSyFPJi_pg&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "CADK4kA7bio",
+    "title": "Breathe Deeper & Stronger with This One Move #Shorts",
+    "description": "Dr. Rowe demonstrates the Candle Method, a simple and effective exercise designed to strengthen your diaphragm and improve your breathing.\n\nBy practicing this technique, you can enhance your breath control and breathe more easily.\n\nGive it a try and let us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#breathing #breathingexercise #breathingexercises",
+    "tags": [
+      "how to strengthen your diaphragm",
+      "how to strengthen your diaphragm for breathing",
+      "how to improve your breathing",
+      "breathing exercises",
+      "exercises to improve breathing",
+      "how to improve breathing",
+      "diaphragm",
+      "diaphragm exercises",
+      "diaphragm exercises for breathing",
+      "diaphragm breathing exercises",
+      "improve breathing",
+      "better breathing",
+      "how to breathe properly",
+      "breathing exercises for lungs",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250226",
+    "timestamp": 1740580205,
+    "duration": 51,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/CADK4kA7bio/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYMiBMKH8wDw==&rs=AOn4CLCTTyLZaU8ZmFRr1BwAWtqL8HByLQ"
+  },
+  "enrichedAt": "2026-10-10T23:39:16.353Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

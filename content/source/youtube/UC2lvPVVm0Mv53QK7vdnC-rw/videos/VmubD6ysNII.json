@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "VmubD6ysNII",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 167
+    }
+  ],
+  "discoveryRaw": {
+    "id": "VmubD6ysNII",
+    "title": "Standing Sciatica Release (RELIEF IN SECONDS!)",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/VmubD6ysNII/oardefault.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCgnOKPxWgdivoqX8KJCASKAWNjCQ&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "VmubD6ysNII",
+    "title": "Standing Sciatica Release (RELIEF IN SECONDS!)",
+    "description": "Dr. Rowe demonstrates a standing sciatic nerve release (also known as nerve flossing) that may provide sciatica pain relief in just 30 seconds.\n\nIt works by reducing pressure and tension along the sciatic nerve as it travels from the lower back into the leg. Use it at home or at work whenever a flare-up strikes and you need quick relief.\n\nLet us know how it works for you!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#sciatica #sciaticarelief #sciaticnervepain",
+    "tags": [
+      "best standing sciatica exercises",
+      "how to relieve sciatica standing",
+      "how to fix sciatica standing",
+      "how to ease sciatica standing",
+      "standing sciatica stretches",
+      "standing sciatica exercises",
+      "standing sciatica pain relief exercises",
+      "standing sciatica pain",
+      "sciatica while standing",
+      "sciatica exercises standing up",
+      "how to stand with sciatica pain",
+      "how to stand up with sciatica pain",
+      "sciatic nerve pain",
+      "sciatica treatment",
+      "sciatica",
+      "sciatica pain relief",
+      "spinecare",
+      "dr rowe",
+      "sciatica pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250419",
+    "timestamp": 1745069432,
+    "duration": 148,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/VmubD6ysNII/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:31:35.386Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "youtubeVideoId": "9XNGGb8pcKU",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 674
+    }
+  ],
+  "discoveryRaw": {
+    "id": "9XNGGb8pcKU",
+    "title": "What is a Lumbar Herniated Disc? How to Treat It Without Surgery (ANIMATED VIDEO).",
+    "duration": 117,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/9XNGGb8pcKU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJiuX48xbEtqh6FB6K1SUJC1reDQ"
+  },
+  "metadataRaw": {
+    "id": "9XNGGb8pcKU",
+    "title": "What is a Lumbar Herniated Disc? How to Treat It Without Surgery (ANIMATED VIDEO).",
+    "description": "https://www.BestSpineCare.com\n\nA common cause of lower back and sciatica  pain is from a lumbar ruptured disc or herniated disc. \n\nIn this quick animated video, Dr. Rowe (St. Joseph, MI chiropractor) goes over what a lumbar disc herniation is, and how to treat it without surgery.\n\nLearn more about SPINAL DECOMPRESSION THERAPY at: https://www.bestspinecare.com/spinal-decompression/\n\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor",
+    "tags": [
+      "disc herniation",
+      "herniated disc",
+      "lumbar",
+      "slipped disc",
+      "disc protrusion",
+      "ruptured disc",
+      "extruded disc",
+      "back surgery",
+      "low back pain",
+      "lower back pain",
+      "sciatica",
+      "pain",
+      "leg pain",
+      "leg weakness",
+      "pinched nerve",
+      "herniation",
+      "low back",
+      "lower back",
+      "back pain",
+      "relief",
+      "herniated disc symptoms",
+      "what is a herniated disc",
+      "back problems",
+      "fix",
+      "cure",
+      "treatment",
+      "causes",
+      "heal a herniated disc",
+      "sciatic nerve",
+      "chiropractor",
+      "chiropractic",
+      "spinal decompression therapy",
+      "decompression",
+      "st. joseph",
+      "mi"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20171105",
+    "timestamp": 1509901708,
+    "duration": 116,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/9XNGGb8pcKU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:01:58.116Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "youtubeVideoId": "WLOZeqg-CMQ",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 95
+    }
+  ],
+  "discoveryRaw": {
+    "id": "WLOZeqg-CMQ",
+    "title": "30 SECOND FIX: Instant Hip Pain Relief",
+    "duration": 679,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/WLOZeqg-CMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmAIFO2UPHQeehw2Cs1TV-wAlG2Q"
+  },
+  "metadataRaw": {
+    "id": "WLOZeqg-CMQ",
+    "title": "30 SECOND FIX: Instant Hip Pain Relief",
+    "description": "Dr. Rowe demonstrates a collection of proven exercises that target the main muscles responsible for hip pain—designed to deliver fast relief, even in as little as 30 seconds.\n\nEach exercise works differently, targeting specific muscles from various positions. For the best results, try them all and use the ones that give you the most relief.\n\nWatch now and feel hip melt away in seconds!\n\nChapters: \n0:00 Intro\n0:38 Butterfly/Corkscrew Combo\n2:34 Seated Hip Press\n4:51 Step-Back\n6:26 Strengthening Exercise 1\n8:21 Strengthening Exercise 2\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content.\n\n#hippain #hippainrelief #hippainexercises",
+    "tags": [
+      "how to fix hip pain in 30 seconds",
+      "how to relieve hip pain in 30 seconds",
+      "how to get rid of hip pain in 30 seconds",
+      "how to fix hip pain in seconds",
+      "how to cure hip pain in seconds",
+      "hip pain",
+      "hip pain relief",
+      "exercises to relieve hip pain in seconds",
+      "stretches to relieve hip pain in seconds",
+      "how to fix hip pain fast",
+      "hip pain exercises",
+      "hip pain stretches",
+      "exercises for hip pain",
+      "stretches for hip pain",
+      "fix hip pain in seconds",
+      "relieve hip pain in seconds",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250630",
+    "timestamp": 1751290236,
+    "duration": 678,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/WLOZeqg-CMQ/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:19.106Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

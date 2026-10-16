@@ -1,0 +1,71 @@
+{
+  "youtubeVideoId": "pTqqP7hcKG4",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 649
+    }
+  ],
+  "discoveryRaw": {
+    "id": "pTqqP7hcKG4",
+    "title": "How to Test for Piriformis Syndrome | St. Joseph, MI Chiropractor",
+    "duration": 65,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/pTqqP7hcKG4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBUwDjox2DmzFEWRrMV9avmJrjpA"
+  },
+  "metadataRaw": {
+    "id": "pTqqP7hcKG4",
+    "title": "How to Test for Piriformis Syndrome | St. Joseph, MI Chiropractor",
+    "description": "https://www.bestspinecare.com\n\nPiriformis syndrome is commonly mistaken for herniated disc in the low back, since they have a lot of similar pain patterns. \n.\n➡️ What’s different about pirifomis syndrome, though, is that it’s a muscle issue (and not a spinal joint problem). \n.\nIt occurs when the piriformis muscle (which lies deep to the glute or buttock) spasms and irritates the sciatic nerve. ⚡️⚡️\n.\nSymptoms usually include tenderness and pain in the buttock area, and possible sciatica like shooting pains, numbness, and weakness in the leg.  \n.\n➡️ Long periods of sitting or driving tend to be a main trigger for piriformis issues. Strenuous exercise and unresolved sacroiliac joint, hip, or spinal injuries can also put strain on this muscle. \n.\nSo if there's a lot of pain while walking up stairs, sitting, or running… there’s a chance it could be a piriformis issue. \n.\nWatch the video, do the test, and see if it helps answer some questions! \n\n📣 Don't forget to spread the good word! Questions or comments? Hit me up!⠀\n\n*************************************************\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "piriformis syndrome",
+      "what is piriformis syndrome",
+      "definition of piriformis syndrome",
+      "piriformis syndrome symptoms",
+      "piriformis syndrome diagnosis",
+      "piriformis syndrome treatment",
+      "piriformis syndrome types",
+      "Piriformis Muscle (Muscle)",
+      "piriformis",
+      "sciatic nerve",
+      "sciatica",
+      "chiropractor",
+      "chiropractic",
+      "physical therapy",
+      "physical therapist",
+      "saint joseph",
+      "st joseph",
+      "mi",
+      "michigan",
+      "st joe",
+      "st joseph mi"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20181026",
+    "timestamp": 1540573204,
+    "duration": 65,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/pTqqP7hcKG4/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:21:49.187Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

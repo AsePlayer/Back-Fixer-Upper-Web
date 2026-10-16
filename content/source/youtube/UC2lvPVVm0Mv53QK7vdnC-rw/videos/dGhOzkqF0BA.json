@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "dGhOzkqF0BA",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 98
+    }
+  ],
+  "discoveryRaw": {
+    "id": "dGhOzkqF0BA",
+    "title": "Heal and Repair Your Lower Back WITHOUT SURGERY",
+    "duration": 804,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/dGhOzkqF0BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-YB4P-tUGMsDilpHapT7V3Cdi4g"
+  },
+  "metadataRaw": {
+    "id": "dGhOzkqF0BA",
+    "title": "Heal and Repair Your Lower Back WITHOUT SURGERY",
+    "description": "Dr. Rowe demonstrates exercises designed to help heal and repair lower back injuries—without surgery.\n\nThese movements are aimed at strengthening the lower back and promoting faster recovery. They’re effective for many common issues, including bulging and herniated discs that can also cause sciatica.\n\nTo make it easy to follow, the video is broken down into a simple, step-by-step guide.\n\nWatch now and take a step toward avoiding lower back surgery!\n\nChapters: \n0:00 Intro\n0:56 Warm-Up\n3:31 Back Strengthening\n5:45 Core Strengthening\n6:45 Glutes Strengthening\n8:14 Stretching Exercise 1\n10:58 Stretching Exercise 2\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content.\n\n#lowerbackpain #lowerbackpainrelief #nosurgery",
+    "tags": [
+      "how to heal and repair your lower back without surgery",
+      "how to repair your lower back without surgery",
+      "how to fix your lower back without surgery",
+      "how to heal your lower back without surgery",
+      "repair lower back without surgery",
+      "fix lower back without surgery",
+      "how to avoid back surgery",
+      "fix lower back injury without surgery",
+      "fix back without surgery",
+      "lower back pain",
+      "lower back pain relief",
+      "fix back no surgery",
+      "heal lower back no surgery",
+      "spinecare",
+      "dr rowe",
+      "no surgery"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250619",
+    "timestamp": 1750339841,
+    "duration": 804,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/dGhOzkqF0BA/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:57:22.572Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

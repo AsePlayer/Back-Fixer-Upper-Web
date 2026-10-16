@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "eeDmObROGvE",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 18
+    }
+  ],
+  "discoveryRaw": {
+    "id": "eeDmObROGvE",
+    "title": "How to Relieve SI Joint Pain in 30 SECONDS",
+    "duration": 630,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/eeDmObROGvE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGwv9uVbpgPqufjgpsmzIVpQRwaQ"
+  },
+  "metadataRaw": {
+    "id": "eeDmObROGvE",
+    "title": "How to Relieve SI Joint Pain in 30 SECONDS",
+    "description": "Dr. Rowe demonstrates a collection of proven exercises that target the main muscles responsible for sacroiliac joint (SI joint) pain—designed to deliver fast relief, sometimes in as little as 30 seconds.\n\nEach exercise works differently, engaging specific muscles from various positions. For the best results, try them all and continue using the ones that provide the most relief.\n\nWatch now and feel your sacroiliac joint pain melt away in seconds!\n\nLink to foam roller: https://amzn.to/41KMypi\n\nChapters: \n0:00 Intro\n0:43 SI Joint Opener\n2:31 Knee Press\n3:58 Sacral Roll\n5:35 Step Back Exercise\n6:59 Side Leg Raise (Strengthening)\n9:05 Donkey/Hydrant (Strengthening)\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content.\n\n#sacroiliacjoint #sijoint #sijointpain",
+    "tags": [
+      "how to relieve sacroiliac joint pain in 30 seconds",
+      "how to relieve si joint pain in 30 seconds",
+      "sacroiliac joint",
+      "sacroiliac joint pain",
+      "si joint pain",
+      "sacroiliac joint pain exercises",
+      "stretches for sacroiliac joint pain",
+      "how to fix sacroiliac joint pain",
+      "si joint pain exercises",
+      "what to do for si joint pain",
+      "what to do for sacroiliac joint pain",
+      "how to treat sacroiliac joint pain",
+      "how to cure sacroiliac joint pain",
+      "how to get rid of sacroiliac joint pain",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20260706",
+    "timestamp": 1783344602,
+    "duration": 629,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/eeDmObROGvE/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T22:55:15.251Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

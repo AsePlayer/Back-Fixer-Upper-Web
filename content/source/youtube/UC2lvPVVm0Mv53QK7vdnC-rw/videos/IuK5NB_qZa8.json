@@ -1,0 +1,80 @@
+{
+  "youtubeVideoId": "IuK5NB_qZa8",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 669
+    }
+  ],
+  "discoveryRaw": {
+    "id": "IuK5NB_qZa8",
+    "title": "Ice or Heat for Neck and Back Pain Relief",
+    "duration": 130,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/IuK5NB_qZa8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKMig8Cz4ddE2M2dUYWhU5LNGfHQ"
+  },
+  "metadataRaw": {
+    "id": "IuK5NB_qZa8",
+    "title": "Ice or Heat for Neck and Back Pain Relief",
+    "description": "Ever wondered if ice or heat is better for treating your neck or back pain? In this quick video, Dr. Rowe goes over which is more beneficial, and the answer might surprise you... \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "ice",
+      "heat",
+      "ice or heat",
+      "ice vs heat",
+      "neck pain",
+      "back pain",
+      "low back pain",
+      "sciatica",
+      "pain",
+      "relief",
+      "sprain",
+      "strain",
+      "muscle",
+      "injury",
+      "injuries",
+      "cold therapy",
+      "heat therapy",
+      "hot pack",
+      "cold pack",
+      "treatment",
+      "chiropractor",
+      "chiropractic",
+      "inflammation",
+      "spasm",
+      "swelling",
+      "st. joseph mi",
+      "saint joseph mi",
+      "backache",
+      "ache",
+      "lower back"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180110",
+    "timestamp": 1515594597,
+    "duration": 130,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/IuK5NB_qZa8/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:58:18.671Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "BoqeyUEcNPs",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 2
+    }
+  ],
+  "discoveryRaw": {
+    "id": "BoqeyUEcNPs",
+    "title": "Sciatica at Night? Do THIS Before Bed",
+    "duration": 728,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/BoqeyUEcNPs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ8Ej84gDya7tEr3NvrZS7uc9wxw"
+  },
+  "metadataRaw": {
+    "id": "BoqeyUEcNPs",
+    "title": "Sciatica at Night? Do THIS Before Bed",
+    "description": "Dr. Rowe shows easy exercises to help relieve sciatica pain at night so you can sleep more comfortably.\n\nIf sciatica keeps you awake or gets worse when lying in bed, reducing tension and pressure on the sciatic nerve before sleep can make a big difference.\n\nIn this video, Dr. Rowe demonstrates simple exercises designed to target common causes of nighttime sciatica pain. Best of all, they can be done right in bed—either before going to sleep or in the middle of the night when you need quick relief.\n\nEach exercise works differently, so go through them all and use the ones that give you the most relief.\n\nGive these exercises a try tonight and see if they help you sleep better with less sciatica pain.\n\nChapters:\n0:00 Intro\n0:49 Warm-Up\n2:04 Muscle Release\n4:01 Muscle Release (Seated)\n6:15 Press Up\n8:20 Nerve Flossing\n10:05 Nerve Flossing (Seated)\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#sciatica #sciaticarelief #sleepbetter",
+    "tags": [
+      "how to stop sciatica at night",
+      "how to get rid of sciatica at night",
+      "how to fix sciatica at night",
+      "how to fix sciatica while sleeping",
+      "how stop sciatica while sleeping",
+      "how get rid of sciatica in bed",
+      "how to fix sciatica in bed",
+      "how to get rid of sciatica in bed",
+      "sciatica stretches before bed",
+      "sciatica exercises before bed",
+      "sciatica pain relief exercises before bed",
+      "sciatica pain relief before bed",
+      "sciatica pain relief exercises at night",
+      "sciatica",
+      "spinecare",
+      "dr rowe",
+      "sciatica pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20261005",
+    "timestamp": 1791207016,
+    "duration": 728,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/BoqeyUEcNPs/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-16T15:28:52.535Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "3YSc_SjAvAc",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 682
+    }
+  ],
+  "discoveryRaw": {
+    "id": "3YSc_SjAvAc",
+    "title": "Degenerative Disc Disease: Progression, Symptoms, and What to Do About It.",
+    "duration": 232,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/3YSc_SjAvAc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzKK3S_Z9nbZQdsXr7HtDU4IOKlw"
+  },
+  "metadataRaw": {
+    "id": "3YSc_SjAvAc",
+    "title": "Degenerative Disc Disease: Progression, Symptoms, and What to Do About It.",
+    "description": "Here's a helpful video that explains the progression and symptoms of degenerative disc disease in the spine. \n\nHere at SpineCare Decompression and Chiropractic Center in St. Joseph MI, we’re great at treating low back and sciatica pain. \n\nWith thousands of individual sciatica pain treatments given over the years, I can confidently say to you that REAL relief can be experienced, sometimes as early as your very first treatment session.\n\nIf you are looking for effective back and neck pain relief, contact us at 269-408-8439 or visit us at https://www.bestspinecare.com\n\n3134 Niles Rd\nSt. Joseph, MI 49085",
+    "tags": [
+      "chiropractor st. joseph mi",
+      "chiropractic st joseph mi",
+      "degenerative disc disease",
+      "chiropractor 49085",
+      "arthritis",
+      "degenerative disc disease causes",
+      "degenerative disc disease treatment",
+      "degenerative disc disease symptoms",
+      "degenerative disc disease chiropractic",
+      "degenerative disc disease cure",
+      "degenerative disc disease neck",
+      "degenerative disc disease low back",
+      "ddd",
+      "degenerative arthritis",
+      "degenerative disease",
+      "disc degeneration disease"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170813",
+    "timestamp": 1502659955,
+    "duration": 231,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/3YSc_SjAvAc/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:00:02.375Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

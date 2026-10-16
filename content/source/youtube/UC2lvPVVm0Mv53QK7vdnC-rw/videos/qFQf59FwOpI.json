@@ -1,0 +1,59 @@
+{
+  "youtubeVideoId": "qFQf59FwOpI",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 686
+    }
+  ],
+  "discoveryRaw": {
+    "id": "qFQf59FwOpI",
+    "title": "Best Neck Pain Stretches for Instant Relief, Shown by St. Joseph MI Chiropractor",
+    "duration": 94,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/qFQf59FwOpI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWVeYthJoGdLb8Z0JFfyV_BBlikg"
+  },
+  "metadataRaw": {
+    "id": "qFQf59FwOpI",
+    "title": "Best Neck Pain Stretches for Instant Relief, Shown by St. Joseph MI Chiropractor",
+    "description": "https://www.bestspinecare.com\n\nDr. Rowe, St. Joseph MI chiropractor, demonstrates 3 easy neck stretches to help alleviate tight neck muscles and nagging cervical joint pain. \n\nStevensville | Benton Harbor | St. Joseph MI Chiropractic Center",
+    "tags": [
+      "st joseph mi chiropractor",
+      "st joseph mi chiropractic",
+      "chiropractor 49085",
+      "neck pain",
+      "neck stretches",
+      "cervical pain",
+      "tight muscles",
+      "neck pain relief",
+      "text neck"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170607",
+    "timestamp": 1496878454,
+    "duration": 93,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/qFQf59FwOpI/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:23:49.882Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

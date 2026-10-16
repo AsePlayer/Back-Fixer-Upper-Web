@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "isFSckemZvU",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 131
+    }
+  ],
+  "discoveryRaw": {
+    "id": "isFSckemZvU",
+    "title": "3 Steps to Help Avoid Back Surgery",
+    "duration": 876,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/isFSckemZvU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVgfHGFmKZqg6f3nfp98lobxMhhg"
+  },
+  "metadataRaw": {
+    "id": "isFSckemZvU",
+    "title": "3 Steps to Help Avoid Back Surgery",
+    "description": "Dr. Rowe shares a 3-step method for those seeking alternatives to back surgery.\n\nIf you've consulted with a surgeon and been advised that physical therapy or chiropractic care could help avoid surgery, this video is for you.\n\nWe’ll walk you through 3 steps designed to promote healing and strengthen your back.\n\nBe sure to follow all the steps and focus on what works best for you.\n\nChapters: \n0:00 Intro\n1:14 Circulation\n3:21 Strengthening Exercise 1\n5:07 Strengthening Exercise 2\n6:18 Strengthening Exercise 3\n8:05 Decompress Exercise 1\n10:41 Decompress Exercise 2\n12:29 Bonus Tips!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief -- visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://x.com/stjoechiro\nInstagram: https://www.instagram.com/drmichaelrowe\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may receive commissions when you click on this video's links and make purchases. This helps support our channel so we can continue to give you helpful content. \n\n#cracking #upperbackpain #chiropractic",
+    "tags": [
+      "how to avoid back surgery",
+      "how to prevent back surgery",
+      "avoid spine surgery",
+      "how to avoid spine surgery",
+      "non-surgical back solutions",
+      "avoiding back surgery tips",
+      "back healing without surgery",
+      "safe alternatives to back surgery",
+      "avoiding back surgery with exercise",
+      "how to fix back pain without surgery",
+      "how to fix back without surgery",
+      "how to fix lower back without surgery",
+      "3 steps to avoid back surgery",
+      "back pain",
+      "lower back pain",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20241230",
+    "timestamp": 1735569018,
+    "duration": 876,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/isFSckemZvU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:06:35.261Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

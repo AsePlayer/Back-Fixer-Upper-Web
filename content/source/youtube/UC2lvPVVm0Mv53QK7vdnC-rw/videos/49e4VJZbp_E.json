@@ -1,0 +1,75 @@
+{
+  "youtubeVideoId": "49e4VJZbp_E",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 677
+    }
+  ],
+  "discoveryRaw": {
+    "id": "49e4VJZbp_E",
+    "title": "Neck Pain from Pinched Nerve Explained (Animated Video)",
+    "duration": 116,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/49e4VJZbp_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfUku4ygKhR4wYKDex8eOe7cRzuQ"
+  },
+  "metadataRaw": {
+    "id": "49e4VJZbp_E",
+    "title": "Neck Pain from Pinched Nerve Explained (Animated Video)",
+    "description": "Are you wondering if you might have neck, shoulder, or arm pain from a pinched nerve? \n\nIn this animated video, Dr. Rowe (St. Joseph MI Chiropractor) gives an overview of how a pinched nerve can cause neck pain, numbness, and tingling. \n\nAlso, he goes over a main reason for a pinched nerve in the neck: a cervical disc herniation. \n\nhttps://www.BestSpineCare.com\n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw\n\nYour local Stevensville | Benton Harbor | St. Joseph, MI Chiropractor",
+    "tags": [
+      "pinched nerve",
+      "pinched nerves",
+      "Radiculopathy",
+      "cervical spine",
+      "cervical pain",
+      "neck pain",
+      "disc herniation",
+      "disc bulge",
+      "numbness",
+      "tingling",
+      "shoulder pain",
+      "nerve pain",
+      "cervical disc",
+      "neck pain chiropractor",
+      "chiropractor",
+      "chiropractic",
+      "arm pain",
+      "radicular pain",
+      "nerve pinch",
+      "st joseph mi chiropractor",
+      "what is a pinched nerve",
+      "what causes pinched nerve",
+      "pinched nerve pain",
+      "pinched nerve in neck",
+      "pinched nerve symptoms"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20171001",
+    "timestamp": 1506881071,
+    "duration": 115,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/49e4VJZbp_E/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:00:15.904Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

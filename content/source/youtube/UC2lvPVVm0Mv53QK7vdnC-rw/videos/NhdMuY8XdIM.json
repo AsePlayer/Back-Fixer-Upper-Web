@@ -1,0 +1,61 @@
+{
+  "youtubeVideoId": "NhdMuY8XdIM",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 688
+    }
+  ],
+  "discoveryRaw": {
+    "id": "NhdMuY8XdIM",
+    "title": "5 WARNING Signs of a Whiplash Injury | Discussed by St. Joseph MI Chiropractor",
+    "duration": 211,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/NhdMuY8XdIM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgeQMxUw_0iMgqizOMISefvWfKDg"
+  },
+  "metadataRaw": {
+    "id": "NhdMuY8XdIM",
+    "title": "5 WARNING Signs of a Whiplash Injury | Discussed by St. Joseph MI Chiropractor",
+    "description": "Been in a recent car accident and think you might have whiplash?\n\nHere are 5 important symptoms of a whiplash injury you'll want to immediately get checked out by a chiropractor.\n\nYour local St. Joseph | Benton Harbor | Stevensville, MI chiropractic office\n\n3134 Niles Rd\nSaint Joseph, MI 49085\nhttps://www.bestspinecare.com",
+    "tags": [
+      "chiropractor st joseph mi",
+      "chiropractic st joseph mi",
+      "chiropractor 49085",
+      "stevensville mi chiropractor",
+      "stevensville mi chiropractic",
+      "benton harbor mi chiropractor",
+      "whiplash",
+      "car accident",
+      "auto accident",
+      "whiplash (disease or medical condition)",
+      "neck pain"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20170510",
+    "timestamp": 1494377383,
+    "duration": 210,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/NhdMuY8XdIM/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:10:59.505Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

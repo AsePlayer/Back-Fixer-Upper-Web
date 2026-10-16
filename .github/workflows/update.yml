@@ -1,0 +1,90 @@
+name: Update YouTube catalog
+on:
+  schedule:
+    - cron: '17 16 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [auto, incremental, full]
+        default: auto
+      creator:
+        description: 'Configured creator ID or all enabled creators'
+        type: string
+        default: all
+      dry_run:
+        type: boolean
+        default: false
+permissions: {}
+concurrency:
+  group: content-writer
+  cancel-in-progress: false
+jobs:
+  writer:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    outputs:
+      commit: ${{ steps.commit.outputs.commit }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13'
+      - run: npm ci
+      - name: Install pinned metadata extractor
+        run: python -m pip install yt-dlp==2026.6.9
+      - name: Bounded discovery and validated publication
+        id: update
+        continue-on-error: true
+        env:
+          BFU_MODE: ${{ inputs.mode || 'auto' }}
+          BFU_CREATOR: ${{ inputs.creator || 'all' }}
+          BFU_DRY_RUN: ${{ inputs.dry_run || false }}
+        run: node scripts/run-update.mjs
+      - name: Validate durable progress and last usable catalog
+        run: |
+          npx tsx scripts/audit-cache.ts
+          npm run verify
+      - name: Commit allowlisted content progress
+        id: commit
+        if: ${{ !inputs.dry_run }}
+        env:
+          BFU_BRANCH: ${{ github.event.repository.default_branch }}
+        run: node scripts/commit-content.mjs
+      - name: Run summary
+        if: always()
+        run: node scripts/update-summary.mjs
+      - name: Preserve a rejected bot commit for review and a PR
+        if: failure() && steps.commit.outcome == 'failure'
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+        with:
+          name: content-writer-recovery
+          path: .tmp/content-writer.patch
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 7
+      - name: Report incomplete source check
+        if: steps.update.outcome == 'failure'
+        run: |
+          echo 'Source check incomplete. Durable progress retained where valid; public catalog/deployment withheld. See the run summary.'
+          exit 1
+  pages:
+    needs: writer
+    if: ${{ !inputs.dry_run && needs.writer.result == 'success' }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
+    with:
+      ref: ${{ needs.writer.outputs.commit }}

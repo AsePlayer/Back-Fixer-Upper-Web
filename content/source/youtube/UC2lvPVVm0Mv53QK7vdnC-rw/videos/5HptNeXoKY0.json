@@ -1,0 +1,69 @@
+{
+  "youtubeVideoId": "5HptNeXoKY0",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 190
+    }
+  ],
+  "discoveryRaw": {
+    "id": "5HptNeXoKY0",
+    "title": "This Simple Trick Will Clear Your Stuffy Nose in Seconds! 👀",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/5HptNeXoKY0/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDs33wxyzlz6vPi-Dyb9tTh4CK5Ew&usqp=CCk"
+  },
+  "metadataRaw": {
+    "id": "5HptNeXoKY0",
+    "title": "This Simple Trick Will Clear Your Stuffy Nose in Seconds! 👀",
+    "description": "Dr. Rowe demonstrates a fast and effective way to relieve nasal congestion.\n\nIf you're struggling with a stuffy nose, this simple method can provide relief in just 30 seconds—anytime, anywhere.\n\nWatch now and breathe easier!\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#stuffynose #nasalcongestion #congestion",
+    "tags": [
+      "How to Instantly Fix a Stuffy Nose",
+      "how to instantly relieve a stuffy nose",
+      "how to clear a stuffy nose",
+      "stuffy nose",
+      "stuffy nose relief",
+      "stuffy nose home remedies",
+      "nasal congestion",
+      "How To Clear A Stuffy Nose Instantly",
+      "how to fix a stuffy nose fast",
+      "how to unclog your nose",
+      "how to unclog your nose instantly",
+      "how to clear stuffy nose",
+      "congested nose",
+      "nose congestion",
+      "blocked nose",
+      "clogged nose",
+      "what to do if you have a stuffy nose",
+      "nose stuffed",
+      "spinecare",
+      "dr rowe"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20250216",
+    "timestamp": 1739716203,
+    "duration": 45,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/5HptNeXoKY0/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCYFJDEDpavZssLA4sqX5JHBVDemA"
+  },
+  "enrichedAt": "2026-10-10T23:00:34.214Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

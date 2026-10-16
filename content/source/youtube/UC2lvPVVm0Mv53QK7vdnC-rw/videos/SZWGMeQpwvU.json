@@ -1,0 +1,67 @@
+{
+  "youtubeVideoId": "SZWGMeQpwvU",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 1
+    }
+  ],
+  "discoveryRaw": {
+    "id": "SZWGMeQpwvU",
+    "title": "Fix Lower Back Pain FOR GOOD: 5 Safe Core Exercises",
+    "duration": 651,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/SZWGMeQpwvU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY8BC5rQafa8pQ--rXDF79YxPOaA"
+  },
+  "metadataRaw": {
+    "id": "SZWGMeQpwvU",
+    "title": "Fix Lower Back Pain FOR GOOD: 5 Safe Core Exercises",
+    "description": "Dr. Rowe shows 5 safe core exercises designed to help fix lower back pain and provide long-lasting relief.\n\nEach exercise works differently by strengthening important core and lower back muscles, and will be demonstrated in different positions.\n\nFor the best results, go through all 5 exercises and use the ones that feel best and give you the most relief.\n\nChapters:\n0:00 Intro\n0:33 Exercise 1\n1:54 Exercise 2\n4:03 Exercise 3\n5:46 Exercise 4\n8:13 Exercise 5\n\n***************************\n\nDr. Michael Rowe\nChiropractor | St. Joseph, Michigan\n\nFor effective relief from neck, back, or sciatica pain -- visit us at BestSpineCare.com.\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://www.x.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Road Unit B\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nThe information in this video or on this website is for informational and demonstration purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.\n\nDo not rely on this content as a replacement for the care and advice of your doctor or healthcare provider. Always consult with a healthcare professional before acting on any information presented.\n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) from any losses, injuries, or damages arising from your use or misuse of this content. We make no guarantees regarding the accuracy or suitability of this material.\n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may earn commissions if you click on the links in this video and make a purchase. This helps support our channel and allows us to continue providing helpful content. \n\n#coreexercises #corestrength #lowerbackpain",
+    "tags": [
+      "core and back exercises",
+      "core and back exercises for beginners",
+      "core exercises for back pain and sciatica",
+      "core exercises for back pain",
+      "core exercises for lower back pain",
+      "strengthening exercises for back pain",
+      "core muscle strengthening exercises for back pain",
+      "back pain relief exercises",
+      "back pain",
+      "back pain relief",
+      "lower back pain relief",
+      "core workout for back pain",
+      "how to strengthen core and back",
+      "how to strengthen core and lower back",
+      "dr rowe",
+      "spinecare",
+      "core workout"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20261012",
+    "timestamp": 1791811803,
+    "duration": 651,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/SZWGMeQpwvU/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-16T15:29:37.311Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

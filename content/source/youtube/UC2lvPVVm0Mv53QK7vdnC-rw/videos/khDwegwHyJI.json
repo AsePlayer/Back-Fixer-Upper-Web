@@ -1,0 +1,73 @@
+{
+  "youtubeVideoId": "khDwegwHyJI",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 141
+    }
+  ],
+  "discoveryRaw": {
+    "id": "khDwegwHyJI",
+    "title": "How to Instantly Relieve Shin Pain",
+    "duration": 782,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/khDwegwHyJI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHz2I7GTMTjC-y7dDefHWpbsJIoA"
+  },
+  "metadataRaw": {
+    "id": "khDwegwHyJI",
+    "title": "How to Instantly Relieve Shin Pain",
+    "description": "Dr. Rowe shows how to quickly fix shin pain.\n\nA major cause of shin pain (including shin splints) is due to repetitive stress and injury on the muscles and tendons that support this area. This includes the tibialis anterior muscle.\n\nOver time, this leads to a blend of weakness and tightness and (eventually) pain.\n\nTo fix this, we'll go over 3 different methods to help release muscle tightness, stretch, and strengthen these muscles for both quick and long-lasting shin pain relief.\n\nTo get the best results, go through all the exercises and use what gives the most relief.\n\nWatch now and instantly fix shin pain at home!\n\nChapters: \n0:00 Intro\n0:42 Muscle Release\n5:58 Stretching\n7:48 Tibialis Anterior Strengthening\n9:45 Calf Muscles Strengthening\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph, Michigan chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief -- visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nX: https://x.com/stjoechiro\nInstagram: https://www.instagram.com/drmichaelrowe\n\nYour local St. Joseph | Benton Harbor | Stevensville Michigan chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational and demonstration purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider. \n\nDon’t use this content as a replacement for treatment and advice given by your doctor or health care provider. Consult with your doctor or healthcare professional before doing anything contained in this content. \n\nBy watching this video, you agree to indemnify and hold harmless SpineCare Decompression and Chiropractic Center (and its representatives) for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. SpineCare Decompression and Chiropractic Center makes no representations about the accuracy or suitability of this content.  \n\nUSE OF THIS CONTENT IS AT YOUR OWN RISK.\n\n- AFFILIATE DISCLAIMER -\n\nWe may receive commissions when you click on this video's links and make purchases. This helps support our channel so we can continue to give you helpful content. \n\n#shinpain #shinsplints #legpain",
+    "tags": [
+      "how to instantly relieve shin pain",
+      "how to relieve shin pain",
+      "how to fix shin pain",
+      "how to treat shin pain",
+      "shin pain",
+      "shin pain relief",
+      "shin pain relief exercises",
+      "shin pain relief stretches",
+      "exercises for shin pain relief",
+      "stretches for shin pain relief",
+      "shin bone pain",
+      "shin bone pain exercises",
+      "shin splints",
+      "shin splints exercises",
+      "pain in shin",
+      "pain in shin muscle",
+      "pain in shin bone",
+      "spinecare",
+      "dr rowe",
+      "leg pain",
+      "pain over leg and shin",
+      "leg pain relief",
+      "pain over shin"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20241121",
+    "timestamp": 1732199428,
+    "duration": 782,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/khDwegwHyJI/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T01:10:57.859Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "youtubeVideoId": "ZyQlvr5Fnao",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 623
+    }
+  ],
+  "discoveryRaw": {
+    "id": "ZyQlvr5Fnao",
+    "title": "Rotator Cuff Injury Treatment (AT HOME)",
+    "duration": 288,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/ZyQlvr5Fnao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBczsJj6_H9IJyWvUS8XNfgaOxAUQ"
+  },
+  "metadataRaw": {
+    "id": "ZyQlvr5Fnao",
+    "title": "Rotator Cuff Injury Treatment (AT HOME)",
+    "description": "Got rotator cuff and shoulder pain and need some help?\n\nIn this video, Dr. Rowe helps tackle shoulder pain and shoulder impingement by going over exercises that target a group of 4 muscles and their tendons known as the rotator cuff. \n\nThe rotator cuff is made up of 4 small muscles (the supraspinatus, infraspinatus, teres minor and subscapularis).\n\nThey work as a group to help stabilize the shoulder joint, especially with rotating and raising the arm overhead. \n\nWith these exercises, we’re going to focus on activating the rotator cuff, loosening it up,  and helping to decrease the likelihood of shoulder impingement while doing overhead or reaching motions. \n\nAll these exercises are easy to do, don't require any fancy equipment, and can be done at home. \n\nWatch now and take one step towards better health!\n\n***************************\n\nDr. Michael Rowe\nSt. Joseph MI chiropractor\n\nIf you are looking for effective neck, back, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nFacebook: https://www.facebook.com/bestspinecare\nTwitter: https://www.twitter.com/stjoechiro\nInstagram: https://www.instagram.com/stjoechiro\n\nYour local St. Joseph | Benton Harbor | Stevensville MI chiropractor\n\nSpineCare Decompression and Chiropractic Center\n3134 Niles Rd\nSaint Joseph, MI 49085\n\n**MEDICAL DISCLAIMER**\n\nAll information, content, and material of this video or website is for informational purposes only. It is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.\n\n#rotatorcuff #rotatorcuffinjury #shoulderinjury",
+    "tags": [
+      "rotator cuff injury treatment",
+      "rotator cuff injury",
+      "rotator cuff injury exercises",
+      "rotator cuff injury exercises at home",
+      "rotator cuff injury stretches",
+      "shoulder injury treatment",
+      "shoulder injury treatment at home",
+      "how to fix rotator cuff injury",
+      "how to strengthen rotator cuff after injury",
+      "what to do for rotator cuff injury",
+      "shoulder impingement treatment",
+      "how to treat shoulder pain at home",
+      "spinecare",
+      "dr rowe",
+      "rotator cuff",
+      "shoulder injury"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20191008",
+    "timestamp": 1570550405,
+    "duration": 287,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/ZyQlvr5Fnao/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-11T00:42:41.159Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}

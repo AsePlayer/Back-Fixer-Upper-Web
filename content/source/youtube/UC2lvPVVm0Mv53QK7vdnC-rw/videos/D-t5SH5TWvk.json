@@ -1,0 +1,87 @@
+{
+  "youtubeVideoId": "D-t5SH5TWvk",
+  "discoveries": [
+    {
+      "surface": "videos",
+      "kind": "video",
+      "order": 657
+    }
+  ],
+  "discoveryRaw": {
+    "id": "D-t5SH5TWvk",
+    "title": "How to Relieve Mid Back Pain in Seconds",
+    "duration": 146,
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/D-t5SH5TWvk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxVFifLWXuoayvIusJpBBBcMpF9g"
+  },
+  "metadataRaw": {
+    "id": "D-t5SH5TWvk",
+    "title": "How to Relieve Mid Back Pain in Seconds",
+    "description": "So here's a really good way to decrease mid back pain, especially if it's caused by sitting at your desk or computer. \n\nThis exercise is designed to help strengthen the rhomboid muscles, which get strained and achy from a lot of forward posture while you work at a computer or desk. \n\nBy strengthening the rhomboid muscles, it will help decrease fatigue during the day, improve your posture, and give you less achy pain throughout the day. \n\nGive them a try and let us know how they worked for you. Also, if you have any tips of your own on how to relieve mid back pain, please leave them below in the comments section!\n\n\nAt SpineCare Decompression and Chiropractic Center in St. Joseph, MI, our goal is to not only provide quick relief for an spine-related injury, but also to treat its underlying causes. \n\nTo understand what may be contributing to your pain or other symptoms, we perform a thorough examination of your muscles, ligaments, joints and posture, and discuss any past injuries and lifestyle habits that may be contributing to your condition.\n\nDr. Rowe, chiropractor in St. Joseph, MI, has advanced training in complex joint and soft tissue problems that may cause neck and back pain and draws from a variety of treatment techniques, including chiropractic and spinal decompression therapy. \n\nIf you are looking for effective back, neck, or sciatica pain relief, contact us at 269-408-8439 or visit us at https://www.BestSpineCare.com\n\nMichael Rowe, DC\nSt. Joseph, MI Chiropractor \n\n3134 Niles Rd  \nSaint Joseph, MI 49085\n269-408-8439\n\nYour local chiropractor in Stevensville | Benton Harbor | St. Joseph, MI \n\nLike us on Facebook:\nhttps://www.facebook.com/bestspinecare\n\nFollow us on Twitter:\nhttps://www.twitter.com/stjoechiro\n\nSubscribe to our YouTube channel:\nhttps://www.youtube.com/channel/UC2lvPVVm0Mv53QK7vdnC-rw",
+    "tags": [
+      "mid back",
+      "middle back",
+      "pain",
+      "tightness",
+      "ache",
+      "achy",
+      "relief",
+      "treatment",
+      "stretch",
+      "stretching",
+      "exercise",
+      "exercises",
+      "therapy",
+      "cure",
+      "rhomboid",
+      "rhomboids",
+      "muscle",
+      "thoracic",
+      "fix mid back pain",
+      "fix middle back pain",
+      "fix",
+      "spasm",
+      "tight",
+      "chiropractor",
+      "st. joseph",
+      "saint joseph",
+      "st. joe",
+      "mi",
+      "michigan",
+      "work",
+      "office",
+      "seated",
+      "posture",
+      "how to",
+      "computer",
+      "chair",
+      "forward"
+    ],
+    "categories": [
+      "People & Blogs"
+    ],
+    "upload_date": "20180222",
+    "timestamp": 1519266632,
+    "duration": 146,
+    "channel": "SpineCare Decompression and Chiropractic Center",
+    "channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "uploader": "SpineCare Decompression and Chiropractic Center",
+    "uploader_id": "@DrRowe",
+    "availability": "public",
+    "live_status": "not_live",
+    "is_live": false,
+    "was_live": false,
+    "thumbnail": "https://i.ytimg.com/vi/D-t5SH5TWvk/maxresdefault.jpg"
+  },
+  "enrichedAt": "2026-10-10T23:41:27.279Z",
+  "extractorVersion": "2026.06.09",
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache",
+    "sourceRepository": "AsePlayer/Back-FIxer-Upper",
+    "sourceSha": "ffcfdddc4c1107ea269d9a8696b77976ca14f2d4"
+  }
+}
