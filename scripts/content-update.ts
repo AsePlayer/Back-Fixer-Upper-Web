@@ -32,7 +32,9 @@ export async function update(options:{root?:string;mode?:string;creator?:string;
     const full=mode==='full'||mode==='auto'&&(!previous?.lastFullReconcileAt||Date.now()-Date.parse(previous.lastFullReconcileAt)>=policy.fullEveryDays*86400000);
     try{
       const state=await syncChannel(provider,cache,creator,{full,concurrency:policy.metadataWorkers,requestDelayMs:policy.requestDelayMs,enrichmentLimit:policy.enrichmentLimit,knownStreak:policy.knownStreak,recentRefreshCount:policy.recentRefreshCount,recentFreshnessHours:policy.recentFreshnessHours,refreshStale:true,staleDays:policy.staleDays,minimumFullInventoryRatio:policy.minimumFullInventoryRatio,deadline});
-      states.push({creator:creator.id,outcome:state.outcome,full,...(state.errors.length?{issues:state.errors.map(e=>({context:e.context,message:e.message.slice(0,500)})))}:{})});if(state.outcome!=='successful')successful=false;
+      const issues=state.errors.map(error=>({context:error.context,message:error.message.slice(0,500)}));
+      states.push({creator:creator.id,outcome:state.outcome,full,...(issues.length?{issues}:{})});
+      if(state.outcome!=='successful')successful=false;
     }catch(error){successful=false;states.push({creator:creator.id,outcome:'failed',full,error:(error instanceof Error?error.message:String(error)).slice(0,500)});}
   }
   const after=await inventoryHashes(cacheRoot);let changedRecords=0;for(const [path,digest]of after)if(before.get(path)!==digest&&/videos[\\/]/.test(path))changedRecords++;
