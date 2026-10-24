@@ -11,12 +11,12 @@
   "outcome": "partial",
   "surfaces": {
     "videos": {
-      "status": "stopped",
-      "scanned": 20
+      "status": "complete",
+      "scanned": 700
     },
     "shorts": {
-      "status": "stopped",
-      "scanned": 20
+      "status": "complete",
+      "scanned": 611
     },
     "streams": {
       "status": "absent",
@@ -38,7 +38,7 @@
   "newestKnownPublishedAt": "2026-10-14",
   "bootstrapRequiresFullDiscovery": false,
   "bootstrapSourceCheck": "2026-10-16T16:00:29.381Z",
-  "lastSyncStartedAt": "2026-10-23T19:57:45.638Z",
+  "lastSyncStartedAt": "2026-10-24T18:48:10.309Z",
   "lastSyncCompletedAt": "2026-10-16T22:09:39.727Z",
   "lastFullReconcileAt": "2026-10-16T21:04:12.079Z"
 }
