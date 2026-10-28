@@ -16,7 +16,7 @@
     },
     "shorts": {
       "status": "complete",
-      "scanned": 612
+      "scanned": 613
     },
     "streams": {
       "status": "absent",
@@ -25,7 +25,7 @@
   },
   "errors": [
     {
-      "context": "aBBLGm39JJM",
+      "context": "Dx_Uk18oa0k",
       "message": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nWARNING: [youtube] Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\nWARNING: No video formats found!\nWARNING: Requested format is not available"
     },
     {
@@ -38,7 +38,7 @@
   "newestKnownPublishedAt": "2026-10-14",
   "bootstrapRequiresFullDiscovery": false,
   "bootstrapSourceCheck": "2026-10-16T16:00:29.381Z",
-  "lastSyncStartedAt": "2026-10-27T20:42:47.070Z",
+  "lastSyncStartedAt": "2026-10-28T21:06:33.624Z",
   "lastSyncCompletedAt": "2026-10-16T22:09:39.727Z",
   "lastFullReconcileAt": "2026-10-16T21:04:12.079Z"
 }

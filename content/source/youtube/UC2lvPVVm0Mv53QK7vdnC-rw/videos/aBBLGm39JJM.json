@@ -4,7 +4,7 @@
     {
       "surface": "shorts",
       "kind": "short",
-      "order": 2
+      "order": 3
     }
   ],
   "discoveryRaw": {
@@ -13,7 +13,7 @@
     "playlist_channel": "SpineCare Decompression and Chiropractic Center",
     "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
     "playlist_uploader_id": "@DrRowe",
-    "thumbnail": "https://i.ytimg.com/vi/aBBLGm39JJM/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAwogWazDf-2LmuW2Phv19Vw4aXlw"
+    "thumbnail": "https://i.ytimg.com/vi/aBBLGm39JJM/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAONbcmSvwhZzM9irbM_fqeZEN7yw"
   },
   "presence": "present",
   "cacheSchemaVersion": 1,
