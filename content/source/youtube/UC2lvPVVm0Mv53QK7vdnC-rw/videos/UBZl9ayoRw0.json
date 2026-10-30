@@ -4,7 +4,7 @@
     {
       "surface": "videos",
       "kind": "video",
-      "order": 512
+      "order": 511
     }
   ],
   "discoveryRaw": {
