@@ -1,0 +1,27 @@
+{
+  "youtubeVideoId": "G3vVR2fAFUU",
+  "discoveries": [
+    {
+      "surface": "shorts",
+      "kind": "short",
+      "order": 1
+    }
+  ],
+  "discoveryRaw": {
+    "id": "G3vVR2fAFUU",
+    "title": "INSTANT Lower Back Pain Relief (Decompression Exercise)",
+    "playlist_channel": "SpineCare Decompression and Chiropractic Center",
+    "playlist_channel_id": "UC2lvPVVm0Mv53QK7vdnC-rw",
+    "playlist_uploader_id": "@DrRowe",
+    "thumbnail": "https://i.ytimg.com/vi/G3vVR2fAFUU/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA9d8fuh5qpzNFnLHfqgJS6M25e-g"
+  },
+  "presence": "present",
+  "cacheSchemaVersion": 1,
+  "provenance": {
+    "kind": "sanitized-extractor-cache"
+  },
+  "lastError": {
+    "at": "2026-11-22T21:47:17.254Z",
+    "message": "WARNING: [youtube] Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)\nWARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] This content isn’t available.\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+  }
+}
